@@ -4,6 +4,7 @@
 
 * Christine Harlow (University of Tennessee, Knoxville)
 * Jennifer Eustis (University of Connecticut Libraries, Storrs)
+* Mark Noble (Marmot Library Network, Colorado)
 
 ##Terms of reference
 
