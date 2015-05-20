@@ -2,7 +2,7 @@
 
 ##Conveners
 
-* Christine Harlow (University of Tennessee, Knoxville)
+* Christina Harlow (University of Tennessee, Knoxville)
 * Jennifer Eustis (University of Connecticut Libraries, Storrs)
 
 ##Terms of reference
