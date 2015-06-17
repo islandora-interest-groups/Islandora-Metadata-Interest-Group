@@ -2,8 +2,9 @@
 
 ##Conveners
 
-* Christina Harlow (University of Tennessee, Knoxville)
 * Jennifer Eustis (University of Connecticut Libraries, Storrs)
+* Christina Harlow (University of Tennessee, Knoxville)
+* Mark Noble (Marmot Library Network)
 
 ##Terms of reference
 
