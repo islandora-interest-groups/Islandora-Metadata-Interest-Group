@@ -7,7 +7,7 @@
 
 ---
 #### Agenda Items:
-- Review of Metadata Interest Group goals, notes, Islandora Google Group  
+##### Review of Metadata Interest Group goals, notes, Islandora Google Group  
 
 The Terms of Reference for the MIG look good. We will add that meetings are open to everyone. We might also add microdata and modeling.
 
@@ -16,7 +16,7 @@ Chairing & Note taking: If you are interested in chairing or taking notes, just 
 MIG Github Wiki: https://github.com/Islandora/Islandora-Metadata-Interest-Group/wiki. This will be used for documentation.
 
 
-- Meeting plans - platform, frequency  
+##### Meeting plans - platform, frequency  
 
 The MIG site is https://github.com/Islandora/Islandora-Metadata-Interest-Group/. We plan to have a monthly standing meeting. Monday is a good day since not many other Islandora IG's have meetings on that day. A survey will be sent out on Islandora Google Group to find a time and a Monday (1st, 2nd, etc.) that is convenient. This survey will also ask people to provide their name and affiliation if they would like to be listed as participants of MIG. This information will be added to our MIG Github site. 
 
@@ -26,17 +26,19 @@ Meetings are open to anyone who wants to attend. Meeting times will be posted to
 
 Subgroups: We will let the MIG develop organically where more than likely there will be subgroups.
 
-- Other topics (please add or bring to meeting)  
+##### Other topics (please add or bring to meeting)  
 
 Microdata and modeling: This might be a topic for a subgroup.
 List of tools and scripts: It would be great to start of documentating a list of tools, scripts and resources that people use with Islandora. These resources can be added to our MIG Github Wiki.
 Portland Common Data Model (https://wiki.duraspace.org/display/FF/Portland+Common+Data+Model): This could be an interesting topic for the group. PCDM or PREMIS?
 Hydra group: We can draw on the work done by this group. It would be a good idea to hang out on other groups to get ideas.
 
-- Action Items  
+##### Action Items  
 
 Send out survey for standing meeting and list of participants
 Create MIG Github Wiki page
 Get ideas from Hydra Group and other groups if possible
 Add resources to MIG Github Wiki on resources and tools that already exist for Islandora metadata
 
+##### Next Meeting  
+This will be posted after this Friday.
