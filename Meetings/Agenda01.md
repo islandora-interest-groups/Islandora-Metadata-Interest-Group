@@ -2,8 +2,9 @@
 # Monday, June 22, 2015
 # 11 -12 pm EST
 ---
-Chair: Christina Marie Harlow
-Notes: Jennifer Eustis
+#### Chair: Christina Marie Harlow
+#### Notes: Jennifer Eustis
+
 ---
 Agenda Items:
 - Review of Metadata Interest Group goals, notes, Islandora Google Group
@@ -24,14 +25,14 @@ Meetings are open to anyone who wants to attend. Meeting times will be posted to
 Subgroups: We will let the MIG develop organically where more than likely there will be subgroups.
 
 - Other topics (please add or bring to meeting)
-* Microdata and modeling: This might be a topic for a subgroup.
-* List of tools and scripts: It would be great to start of documentating a list of tools, scripts and resources that people use with Islandora. These resources can be added to our MIG Github Wiki.
-* Portland Common Data Model (https://wiki.duraspace.org/display/FF/Portland+Common+Data+Model): This could be an interesting topic for the group. PCDM or PREMIS?
-* Hydra group: We can draw on the work done by this group. It would be a good idea to hang out on other groups to get ideas.
+Microdata and modeling: This might be a topic for a subgroup.
+List of tools and scripts: It would be great to start of documentating a list of tools, scripts and resources that people use with Islandora. These resources can be added to our MIG Github Wiki.
+Portland Common Data Model (https://wiki.duraspace.org/display/FF/Portland+Common+Data+Model): This could be an interesting topic for the group. PCDM or PREMIS?
+Hydra group: We can draw on the work done by this group. It would be a good idea to hang out on other groups to get ideas.
 
 - Action Items
-* Send out survey for standing meeting and list of participants
-* Create MIG Github Wiki page
-* Get ideas from Hydra Group and other groups if possible
-* Add resources to MIG Github Wiki on resources and tools that already exist for Islandora metadata
+Send out survey for standing meeting and list of participants
+Create MIG Github Wiki page
+Get ideas from Hydra Group and other groups if possible
+Add resources to MIG Github Wiki on resources and tools that already exist for Islandora metadata
 
