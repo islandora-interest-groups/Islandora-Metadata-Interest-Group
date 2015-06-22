@@ -35,3 +35,7 @@
  * The interest group will meet once a month virtually (eg. via Google Hangouts). A call for agenda items will be posted to the Islandora Google Group at least 1 week prior to the meeting. The convener will appoint a note taker for the meeting and meeting notes will be made available at [IMIG](https://github.com/Islandora/Islandora-Metadata-Interest-Group).
  
  * The convener will report to the Islandora Roadmap Committee following the IMIG's meeting.
+
+## Become a Participant
+
+The group is open to anyone interested in participating. To add your name to the list of Islandora Metadata Interest Group participants, you can create a pull request on that document in this repository or email one of the conveners (see above).
