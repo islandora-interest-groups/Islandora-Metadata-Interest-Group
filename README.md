@@ -19,18 +19,18 @@
     * Metadata profiles for multiple metadata standards
 	* Documentation
 	
-  * Investigate metadata tools
+  *Investigate metadata tools
   
     * Creating and editing metadata in Islandora
 	* Pre and post processing of metadata including harvests, transformations, and migrations
 	
-  * Investigate features that enhance metadata creation and maintenance
+  *Investigate features that enhance metadata creation and maintenance
   
     * XML form enhancements
 	* Use and application of taxonomies
 	* Alternatives to XML forms
 	
-  * Investigate linked open data
+  *Investigate linked open data
   
  * The interest group will meet once a month virtually (eg. via Google Hangouts). A call for agenda items will be posted to the Islandora Google Group at least 1 week prior to the meeting. The convener will appoint a note taker for the meeting and meeting notes will be made available at [IMIG](https://github.com/Islandora/Islandora-Metadata-Interest-Group).
  
@@ -39,7 +39,3 @@
 ## Become a Participant
 
 The group is open to anyone interested in participating. To add your name to the list of Islandora Metadata Interest Group participants, you can create a pull request on that document in this repository or email one of the conveners (see above).
-
-## Membership
-
-* Mark Baggett (University of Tennessee)
