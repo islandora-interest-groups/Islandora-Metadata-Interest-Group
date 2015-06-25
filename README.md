@@ -38,4 +38,4 @@
 
 ## Become a Participant
 
-The group is open to anyone interested in participating. To add your name to the list of Islandora Metadata Interest Group participants, you can create a pull request on that document in this repository or email one of the conveners (see above).
+The group is open to anyone interested in participating. To add your name to the list of Islandora Metadata Interest Group participants, you can create a pull request on the Participants.md document in this repository or email one of the conveners (see above).
