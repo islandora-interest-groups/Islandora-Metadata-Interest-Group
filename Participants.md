@@ -12,6 +12,7 @@
 * Donald Moses (University of Prince Edward Island)
 * Mike Nason (University of New Brunswick Libraries)
 * Mark Noble, Co-Convenor (Marmot Library Network)
+* Jennifer Phillips (NACR Library)
 * Sandy Rodriguez (University of Missouri-Kansas City)
 * Nick Ruest (York University)
 * Chris Stanton (Metropolitan New York Library Council)
