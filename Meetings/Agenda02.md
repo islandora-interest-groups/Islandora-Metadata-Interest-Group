@@ -1,7 +1,7 @@
 ## Islandora Metadata Interest Group Agenda
 Monday, July 13, 2015, 1:00pm - 2:00 pm
 ---
-* Chair: Mark Nobel
+* Chair: Jennifer Eustis
 * Notetaker: Christina Marie Harlow  
 
 * Present: 
