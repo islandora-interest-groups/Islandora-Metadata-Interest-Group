@@ -16,3 +16,6 @@ Monday, July 13, 2015, 1:00pm - 2:00 pm EST
 ---
 
 #### Agenda Items:
+
+* Introductions
+* [Hydra Descriptive Metadata Subgroup - MODS and RDF Descriptive Metadata Subgroup](https://wiki.duraspace.org/display/hydra/MODS+and+RDF+Descriptive+Metadata+Subgroup)
