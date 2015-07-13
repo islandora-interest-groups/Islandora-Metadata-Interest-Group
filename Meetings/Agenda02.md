@@ -18,3 +18,5 @@ Monday, July 13, 2015, 1:00pm - 2:00 pm EST
 * Introductions
 * [Hydra Descriptive Metadata Subgroup - MODS and RDF Descriptive Metadata Subgroup](https://wiki.duraspace.org/display/hydra/MODS+and+RDF+Descriptive+Metadata+Subgroup)
 * MIG Wiki (https://github.com/Islandora/Islandora-Metadata-Interest-Group/wiki)
+* Subgroups - Tools including XML Forms, Fedora 4/PCDM?, Microdata, Hydra, other?
+* Other items brought up by group
