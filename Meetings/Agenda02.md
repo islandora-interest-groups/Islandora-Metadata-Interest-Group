@@ -3,8 +3,6 @@ Monday, July 13, 2015, 1:00pm - 2:00 pm EST
 ---
 * Chair: Jennifer Eustis
 * Notetaker: Christina Marie Harlow  
-
-* Present: 
 ---
 
 #### How to Join the Meeting  
@@ -19,3 +17,4 @@ Monday, July 13, 2015, 1:00pm - 2:00 pm EST
 
 * Introductions
 * [Hydra Descriptive Metadata Subgroup - MODS and RDF Descriptive Metadata Subgroup](https://wiki.duraspace.org/display/hydra/MODS+and+RDF+Descriptive+Metadata+Subgroup)
+* MIG Wiki (https://github.com/Islandora/Islandora-Metadata-Interest-Group/wiki)
