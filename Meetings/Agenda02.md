@@ -1,8 +1,10 @@
 ## Islandora Metadata Interest Group Agenda
 Monday, July 13, 2015, 1:00pm - 2:00 pm EST
 ---
+
 * Chair: Jennifer Eustis
-* Notes: Christina Marie Harlow  
+* Notes: Christina Harlow  
+
 ---
 
 #### How to Join the Meeting  
