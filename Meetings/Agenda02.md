@@ -26,15 +26,15 @@ Monday, July 13, 2015, 1:00pm - 2:00 pm EST
 ## Notes
 
 ### Attendees:
-Jennifer Eustis
-Amanda Lehman
-Nick Ruest
-Emily Toner
-Kevin Clair
-Matthew Miguez
-Mike Bolam
-Mike Nason
-Christina Harlow
+- Jennifer Eustis
+- Amanda Lehman
+- Nick Ruest
+- Emily Toner
+- Kevin Clair
+- Matthew Miguez
+- Mike Bolam
+- Mike Nason
+- Christina Harlow
 
 ### Introductions
 
