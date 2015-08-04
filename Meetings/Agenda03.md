@@ -20,3 +20,7 @@ Access Code/Number: 646 620 782
 ---
 
 #### Agenda Items:
+- Subgroups formations, reporting
+  - Fedora4 Metadata Subgroup jointly working with MIG and Fedora 4 IG
+  - Preliminary deliverables, timeframe, schedules
+- Report from Hydra Metadata Group work
