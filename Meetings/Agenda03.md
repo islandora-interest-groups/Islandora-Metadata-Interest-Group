@@ -3,11 +3,8 @@
 
 ---
 
-* Chair: 
+* Chair: Jennifer Eustis
 * Notetaker:  
-
-* Present: 
-* 
 
 ---
 
@@ -24,3 +21,6 @@ Access Code/Number: 646 620 782
   - Fedora4 Metadata Subgroup jointly working with MIG and Fedora 4 IG
   - Preliminary deliverables, timeframe, schedules
 - Report from Hydra Metadata Group work
+- Metadata Tools
+- Metadata Best Practices
+- Authorities
