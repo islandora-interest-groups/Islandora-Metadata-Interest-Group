@@ -55,7 +55,7 @@ _Enhancements_
 
 _Fedora 4 Interest Group_
 
-- Christina sat in last Fedora 4 Interest Group meeting, Nick put question of how that group will interact with the MIG Fedora 4 Interest group.
+- Christina sat in last Fedora 4 Interest Group meeting as Nick put question of how that group will interact with the MIG Fedora 4 Interest group on the agenda.
 - Decided the MIG Fedora 4 Interest Group is joint-appointed for both MIG and F4 IG.
 - Nick: the Fedora 4 IG needs more community output, looking for 1 representative from each other group to be there
 - There’ll be a lot for others to do moving forward
