@@ -15,3 +15,14 @@
 ---
 
 #### Agenda Items:
+* Hello and welcome
+* Metadata Tools subgroup report
+* Authorities subgroup report
+* Fedora4 Metadata subgroup report
+* Islandora Hydra Compatibility subgroup report
+* Islandora Metadata Best Practices subgroup report
+* Metadata Tool subgroup report
+* Use Cases Users Stories
+* Old Business?
+* New Business?
+* Next meeting - Oct. 12, 2015
