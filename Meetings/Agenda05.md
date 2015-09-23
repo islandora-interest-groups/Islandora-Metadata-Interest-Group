@@ -5,7 +5,6 @@
 * Chair: TBD
 * Notetaker:  TBD
 
-* Present: 
 ---
 
 #### How to Join the Meeting  
@@ -14,5 +13,14 @@
 
 ---
 
-#### Agenda Items:
+#### Agenda Items:  
+* Metadata Tools subgroup report
+* Authorities subgroup report
+* Fedora4 Metadata subgroup report
+* Islandora Hydra Compatibility report
+* Islandora Enhancement Features subgroup report
+* Islandora Metadata Best Practices subgroup report
+* Metadata Tools subgroup report
+* Use case users stories
+* Mods to DC xsl (https://groups.google.com/forum/#!topic/islandora/5yO9NkEBpI0)
 
