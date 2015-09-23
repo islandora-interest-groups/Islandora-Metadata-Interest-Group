@@ -3,7 +3,8 @@
 ### 
 ---
 * Chair: Jennifer Eustis  
-* Notetaker:  Jennifer Eustis
+* Notetaker: Jennifer Eustis
+
 ---
 
 #### Agenda Items:
