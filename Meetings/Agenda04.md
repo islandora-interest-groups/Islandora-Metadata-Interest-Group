@@ -2,7 +2,7 @@
 ### Monday, Sept. 14, 2015, 1-2pm EST
 ### 
 ---
-* Chair: Jennifer Eustis
+* Chair: Jennifer Eustis  
 * Notetaker:  Jennifer Eustis
 ---
 
