@@ -23,4 +23,5 @@
 * Metadata Tools subgroup report
 * Use case users stories
 * Mods to DC xsl (https://groups.google.com/forum/#!topic/islandora/5yO9NkEBpI0)
+* Using "Issues" to list issues that we would like to change in Islandora
 
