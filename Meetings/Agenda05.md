@@ -22,6 +22,7 @@
 * Islandora Metadata Best Practices subgroup report
 * Metadata Tools subgroup report
 * Use case users stories
-* Mods to DC xsl (https://groups.google.com/forum/#!topic/islandora/5yO9NkEBpI0)
-* Using "Issues" to list issues that we would like to change in Islandora
+* Using "Issues" to list issues that we would like to change in Islandora  
+* Discussion: Mods to DC xsl (https://groups.google.com/forum/#!topic/islandora/5yO9NkEBpI0)
+* Discussion: Replacing the MODS and the changes don't take effect unless you open the form and update (https://groups.google.com/forum/#!topic/islandora/EX2CBR9fBDY)
 
