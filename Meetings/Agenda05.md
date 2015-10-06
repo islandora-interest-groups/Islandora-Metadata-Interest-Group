@@ -1,9 +1,9 @@
 ## Islandora Metadata Interest Group Agenda
-### Monday, Oct. 12, 2015, 1-2pm EST
+### Monday, Nov. 9, 2015, 1-2pm EST
 ### 
 ---
-* Chair: TBD
-* Notetaker:  TBD
+* Chair: Jennifer Eustis
+* Notetaker:  Christina M. Harlow
 
 ---
 
