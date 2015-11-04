@@ -21,6 +21,7 @@
 * Islandora Enhancement Features subgroup report
 * Islandora Metadata Best Practices subgroup report
 * Metadata Tools subgroup report
+* Collaboration with Hydra Metadata Interest Group (Juliet Hardesty)
 * Use case users stories
 * Using "Issues" to list issues that we would like to change in Islandora  
 * Discussion: Mods to DC xsl (https://groups.google.com/forum/#!topic/islandora/5yO9NkEBpI0)
