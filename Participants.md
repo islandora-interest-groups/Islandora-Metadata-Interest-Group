@@ -17,5 +17,6 @@
 * Nick Ruest (York University)
 * Chris Stanton (Metropolitan New York Library Council)
 * Emily Toner (Boston College)
+* Erin Tripp (Discovery Garden)
 * Teresa Weisser (Millersville University of Pennsylvania)
 
