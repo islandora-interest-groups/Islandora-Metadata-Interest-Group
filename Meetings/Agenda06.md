@@ -14,4 +14,4 @@
 ---
 
 #### Agenda Items:
-* Authorities Subgroup: Should this be put on hold until we can find co-leaders?
+* Authorities Subgroup report
