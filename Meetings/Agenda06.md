@@ -2,10 +2,9 @@
 ### Monday, Sept. 14, 2015, 1-2pm EST
 ### 
 ---
-* Chair: TBD
+* Chair: Jennifer Eustis
 * Notetaker:  TBD
 
-* Present: 
 ---
 
 #### How to Join the Meeting  
@@ -15,4 +14,4 @@
 ---
 
 #### Agenda Items:
-
+* Authorities Subgroup: Should this be put on hold until we can find co-leaders?
