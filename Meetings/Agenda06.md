@@ -1,5 +1,5 @@
 ## Islandora Metadata Interest Group Agenda
-### Monday, Sept. 14, 2015, 1-2pm EST
+### Monday, January 11, 2016, 1-2pm EST
 ### 
 ---
 * Chair: Jennifer Eustis
