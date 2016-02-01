@@ -15,6 +15,7 @@
 * Jennifer Phillips (NACR Library)
 * Sandy Rodriguez (University of Missouri-Kansas City)
 * Nick Ruest (York University)
+* Marcia Salmon (York University)
 * Chris Stanton (Metropolitan New York Library Council)
 * Emily Toner (Boston College)
 * Erin Tripp (Discovery Garden)
