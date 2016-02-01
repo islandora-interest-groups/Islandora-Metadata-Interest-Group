@@ -1,15 +1,15 @@
 ## Islandora Metadata Interest Group Agenda
-### Monday, Sept. 14, 2015, 1-2pm EST
+### Monday, Feb. 8, 2016, 1-2pm EST
 ### 
 ---
-* Chair: TBD
+* Chair: Jennifer Eustis
 * Notetaker:  TBD
 
-* Present: 
 ---
 
 #### How to Join the Meeting  
-* Announcements on how to join are posted on the Islandora Google Group list
+* Meeting URL: https://uconn-cmr.webex.com/uconn-cmr/j.php?MTID=m2c31587beca52005bdf3c0a3b4607a50
+* Audio via Telephone: 1-415-655-0002, code: 649 380 345
 
 
 ---
