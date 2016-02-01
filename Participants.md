@@ -1,4 +1,4 @@
-# Islandora-Metadata-Interest-Group 
+# Islandora-Metadata-Interest-Group
 
 ##List of Participants
 
@@ -20,4 +20,4 @@
 * Emily Toner (Boston College)
 * Erin Tripp (Discovery Garden)
 * Teresa Weisser (Millersville University of Pennsylvania)
-
+* Kevin Clair (University of Denver)
