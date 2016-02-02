@@ -4,3 +4,4 @@
 
 * Kevin Clair (University of Denver)
 * Felicity Dykas (University of Missouri)
+* Jennifer Eustis (University of Connecticut)
