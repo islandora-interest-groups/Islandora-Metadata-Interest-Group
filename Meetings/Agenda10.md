@@ -14,4 +14,8 @@
 ---
 
 #### Agenda Items:
+* Welcome and introductions
+* Brief summary of new format for MIG
 * Duraspace Book Club Discussion Chapters 4-6: triple stores and infrastructure, SPARQL, and moer with RDF and inferencing. More resources: https://docs.google.com/document/d/1hUX6q2ZfvziDCZeZcvn3mynT4e7VkSofgn5wB_yrol0/edit#heading=h.x5kc6ynmn188
+* Volunteer to lead discussion for next month
+* Round table discussion
