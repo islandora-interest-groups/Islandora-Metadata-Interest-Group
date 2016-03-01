@@ -2,8 +2,8 @@
 ### Monday, March 7, 2016, 1-2pm EST
 ### 
 ---
-* Chair: Amanda Lehman
-* Notetaker:  Jennifer Eustis
+* Chair: Jennifer Eustis/Amanda Lehman
+* Notetaker:  Jennifer Eustis/Amanda Lehman
 
 ---
 
