@@ -1,5 +1,5 @@
 ## Islandora Metadata Interest Group Agenda
-### Monday, March 7, 2016, 1-2pm EST
+### Monday, March 14, 2016, 1-2pm EST
 ### 
 ---
 * Chair: Jennifer Eustis/Amanda Lehman
