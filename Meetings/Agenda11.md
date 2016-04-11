@@ -19,6 +19,7 @@
 * The discussion will be led by Jennifer Eustis on tools for metadata migration and review 
 * We will hear any updates from subgroups.
 * Next month will be led by Martha Tenney on customizing the manuscript solution pack.
+
 ---
 #### Notes:
 
