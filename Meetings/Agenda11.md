@@ -103,7 +103,7 @@ UWyoming takes ILS records as Marc export and creates MODS with marcEdit -
 * Importing authority Records
 * Managing updates as maintained in id.gov, etc.
 * Autofill for catalogers from authority, and propagation of updates
-* See minutes in GitHub.
+* [See minutes in GitHub](https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Authorities-Subgroup/Meetings/Agenda_20160405.md)
 
 ##### Chat Links
 * https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group
