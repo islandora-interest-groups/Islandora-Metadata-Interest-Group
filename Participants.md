@@ -21,3 +21,4 @@
 * Teresa Weisser (Millersville University of Pennsylvania)
 * Kevin Clair (University of Denver)
 * Margaret (Annie) Glerum (Florida State University)
+* Bayard Miller (American Philosophical Society)
