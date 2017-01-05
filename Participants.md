@@ -22,3 +22,4 @@
 * Kevin Clair (University of Denver)
 * Margaret (Annie) Glerum (Florida State University)
 * Bayard Miller (American Philosophical Society)
+* Audrey Sage Lorberfeld (The New York Academy of Medicine) 
