@@ -1,6 +1,6 @@
 # Islandora-Metadata-Interest-Group
 
-##List of Participants
+## List of Participants
 
 * Melissa Anez (Islandora Foundation)
 * Mark Baggett (University of Tennessee, Knoxville)
@@ -24,3 +24,4 @@
 * Bayard Miller (American Philosophical Society)
 * Audrey Sage Lorberfeld (The New York Academy of Medicine) 
 * Robin Naughton (The New York Academy of Medicine)
+* Rachel Tillay (Tulane University)
