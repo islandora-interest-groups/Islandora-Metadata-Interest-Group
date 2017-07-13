@@ -8,7 +8,8 @@
 
 
 ### MIG MODS to RDF  
-* [Working Documents](https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/wiki/MIG-MODS-to-RDF-Resources)
+* [Working Documents](https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/wiki/MIG-MODS-to-RDF-Resources)  
+* Wile the MIG is working on MODS to RDF, meetings occur every other week on Monday from 1 to 2pm EST.
 
 ## Terms of reference
 
