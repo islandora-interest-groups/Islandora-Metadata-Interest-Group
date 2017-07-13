@@ -7,8 +7,8 @@
 * Amanda Lehman (University of Wyoming)
 
 
-### MIG MODS to RDF Resources and Homework wiki page  
-* [Wiki Page](https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/wiki/MIG-MODS-to-RDF-Resources)
+### MIG MODS to RDF  
+* [Working Documents](https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/wiki/MIG-MODS-to-RDF-Resources)
 
 ## Terms of reference
 
