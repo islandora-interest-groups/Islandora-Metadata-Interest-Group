@@ -4,9 +4,8 @@
 
 * Melissa Anez (Islandora Foundation)
 * Mark Baggett (University of Tennessee, Knoxville)
-* Michael Bolam (University of Pittsburgh)
-* Jennifer Eustis, Co-Convenor (University of Connecticut Libraries, Storrs)
-* Christina Harlow, Co-Convenor (University of Tennessee, Knoxville)
+* Michael Bolam (University of Pittsburgh)  
+* Meredith Hale (University of Tennessee Libraries)
 * Amanda Lehman (University of Wyoming)
 * Matthew Miguez (Florida State University Libraries)
 * Donald Moses (University of Prince Edward Island)
