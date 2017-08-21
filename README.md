@@ -2,7 +2,6 @@
 
 ## Conveners
 
-* Jennifer Eustis (University of Connecticut Libraries, Storrs)
 * Rosemary Le Faive (University of Prince Edward Island)
 * Amanda Lehman (University of Wyoming)
 
