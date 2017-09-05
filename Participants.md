@@ -24,3 +24,5 @@
 * Audrey Sage Lorberfeld (The New York Academy of Medicine) 
 * Robin Naughton (The New York Academy of Medicine)
 * Rachel Tillay (Tulane University)
+* Christine Bone (University of Manitoba)
+* Les Moor (University of Manitoba)
