@@ -26,3 +26,4 @@
 * Rachel Tillay (Tulane University)
 * Christine Bone (University of Manitoba)
 * Les Moor (University of Manitoba)
+* Craig Harkema (University of Saskatchewan)
