@@ -26,3 +26,4 @@
 * Rachel Tillay (Tulane University)
 * Christine Bone (University of Manitoba)
 * Les Moor (University of Manitoba)
+* Paige Morfitt (Whitman College)
