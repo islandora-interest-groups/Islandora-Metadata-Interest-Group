@@ -4,11 +4,12 @@
 
 * Rosemary Le Faive (University of Prince Edward Island)
 * Rachel Tillay (Tulane University)
+* Mike Bolam (University of Pittsburgh)
 
 
 ### MIG MODS to RDF  
 * [Working Documents](https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/wiki/MIG-MODS-to-RDF-Working-Documents)  
-* Wile the MIG is working on MODS to RDF, meetings occur every other week on Monday from 1 to 2pm EST.
+* While the MIG is working on MODS to RDF, meetings occur every other week on Monday from 1 to 2pm EST.
 
 ## Terms of reference
 
