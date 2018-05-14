@@ -27,3 +27,4 @@
 * Christine Bone (University of Manitoba)
 * Les Moor (University of Manitoba)
 * Mark Lopez (Florida State University)
+* Paige Morfitt (Whitman College)
