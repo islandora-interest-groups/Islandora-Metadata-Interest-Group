@@ -29,3 +29,4 @@
 * Craig Harkema (University of Saskatchewan)
 * Mark Lopez (Florida State University)
 * Paige Morfitt (Whitman College)
+* Karen Li-Lun Hwang (Metropolitan New York Library Council)
