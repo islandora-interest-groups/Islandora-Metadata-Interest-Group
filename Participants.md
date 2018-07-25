@@ -29,3 +29,4 @@
 * Craig Harkema (University of Saskatchewan)
 * Mark Lopez (Florida State University)
 * Paige Morfitt (Whitman College)
+* Susan J. Vossberg (Northwestern Health Sciences University/PALS)
