@@ -30,3 +30,4 @@
 * Mark Lopez (Florida State University)
 * Paige Morfitt (Whitman College)
 * Susan J. Vossberg (Northwestern Health Sciences University/PALS)
+* Josh Hogan (Atlanta University Center)
