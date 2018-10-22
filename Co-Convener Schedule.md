@@ -10,9 +10,9 @@
 |October 15, 2018|Rosie|Rachel|Place of publication and Geographic subjects|
 |October 29, 2018|Mike|Rosie|OriginInfo and subjects|
 |November 5, 2018|N/A|N/A|
-|November 12, 2018|Rachel|Mike|
+|November 12, 2018|Rachel|Mike|Subjects cont.|
 |November 19, 2018|N/A|N/A|
-|November 26, 2018|Rosie|Rachel|
+|November 26, 2018|Rosie|Rachel|Subjects cont.|
 |December 3, 2018|N/A|N/A|
-|December 10, 2018|Mike|Rosie|
+|December 10, 2018|Mike|Rosie|Description/Notes|
 |December 17, 2018|N/A|N/A|
