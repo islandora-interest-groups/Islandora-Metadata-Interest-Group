@@ -9,5 +9,10 @@
 |October 1, 2018|Rachel|Mike|Continue OriginInfo including publisher (excluding place)|
 |October 15, 2018|Rosie|Rachel|Place of publication and Geographic subjects|
 |October 29, 2018|Mike|Rosie|Remaining subjects|
-
-
+|November 5, 2018|
+|November 12, 2018|
+|November 19, 2018|
+|November 26, 2018|
+|December 3, 2018|
+|December 10, 2018|
+|December 17, 2018|
