@@ -1,18 +1,16 @@
-12:58:10	 From Rachel Tillay : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2018_10_29.md
-12:58:26	 From Rachel Tillay : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2018_11_12.md
-12:58:40	 From Rachel Tillay : Last meeting notes followed by current meeting agenda.
-13:02:39	 From Itza carbajal : if we joined late, the notes don't pop up. Can someone resent
-13:02:47	 From Rachel Tillay : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2018_10_29.mdhttps://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2018_11_12.mdLast meeting notes followed by current meeting agenda.
-13:02:51	 From Itza carbajal : thank you!
-13:03:11	 From Itza carbajal : yes 
-13:03:48	 From Rachel Tillay : https://islandora.ca/content/islandoracon-2019
-13:15:31	 From michaelbolam : http://id.loc.gov/search/?q=&q=cs%3Ahttp%3A%2F%2Fid.loc.gov%2Fvocabulary%2Fcountries
-13:15:59	 From michaelbolam : http://id.loc.gov/search/?q=&q=cs%3Ahttp%3A%2F%2Fid.loc.gov%2Fvocabulary%2FgeographicAreas
-13:20:11	 From michaelbolam : http://id.loc.gov/vocabulary/geographicAreas/a-bt
-13:21:37	 From rosie : http://www.dublincore.org/documents/dcmi-terms/#terms-coverage
-13:23:26	 From michaelbolam : http://www.dublincore.org/documents/dcmi-terms/#terms-spatial
-13:23:45	 From michaelbolam : http://www.dublincore.org/documents/dcmi-terms/#terms-temporal
-13:35:47	 From rosie : probably me! sorry
-13:43:14	 From rosie : ours include “To 1873” and “1873-1901"
-13:49:21	 From michaelbolam : I think we stick a fork in it!
-13:49:46	 From michaelbolam : In the non-Github sense.
+11:58:06	 From  akg45  to  Rachel Tillay(Privately) : Hi! It is :)
+11:58:20	 From  Rachel Tillay  to  akg45(Privately) : Yay! I remembered!
+11:58:31	 From  akg45  to  Rachel Tillay(Privately) : *thumbs up!*
+11:58:53	 From  Rachel Tillay : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2018_11_26.md
+12:01:50	 From  Rosie : there’s this paper: LCSH, SKOS and Linked Data  from 2008: http://dcpapers.dublincore.org/pubs/article/viewFile/916/912
+12:03:32	 From  Rosie : From Rachel Tillay to Everyone: (01:58 PM)
+ https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2018_11_26.md
+12:03:57	 From  Rachel Tillay  to  abersch(Privately) : Hi! I can't tell from your ID...what is your name for me to add to the minutes?
+12:05:08	 From  abersch  to  Rachel Tillay(Privately) : Hi, I'm Al Bersch at the California Historical Society. Thanks!
+12:05:33	 From  Rachel Tillay  to  abersch(Privately) : Thank you!
+12:10:19	 From  daniel : indeed
+12:24:51	 From  Rosie : https://www.loc.gov/aba/publications/Archived-LCSH38/ffsintro.pdf
+12:25:32	 From  Rosie : http://id.loc.gov/authorities/subjects/sh99005453.html
+12:38:10	 From  Rachel Tillay : https://docs.google.com/spreadsheets/d/1_YwNyRkegT9gCoIwbZAdOupEeMsCpC9FQ0BXX4E1p-A/edit#gid=0
+12:43:55	 From  daniel : https://www.drupal.org/project/geolocation
+12:58:15	 From  Rosie  to  Rachel Tillay(Privately) : hey do you have a sec after the call?
