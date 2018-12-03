@@ -16,3 +16,9 @@
 |December 3, 2018|N/A|N/A|
 |December 10, 2018|Mike|Rosie|Description/Notes|
 |December 17, 2018|N/A|N/A|
+|December 24, 2018|no|no|
+|December 31, 2018|no|no|
+|January 7, 2018|Rachel|Mike|??|
+|January 14, 2018|N/A|N/A|
+|January 21, 2018|Rosie|Rachel|
+
