@@ -15,10 +15,11 @@
 |November 26, 2018|Rosie|Rachel|Subjects cont.|
 |December 3, 2018|N/A|N/A|
 |December 10, 2018|Mike|Rosie|Description/Notes|
-|December 17, 2018|N/A|N/A|
+|December 17, 2018|N/A|N/A|Sample MODS into a 7.x sandbox|
 |December 24, 2018|no|no|
 |December 31, 2018|no|no|
-|January 7, 2018|Rachel|Mike|??|
-|January 14, 2018|N/A|N/A|
-|January 21, 2018|Rosie|Rachel|
+|January 7, 2019|N/A|N/A|??|
+|January 14, 2019|Rachel|Mike|??|
+|January 21, 2019|N/A|N/A|??|
+|January 28, 2019|Rosie|Rachel|May all be at conferences??|
 
