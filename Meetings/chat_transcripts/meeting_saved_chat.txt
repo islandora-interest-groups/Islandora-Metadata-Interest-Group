@@ -1,16 +1,14 @@
-11:58:06	 From  akg45  to  Rachel Tillay(Privately) : Hi! It is :)
-11:58:20	 From  Rachel Tillay  to  akg45(Privately) : Yay! I remembered!
-11:58:31	 From  akg45  to  Rachel Tillay(Privately) : *thumbs up!*
-11:58:53	 From  Rachel Tillay : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2018_11_26.md
-12:01:50	 From  Rosie : there’s this paper: LCSH, SKOS and Linked Data  from 2008: http://dcpapers.dublincore.org/pubs/article/viewFile/916/912
-12:03:32	 From  Rosie : From Rachel Tillay to Everyone: (01:58 PM)
- https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2018_11_26.md
-12:03:57	 From  Rachel Tillay  to  abersch(Privately) : Hi! I can't tell from your ID...what is your name for me to add to the minutes?
-12:05:08	 From  abersch  to  Rachel Tillay(Privately) : Hi, I'm Al Bersch at the California Historical Society. Thanks!
-12:05:33	 From  Rachel Tillay  to  abersch(Privately) : Thank you!
-12:10:19	 From  daniel : indeed
-12:24:51	 From  Rosie : https://www.loc.gov/aba/publications/Archived-LCSH38/ffsintro.pdf
-12:25:32	 From  Rosie : http://id.loc.gov/authorities/subjects/sh99005453.html
-12:38:10	 From  Rachel Tillay : https://docs.google.com/spreadsheets/d/1_YwNyRkegT9gCoIwbZAdOupEeMsCpC9FQ0BXX4E1p-A/edit#gid=0
-12:43:55	 From  daniel : https://www.drupal.org/project/geolocation
-12:58:15	 From  Rosie  to  Rachel Tillay(Privately) : hey do you have a sec after the call?
+12:59:55	 From michaelbolam : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2019-01-14.md
+13:01:37	 From michaelbolam : I will not be available
+13:04:41	 From manez : he’s on his way. I was in his last meeting and he said he’d be on tis one
+13:08:49	 From daniel : hey hey
+13:11:29	 From Rachel Tillay : Migrate CSV that Rosie mentioned: https://github.com/Islandora-CLAW/migrate_islandora_csv
+13:20:30	 From daniel : incantations++ i like that
+13:21:14	 From Johanna Radding : Can this be recorded and shared out? 
+13:21:50	 From michaelbolam : It looks like Melissa is recording. With Rosie’s blessing, I’m sure it can be shared.
+13:21:57	 From Johanna Radding : Thanks!
+13:22:00	 From michaelbolam : We don’t typically record.
+13:22:36	 From michaelbolam : So we don’t have a conveners policy around it.
+13:23:43	 From manez : recording, but that password flash might be a problem :o
+13:50:44	 From Rachel Tillay : https://docs.google.com/spreadsheets/d/1C2Xie7HUDSgRT5v4ldoJvlNdoXz2GHAPvL3PE3TOKW8/edit#gid=1500472861
+13:54:01	 From Seth Shaw : I need a sticker: “It’s just a VM.”
