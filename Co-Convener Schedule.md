@@ -21,7 +21,7 @@
 |January 7, 2019|N/A|N/A|??|
 |January 14, 2019|Rachel|Mike|Share 7.x Sandbox and Claw Sandbox export|
 |January 21, 2019|N/A|N/A|Cancelled for MLK day in US|
-|January 28, 2019|Rosie|Rachel|During ALA...may also be skipped|
+|January 28, 2019|Rosie|Rachel|During ALA...Rosie will be running the meeting/reviewing Sandbox export|
 |February 4, 2019|N/A|N/A|Review Sandbox Results and Summarize problems and opportunities discovered|
 |February 11, 2019|Mike|Rosie|Share and discuss current documentation and desired documentation for migration|
 |February 18, 2019|N/A|N/A|Draft documentation for two paths for migration (simple and customized)|
