@@ -24,5 +24,7 @@
 |January 28, 2019|Rosie|Rachel|During ALA...Rosie will be running the meeting/reviewing Sandbox export|
 |February 4, 2019|N/A|N/A|Review Sandbox Results and Summarize problems and opportunities discovered|
 |February 11, 2019|Mike|Rosie|Share and discuss current documentation and desired documentation for migration|
-|February 18, 2019|N/A|N/A|Draft documentation for two paths for migration (simple and customized)|
-|February 25, 2019|Rachel|Mike|Review final changes to initial mapping and revised/new documentation|
+|February 18, 2019|N/A|N/A|Draft outline/skeleton of migration documentation|
+|February 25, 2019|Rachel|Mike|Share documentation skeleton with group and get feedback|
+|March 4, 2019|N/A|N/A|Possibly participate in Sprint meeting instead of Co-convener meeting|
+|March 11, 2019|Rosie|Tillay|Review final changes to initial mapping and revised/new documentation|
