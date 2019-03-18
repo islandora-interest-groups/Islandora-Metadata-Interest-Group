@@ -28,7 +28,7 @@
 |February 25, 2019|Rachel|Mike|Share documentation skeleton with group and get feedback|
 |March 4, 2019|N/A|N/A|Possibly participate in Sprint meeting instead of Co-convener meeting|
 |March 11, 2019|Rosie|Tillay|Review final changes to initial mapping and revised/new documentation|
-|March 25, 2019|Tillay|Rosie|
-|April 8, 2019|Mike|Tillay|
+|March 25, 2019|Tillay|Rosie|Location, Extension, Record Info, and Part mapping
+|April 8, 2019|Mike|Tillay|Related Item Meeting
 |April 22, 2019|Rosie|Mike|
 |May 6, 2019|Tillay|Rosie
