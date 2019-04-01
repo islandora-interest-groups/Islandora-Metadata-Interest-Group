@@ -1,0 +1,28 @@
+14:01:16	 From Kate Gerrity : Hi!
+14:01:50	 From Lisa McFall : Hello
+14:03:13	 From Rachel Tillay : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2019_03_11.md
+14:07:34	 From Rachel Tillay : https://github.com/Islandora-CLAW/CLAW/tree/d82eabef527dfd4a0562fb18ac91ca50620e9bc3/docs/user-documentation
+14:08:43	 From Rosie Le Faive : those correspond to: https://islandora-claw.github.io/CLAW/
+14:09:08	 From Melissa Anez : https://github.com/Islandora-CLAW/CLAW/blob/d82eabef527dfd4a0562fb18ac91ca50620e9bc3/docs/user-documentation/metadata.md
+14:10:15	 From Rosie Le Faive : https://islandora-claw.github.io/CLAW/user-documentation/metadata/
+14:13:24	 From Melissa Anez : https://github.com/Islandora-CLAW/CLAW/blob/master/docs/user-documentation/objects.md
+14:13:30	 From Melissa Anez : https://github.com/Islandora-CLAW/CLAW/blob/master/docs/user-documentation/context.md
+14:17:36	 From Rosie Le Faive : description of an “object” https://islandora-claw.github.io/CLAW/user-documentation/objects/
+14:19:57	 From Rosie Le Faive : draft: https://docs.google.com/document/d/15qSO9YcALtYSqd6CUuGx0t8FwUJ5pPwVPz0PA5rU898/edit
+14:20:25	 From Rosie Le Faive : mapping: https://docs.google.com/spreadsheets/d/18u2qFJ014IIxlVpM3JXfDEFccwBZcoFsjbBGpvL0jJI/edit#gid=0
+14:23:40	 From Rachel Tillay : http://dublincore.org/documents/dcmi-terms/#terms-format
+14:25:01	 From Rachel Tillay : https://www.loc.gov/standards/mods/userguide/physicaldescription.html#form
+14:26:50	 From Rachel Tillay : Form    This field is recommended.    Enter a generic term for the form of the resource.    Examples: “photographs”; “personal correspondence”; “paintings (visual works)”; “theses”    More precise descriptions (e.g. “Silver gelatin print” or “Oil on canvas”) can optionally be entered in an added column/field with the header “Medium”.    Use the subset of locally-authorized AAT for this field; to add a term to the list, contact the metadata librarian.
+14:28:43	 From Rosie Le Faive : https://www.loc.gov/standards/mods/v3/MODS3-5_DC_XSLT1-0.xsl
+14:29:15	 From Rosie Le Faive : dc:format
+14:33:33	 From Lisa McFall : That sounds good.
+14:38:26	 From Rachel Tillay : https://www.loc.gov/standards/sourcelist/classification.html
+14:40:36	 From Rosie Le Faive : http://mappings.dbpedia.org/server/ontology/classes/Book
+14:42:55	 From Rosie Le Faive : we could: http://id.loc.gov/ontologies/bibframe/ClassificationDdc
+14:44:39	 From Rosie Le Faive : https://www.loc.gov/standards/mods/userguide/classification.html
+14:47:15	 From Rosie Le Faive : https://www.loc.gov/standards/mods/userguide/genre.html
+14:53:23	 From Lisa McFall : What's been done so far makes sense to me.
+14:53:32	 From Rosie Le Faive : mods location: https://www.loc.gov/standards/mods/userguide/location.html#form
+14:58:37	 From Lisa McFall : I need to hop off to go to another meeting. I think splitting these out is probably a good option. We don't use the holding subelements, but we do use the physicalLocation, shelfLocator, and url subelements.
+15:00:10	 From Kate Gerrity : thanks
+15:03:32	 From Melissa Anez : https://github.com/Islandora-CLAW/CLAW/pull/1049
