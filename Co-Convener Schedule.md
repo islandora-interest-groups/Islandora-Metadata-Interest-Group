@@ -24,5 +24,11 @@
 |March 11, 2019|Rosie|Tillay|Review final changes to initial mapping and revised/new documentation|
 |March 25, 2019|Tillay|Rosie|Extension, Related Item Meeting
 |April 8, 2019|Mike|Tillay|Location, Record Info, and Part mapping
-|April 22, 2019|Rosie|Mike|
-|May 6, 2019|Tillay|Rosie
+|April 22, 2019|Rosie|Mike|Part mapping, Completed Simple Mapping, Next Steps
+|May 6, 2019|Tillay|Rosie|Initial Draft of MODS to RDF Mapping Recommendations
+|May 20, 2019|Mike|Tillay|TBD
+|June 3, 2019|Rosie|Mike|TBD
+|June 17, 2019|Tillay|Rosie|TBD
+|July 1, 2019|Mike|Tillay|TBD
+|July 15, 2019|Rosie|Mike|TBD
+|July 29, 2019|Tillay|Rosie|TBD
