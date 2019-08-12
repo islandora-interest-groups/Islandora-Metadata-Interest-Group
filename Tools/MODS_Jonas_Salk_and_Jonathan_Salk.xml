@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <mods:originInfo>
+    <mods:dateCreated keyDate="yes" encoding="iso8601">1955-04</mods:dateCreated>
+    <mods:dateOther type="display">ca. 1955</mods:dateOther>
+    <mods:place>
+      <mods:placeTerm type="text">Pittsburgh</mods:placeTerm>
+    </mods:place>
+    <mods:dateOther type="sort">1955-01-01T00:00:00</mods:dateOther>
+  </mods:originInfo>
+  <mods:accessCondition>
+    <copyrightMD:copyright copyright.status="unknown" publication.status="unknown">
+      <copyrightMD:general.note/>
+      <copyrightMD:rights.holder>
+        <copyrightMD:name/>
+        <copyrightMD:contact/>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </mods:accessCondition>
+  <mods:abstract>Jonas Salk embraces his son Jonathan while the rest of his family looks on. This picture was taken shortly after Salk returned from the University of Michigan-Ann Arbor, where he announced the vaccine's effectiveness.</mods:abstract>
+  <mods:subject authority="lcsh">
+    <mods:topic>Physicians</mods:topic>
+  </mods:subject>
+  <mods:subject authority="lcsh">
+    <mods:topic>Children</mods:topic>
+  </mods:subject>
+  <mods:name>
+    <mods:namePart>Jack Caldwell/Tom Vrana</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:typeOfResource>still image</mods:typeOfResource>
+  <mods:relatedItem displayLabel="source" type="host">
+    <mods:titleInfo>
+      <mods:title>Jonas Salk Polio Vaccine Collection, 1953-2005</mods:title>
+    </mods:titleInfo>
+    <mods:note type="prefercite">Jonas Salk Polio Vaccine Collection, 1953-2005, UA.90.F89, Archives Service Center, University of Pittsburgh</mods:note>
+  </mods:relatedItem>
+  <mods:name>
+    <mods:namePart>University of Pittsburgh</mods:namePart>
+    <mods:role>
+      <mods:roleTerm type="text">depositor</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:titleInfo>
+    <mods:title>Jonas Salk and Jonathan Salk</mods:title>
+  </mods:titleInfo>
+  <mods:subject authority="lcsh">
+    <mods:geographic>Pittsburgh (Pa.)</mods:geographic>
+  </mods:subject>
+  <mods:note type="address">Greater Pittsburgh Airport</mods:note>
+  <mods:genre>photograph</mods:genre>
+  <mods:physicalDescription>
+    <mods:form>4x5 Safety Negative</mods:form>
+  </mods:physicalDescription>
+  <mods:identifier type="pitt">salk0023</mods:identifier>
+  <mods:subject>
+    <mods:name type="corporate">
+      <mods:namePart>Greater Pittsburgh Airport</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject>
+    <mods:name type="personal" authority="local">
+      <mods:namePart>Salk, Jonathan</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject>
+    <mods:name type="personal">
+      <mods:namePart>Salk, Darrell</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject>
+    <mods:name type="personal">
+      <mods:namePart>Salk, Peter</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject>
+    <mods:name type="personal">
+      <mods:namePart>Salk, Donna</mods:namePart>
+    </mods:name>
+  </mods:subject>
+  <mods:subject>
+    <mods:name type="personal">
+      <mods:namePart>Salk, Jonas</mods:namePart>
+      <mods:namePart type="date">1914-1995</mods:namePart>
+    </mods:name>
+  </mods:subject>
+</mods:mods>
