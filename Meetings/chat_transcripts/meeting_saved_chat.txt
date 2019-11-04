@@ -1,0 +1,9 @@
+12:24:37	 From  Charlie Tillay : https://github.com/islandora-devops/migrate_7x_claw
+12:24:44	 From  Charlie Tillay : Migrate 7x CLAW
+12:24:58	 From  Charlie Tillay : Sorry I'm late.
+13:00:53	 From  michaelbolam : I gotta run to another meeting — sorry for cutting out early! Thanks everyone!!
+13:01:12	 From  Alex Kent : This diagram is really helpful
+13:01:16	 From  michaelbolam : I’ll push my notes in shortly, Rosie
+13:01:41	 From  Rosie Le Faive : awesome Seth!
+13:01:58	 From  Seth Shaw : https://github.com/Islandora/controlled_access_terms/pull/35
+13:03:49	 From  Alex Kent : Thanks!
