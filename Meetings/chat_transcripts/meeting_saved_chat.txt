@@ -1,9 +1,8 @@
-12:24:37	 From  Charlie Tillay : https://github.com/islandora-devops/migrate_7x_claw
-12:24:44	 From  Charlie Tillay : Migrate 7x CLAW
-12:24:58	 From  Charlie Tillay : Sorry I'm late.
-13:00:53	 From  michaelbolam : I gotta run to another meeting — sorry for cutting out early! Thanks everyone!!
-13:01:12	 From  Alex Kent : This diagram is really helpful
-13:01:16	 From  michaelbolam : I’ll push my notes in shortly, Rosie
-13:01:41	 From  Rosie Le Faive : awesome Seth!
-13:01:58	 From  Seth Shaw : https://github.com/Islandora/controlled_access_terms/pull/35
-13:03:49	 From  Alex Kent : Thanks!
+12:19:22	 From  Rosie Le Faive : migration paths diagram: https://drive.google.com/open?id=1CS_T4LCIuu5Mx5iciXm4jEbEYa5HRlXv
+12:21:28	 From  Charlie Tillay : Thank you. I've added this to the notes. I'll add it to resources asap.
+12:46:10	 From  Seth Shaw : 👏
+12:48:58	 From  Rosie Le Faive : Pull request discussion! https://github.com/Islandora/controlled_access_terms/pull/35
+12:58:58	 From  Meredith Hale : Yes - I think so on keeping them separate.
+13:03:52	 From  daniel : gotta run folks
+13:04:06	 From  Rosie Le Faive : sorry, we are overtime, folks.
+13:04:17	 From  Rosie Le Faive : thank you for staying; i understand if you have to go!
