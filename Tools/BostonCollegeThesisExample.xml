@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.6" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" >
+    <mods:titleInfo usage="primary">
+        <mods:title>Rapid thinning of the Laurentide Ice Sheet in coastal Maine, USA during late Heinrich Stadial 1</mods:title>
+        <mods:nonSort></mods:nonSort>
+        <mods:subTitle></mods:subTitle>
+    </mods:titleInfo>
+    <mods:name type="personal" usage="primary">
+        <mods:namePart type="family">Koester</mods:namePart>
+        <mods:namePart type="given">Alexandria Jo</mods:namePart>
+        <mods:displayForm>Koester, Alexandria Jo</mods:displayForm>
+        <mods:role>
+            <mods:roleTerm authority="marcrelator" type="text">Author</mods:roleTerm>
+            <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
+        </mods:role>
+        <mods:nameIdentifier type="orcid"></mods:nameIdentifier>
+    </mods:name>
+    <mods:name type="personal">
+        <mods:namePart type="family">Shakun</mods:namePart>
+        <mods:namePart type="given">Jeremy D.</mods:namePart>
+        <mods:displayForm>Shakun, Jeremy D.</mods:displayForm>
+        <mods:role>
+            <mods:roleTerm authority="marcrelator" type="text">Thesis advisor</mods:roleTerm>
+            <mods:roleTerm authority="marcrelator" type="code">ths</mods:roleTerm>
+        </mods:role>
+    </mods:name>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:genre authority="ndltd" type="work type">Electronic Thesis or Dissertation</mods:genre>
+    <mods:genre authority="dct" type="work type">Text</mods:genre>
+    <mods:genre authority="marcgt" type="work type" usage="primary">thesis</mods:genre>
+    <mods:originInfo>
+        <mods:publisher>Boston College</mods:publisher>
+        <mods:dateIssued>2017</mods:dateIssued>
+        <mods:dateIssued encoding="w3cdtf" keyDate="yes">2017</mods:dateIssued>
+        <mods:issuance>monographic</mods:issuance>
+    </mods:originInfo>
+    <mods:language>
+        <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+        <mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+    </mods:language>
+    <mods:physicalDescription>
+        <mods:form authority="marcform">electronic</mods:form>
+        <mods:internetMediaType>application/pdf</mods:internetMediaType>
+        <!--not mapped
+        <mods:digitalOrigin>born digital</mods:digitalOrigin> -->
+    </mods:physicalDescription>
+    <mods:abstract>Few data are available to infer the thinning rate of the Laurentide Ice Sheet (LIS) through the last deglaciation, despite its importance for constraining past ice sheet response to climate warming. We measured 31 cosmogenic 10Be exposure ages in samples collected on coastal mountainsides in Acadia National Park and from the slightly inland Pineo Ridge moraine complex, a ~100-km-long glaciomarine delta, to constrain the timing and rate of LIS thinning and subsequent retreat in coastal Maine. Samples collected along vertical transects in Acadia National Park have indistinguishable exposure ages over a 300 m range of elevation, suggesting that rapid, century-scale thinning occurred at 15.2 ± 0.7 ka, similar to the timing of abrupt thinning inferred from cosmogenic exposure ages at Mt. Katahdin in central Maine (Davis et al., 2015). This rapid ice sheet surface lowering, which likely occurred during the latter part of the cold Heinrich Stadial 1 event (19-14.6 ka), may have been due to enhanced ice-shelf melt and calving in the Gulf of Maine, perhaps related to regional oceanic warming associated with a weakened Atlantic Meridional Overturning Circulation at this time. The ice margin subsequently stabilized at the Pineo Ridge moraine complex until 14.5 ± 0.7 ka, near the onset of Bølling Interstadial warming. Our 10Be ages are substantially younger than marine radiocarbon constraints on LIS retreat in the coastal lowlands, suggesting that the deglacial marine reservoir effect in this area was ~1,200 14C years, perhaps also related to the sluggish Atlantic Meridional Overturning Circulation during Heinrich Stadial 1.</mods:abstract>
+    <mods:subject>
+        <mods:topic>Exposure dating</mods:topic>
+    </mods:subject>
+    <mods:subject>
+        <mods:topic>marine-terminating ice sheet</mods:topic>
+    </mods:subject>
+    <mods:subject>
+        <mods:topic>New England deglaciation</mods:topic>
+    </mods:subject>
+    <mods:accessCondition type="use and reproduction">Copyright is held by the author, with all rights reserved, unless otherwise noted.</mods:accessCondition>
+    <!-- Extension does not get mapped: recommend "cleaning" and moving to names with relators or mapping themselves?
+    <mods:extension>
+        <etdms:degree>
+            <etdms:name>MS</etdms:name>
+            <etdms:level>Masters</etdms:level>
+            <etdms:discipline>Earth and Environmental Sciences</etdms:discipline>
+            <etdms:grantor>Boston College. Graduate School of Arts and Sciences</etdms:grantor>
+        </etdms:degree>
+    </mods:extension>
+    -->
+    <!-- RecordInfo does not get mapped
+    <mods:recordInfo>
+        <mods:recordContentSource authority="marcorg">MChB</mods:recordContentSource>
+        <mods:recordOrigin>Most grad thesis records are created by transforming ProQuest supplied xml and editing as needed.</mods:recordOrigin>
+        <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+            <mods:languageTerm authority="iso639-2b" type="text">English</mods:languageTerm>
+        </mods:languageOfCataloging>
+    </mods:recordInfo>
+    -->
+    
+    <!-- would have to add to the mapping info to map this particular type or map local, untyped, and all non isbn & oclc types? -->
+    <mods:identifier type="hdl">http://hdl.handle.net/2345/bc-ir:107308</mods:identifier>
+</mods:mods>

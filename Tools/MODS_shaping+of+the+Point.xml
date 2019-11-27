@@ -1,0 +1,93 @@
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd http://www.cdlib.org/inside/diglib/copyrightMD http://www.cdlib.org/groups/rmg/docs/copyrightMD.xsd">
+  <titleInfo>
+    <nonSort>The </nonSort>
+    <title>shaping of the Point</title>
+    <subTitle>Pittsburgh's Renaissance Park</subTitle>
+  </titleInfo>
+  <name type="personal">
+    <namePart>Alberts, Robert C.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">pau</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Pittsburgh</placeTerm>
+    </place>
+    <publisher>University of Pittsburgh Press</publisher>
+    <issuance>monographic</issuance>
+    <dateOther type="260c">c1980</dateOther>
+    <dateIssued keyDate="yes" encoding="iso8601">1980</dateIssued>
+    <dateOther type="display">1980</dateOther>
+    <dateOther type="sort">1980-01-01T00:00:00</dateOther>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xvi, 247 p. : ill. ; 21 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility">Robert C. Alberts.</note>
+  <note>Includes index.</note>
+  <note type="bibliography">Bibliography: p. 233-239.</note>
+  <note type="additional physical form">Also available online.</note>
+  <subject>
+    <geographicCode authority="marcgac">n-us-pa</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Point State Park (Pittsburgh, Pa.)</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Urban renewal</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Parks</topic>
+    <geographic>Pennsylvania</geographic>
+    <geographic>Pittsburgh</geographic>
+  </subject>
+  <classification authority="lcc">F159.P67 P643</classification>
+  <classification authority="ddc">974.8/86</classification>
+  <relatedItem type="otherFormat">
+    <titleInfo>
+      <title>shaping of the Point</title>
+    </titleInfo>
+    <name>
+      <namePart>Alberts, Robert C.</namePart>
+    </name>
+    <originInfo>
+      <publisher>Pittsburgh : University of Pittsburgh Press, c1980</publisher>
+    </originInfo>
+    <identifier type="local">(OCoLC)318586416</identifier>
+  </relatedItem>
+  <identifier type="lccn">79026885</identifier>
+  <recordInfo>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">791214</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20090416092824.0</recordChangeDate>
+    <recordIdentifier>163462</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.3 using MARC21slim2MODS3-3.xsl
+				(Revision 1.54)</recordOrigin>
+  </recordInfo>
+  <identifier type="pitt">31735057893343</identifier>
+  <accessCondition>
+    <copyrightMD:copyright xmlns:copyrightMD="http://www.cdlib.org/inside/diglib/copyrightMD" copyright.status="copyrighted" publication.status="published">
+      <copyrightMD:rights.holder>
+        <copyrightMD:name>University of Pittsburgh Press</copyrightMD:name>
+      </copyrightMD:rights.holder>
+    </copyrightMD:copyright>
+  </accessCondition>
+  <name>
+    <namePart/>
+    <role>
+      <roleTerm type="text">depositor</roleTerm>
+    </role>
+  </name>
+</mods>

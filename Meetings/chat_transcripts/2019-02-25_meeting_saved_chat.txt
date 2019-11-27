@@ -1,0 +1,25 @@
+13:02:57	 From michaelbolam : Agenda: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2019-02-25.md
+13:03:48	 From Rosie Le Faive : Samvera’s doc: https://docs.google.com/document/d/1FZI8KJiW4qSKYUUKe0mAwqlx0ppVRFyPtsfLDqQE5T8/edit#
+13:06:02	 From Rosie Le Faive : Our version: https://docs.google.com/document/d/15qSO9YcALtYSqd6CUuGx0t8FwUJ5pPwVPz0PA5rU898/edit
+13:12:49	 From Rosie Le Faive : mapping spreadsheet: https://docs.google.com/spreadsheets/d/18u2qFJ014IIxlVpM3JXfDEFccwBZcoFsjbBGpvL0jJI/edit#gid=0
+13:13:10	 From Johanna Radding : Which comments on the skeleton mapping? None are visible...
+13:13:37	 From Meredith Hale : I’m seeing them too, unsure.
+13:13:51	 From Kate Gerrity : yes, that's the issu.
+13:14:03	 From Rosie Le Faive : Sorry! commenting should be enabled now: https://docs.google.com/document/d/15qSO9YcALtYSqd6CUuGx0t8FwUJ5pPwVPz0PA5rU898/edit#heading=h.f9r6knw0rjvu
+13:14:18	 From Kate Gerrity : can see them now. thanks.
+13:18:59	 From michaelbolam : https://www.loc.gov/standards/mods/v3/MODS3-5_DC_XSLT1-0.xsl
+13:19:05	 From michaelbolam : That is the XSLT under review
+13:25:20	 From Meredith Hale : Since we share with DPLA, we try to get all of our titles in one string anyway. It makes sharing easier.
+13:36:12	 From Lisa McFall : I think that having a default that isn't requiring a URI would be the best option because many digital collections are composed of unique objects where a URI wouldn't be available (not a book with a certain edition, for example). Establishing local URIs for everything would be incredibly time intensive.
+13:36:30	 From Lisa McFall : (if I'm understanding this discussion correctly)
+13:37:05	 From Johanna Radding : +1 to the above...
+13:39:13	 From Johanna Radding : No! No you don't!
+13:39:17	 From Meredith Hale : Yep, you don’t want 1000 Emily Dickinsons
+13:39:22	 From Lisa McFall : Please no!
+13:40:28	 From Meredith Hale : I think exact matches would be best.
+13:44:46	 From Rosie Le Faive : types of resources: https://docs.google.com/spreadsheets/d/18u2qFJ014IIxlVpM3JXfDEFccwBZcoFsjbBGpvL0jJI/edit#gid=25390054
+13:45:43	 From Meredith Hale : It seems like “Digital” is broad and fits all aspects.
+13:45:52	 From Rosie Le Faive : k, that’s what i thought.
+13:46:06	 From Lisa McFall : I agree
+13:48:46	 From Rosie Le Faive : mapping spreadsheet again: https://docs.google.com/spreadsheets/d/18u2qFJ014IIxlVpM3JXfDEFccwBZcoFsjbBGpvL0jJI/edit#gid=0
+13:51:07	 From Rosie Le Faive : RDAU stuff: https://www.rdaregistry.info/Aligns/alignRDACan2LexU.html
