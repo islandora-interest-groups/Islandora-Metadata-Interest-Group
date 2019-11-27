@@ -1,0 +1,14 @@
+12:59:55	 From michaelbolam : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2019-01-14.md
+13:01:37	 From michaelbolam : I will not be available
+13:04:41	 From manez : he’s on his way. I was in his last meeting and he said he’d be on tis one
+13:08:49	 From daniel : hey hey
+13:11:29	 From Rachel Tillay : Migrate CSV that Rosie mentioned: https://github.com/Islandora-CLAW/migrate_islandora_csv
+13:20:30	 From daniel : incantations++ i like that
+13:21:14	 From Johanna Radding : Can this be recorded and shared out? 
+13:21:50	 From michaelbolam : It looks like Melissa is recording. With Rosie’s blessing, I’m sure it can be shared.
+13:21:57	 From Johanna Radding : Thanks!
+13:22:00	 From michaelbolam : We don’t typically record.
+13:22:36	 From michaelbolam : So we don’t have a conveners policy around it.
+13:23:43	 From manez : recording, but that password flash might be a problem :o
+13:50:44	 From Rachel Tillay : https://docs.google.com/spreadsheets/d/1C2Xie7HUDSgRT5v4ldoJvlNdoXz2GHAPvL3PE3TOKW8/edit#gid=1500472861
+13:54:01	 From Seth Shaw : I need a sticker: “It’s just a VM.”

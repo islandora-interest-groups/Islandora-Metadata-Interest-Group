@@ -30,3 +30,7 @@
 * Mark Lopez (Florida State University)
 * Paige Morfitt (Whitman College)
 * Itza Carbajal (University of Texas at Austin)
+* Susan J. Vossberg (Northwestern Health Sciences University/PALS)
+* Josh Hogan (Atlanta University Center)
+* Angelina Spotts (Carnegie Mellon University)
+* Michael Kemezis (University of Connecticut)

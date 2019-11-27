@@ -3,7 +3,7 @@
 ## Conveners
 
 * Rosemary Le Faive (University of Prince Edward Island)
-* Rachel Tillay (Tulane University)
+* Charlie Tillay (Tulane University)
 * Mike Bolam (University of Pittsburgh)
 
 
@@ -43,6 +43,6 @@
 
 ## Become a Participant
 
-Meetings are held the 2nd Monday of the Month, 1-2 PM EST. Link to dates, agenda items, and call information will be in the Meetings subdirectory of this repository, for the appropriate meeting document.
+Meetings are currently held every other Monday, 1-2 PM EST. Link to dates, agenda items, and call information will be in the Meetings subdirectory of this repository, for the appropriate meeting document.
 
 The group is open to anyone interested in participating. To add your name to the list of Islandora Metadata Interest Group participants, you can create a pull request on the Participants.md document in this repository or email one of the conveners (see above).
