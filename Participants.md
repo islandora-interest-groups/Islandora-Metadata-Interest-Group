@@ -34,5 +34,6 @@
 * Tiffany Henry (University of North Carolina Greensboro)
 * Josh Hogan (Atlanta University Center)
 * Angelina Spotts (Carnegie Mellon University)
+* Anna Dabrowski (Texas Advanced Computing Center)
 * Michael Kemezis (University of Connecticut)
 * Karen Li-Lun Hwang (Metropolitan New York Library Council)
