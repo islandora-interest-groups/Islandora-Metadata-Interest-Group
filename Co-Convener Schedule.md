@@ -7,7 +7,7 @@
 |October 21, 2019|Tillay|Mike|Demonstration of CSV Migration part 1|
 |November 4, 2019|Mike|Rosie|Demonstration of CSV Migration part 2|
 |November 18, 2019|Rosie|Tillay|Demonstration of CSV Migration part 3|
-|December 2, 2019|Tillay|Mike|Creating a Metadata Application Profile|
-|December 16, 2019|Mike|Rosie|Reviewing the Metadata Application Profile|
+|December 2, 2019|Tillay|Mike|[Discuss Access Terms PR](https://github.com/Islandora/controlled_access_terms/pull/35); Review Participants.md|
+|December 16, 2019|Mike|Rosie|Creating a Metadata Application Profile|
 |December 30, 2019|no meeting|no meeting|co-convener libraries are closed|
-|January 13, 2020|Rosie|Tillay|Review of Creating New Metadata in Islandora 8|
+|January 13, 2020|Rosie|Tillay|Metadata Application Profile Discussion Cont.|
