@@ -31,6 +31,7 @@
 * Paige Morfitt (Whitman College)
 * Itza Carbajal (University of Texas at Austin)
 * Susan J. Vossberg (Northwestern Health Sciences University/PALS)
+* Tiffany Henry (University of North Carolina Greensboro)
 * Josh Hogan (Atlanta University Center)
 * Angelina Spotts (Carnegie Mellon University)
 * Michael Kemezis (University of Connecticut)
