@@ -3,7 +3,7 @@
 ## Conveners
 
 * Rosemary Le Faive (University of Prince Edward Island)
-* Rachel Tillay (Tulane University)
+* Charlie Tillay (Tulane University)
 * Mike Bolam (University of Pittsburgh)
 
 
