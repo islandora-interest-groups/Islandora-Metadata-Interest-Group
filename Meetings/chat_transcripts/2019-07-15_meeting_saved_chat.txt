@@ -1,0 +1,5 @@
+13:02:02	 From michaelbolam : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2019_07_15.md
+13:08:51	 From Angelina Spotts : Sorry, I keep having internet issues!
+13:30:59	 From Rachel Tillay : https://docs.google.com/document/d/15qSO9YcALtYSqd6CUuGx0t8FwUJ5pPwVPz0PA5rU898/edit#
+13:44:01	 From Rachel Tillay : http://dublincore.org/specifications/dublin-core/dcmi-terms/2012-06-14/?v=terms#SizeOrDuration
+13:50:11	 From Paige Morfitt : Thank you!

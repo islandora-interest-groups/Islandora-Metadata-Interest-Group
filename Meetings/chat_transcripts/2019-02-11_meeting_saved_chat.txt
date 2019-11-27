@@ -1,0 +1,35 @@
+13:02:02	 From akg45 : It gave me the option to leave the meeting though, even though it said i couldn't get in. so maybe it still counted as joining the meeting?
+13:03:19	 From Angelina Spotts : Yeah, mine just said there was a conflicting meeting so I went in through my browser and it let me in.
+13:04:26	 From daniel : official ++
+13:04:35	 From daniel : WE GOT YOUR CLA
+13:04:37	 From daniel : WE GOT A CLA
+13:04:41	 From daniel : CLAAAAAAAAAAAAAAAAA
+13:04:54	 From Melissa Anez : https://islandora.ca/resources/contributors
+13:05:01	 From Melissa Anez : CLAs and details there ^
+13:05:38	 From michaelbolam : Agenda - https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2019-02-11.md
+13:07:08	 From Melissa Anez : But it’s signed and now Rachel has a commit in islandora 8!
+13:07:49	 From Rachel Tillay : Documentation we're working on *right now*: https://docs.google.com/document/d/15qSO9YcALtYSqd6CUuGx0t8FwUJ5pPwVPz0PA5rU898
+13:09:09	 From Johanna Radding : I'm not on mic fyi.
+13:09:12	 From Johanna Radding : But I'm listening
+13:09:17	 From Rachel Tillay : No problem!
+13:10:02	 From michaelbolam : https://docs.google.com/document/d/1OR5sis2QUVOxmf2hHq3Zsuidt06rMs5F92Pn6nprg1k/edit?usp=sharing
+13:10:46	 From Meredith Hale : I don’t have access to this, but sent in a request.
+13:13:09	 From michaelbolam : https://docs.google.com/document/d/15qSO9YcALtYSqd6CUuGx0t8FwUJ5pPwVPz0PA5rU898/edit?usp=sharing
+13:13:16	 From michaelbolam : Draft Recommendations
+13:19:02	 From Rachel Tillay : https://docs.google.com/document/d/15qSO9YcALtYSqd6CUuGx0t8FwUJ5pPwVPz0PA5rU898
+13:19:05	 From daniel : FWIW that would totally work
+13:19:21	 From daniel : you just need a unique string for each name, and they can be referenced in other migrations
+13:19:26	 From daniel : totally how i'd do it
+13:20:23	 From Meredith Hale : This is what we’re attempting. We use LoC for authorities (super time intensive), so we don’t get every name, but most significant ones.
+13:27:30	 From Rachel Tillay : https://sites.google.com/site/westernnameauthorityfile/
+13:28:59	 From michaelbolam : https://exhibits.lib.utah.edu/s/wnaf/page/welcome
+13:29:13	 From michaelbolam : That’s the OmekaS with their vocab.
+13:31:52	 From michaelbolam : University of Houston did a similar project to create authorities outside of their systems - https://vocab.lib.uh.edu/en.html
+13:44:42	 From Kate Gerrity : fyi, 245 subfield c maps to mods:note with a type attribute of "statement of responsibility", per http://www.loc.gov/standards/mods/v3/mods-mapping-3-6.html.
+13:45:06	 From Meredith Hale : Thanks Kate.
+13:45:47	 From Kate Gerrity : but we don't keep those notes in the marc to mods conversions we do, fwiw. we also don't create name access points for transcribed forms of names as you'd ind in a 245 subfield c.
+13:46:10	 From Kate Gerrity : ^find
+13:46:24	 From Kate Gerrity : correct
+13:46:55	 From michaelbolam : Nice find Kate. I missed that in the quick review of the mods mapping.
+13:47:24	 From Itza carbajal : sorry mic not working
+13:47:34	 From Kate Gerrity : when we do original mods records (not converted from marc) we might the transcribed form og the name in the abstract, but not in an access point.

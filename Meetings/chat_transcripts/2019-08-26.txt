@@ -1,0 +1,9 @@
+12:09:07	 From  Charlie Tillay  to  cday2(Privately) : Hi! I don't recognize your user name. What name would you like me to put down on the attending list?
+12:09:26	 From  cday2  to  Charlie Tillay(Privately) : Of course. I’m Chris Day at the School of the Art Institute of Chicago.
+12:09:42	 From  cday2  to  Charlie Tillay(Privately) : I need to fix it so that Zoom has my name in calls. I’m a lurker.
+12:09:45	 From  Charlie Tillay  to  cday2(Privately) : Thank you! I should have been able to put that together!
+12:25:56	 From  Rosie Le Faive : difference between PMCID / PMID: https://nexus.od.nih.gov/all/2015/08/31/pmid-vs-pmcid-whats-the-difference/
+12:44:39	 From  Rosie Le Faive : Issuance: id.loc.gov/search/?q=&q=cs%3Ahttp%3A%2F%2Fid.loc.gov%2Fvocabulary%2Fissuance
+12:52:37	 From  daniel : +1 yep
+12:52:46	 From  daniel : Drupal can do it.  RDF requires silly leg-work
+12:59:56	 From  daniel : b there or b square

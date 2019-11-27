@@ -1,0 +1,8 @@
+12:19:22	 From  Rosie Le Faive : migration paths diagram: https://drive.google.com/open?id=1CS_T4LCIuu5Mx5iciXm4jEbEYa5HRlXv
+12:21:28	 From  Charlie Tillay : Thank you. I've added this to the notes. I'll add it to resources asap.
+12:46:10	 From  Seth Shaw : 👏
+12:48:58	 From  Rosie Le Faive : Pull request discussion! https://github.com/Islandora/controlled_access_terms/pull/35
+12:58:58	 From  Meredith Hale : Yes - I think so on keeping them separate.
+13:03:52	 From  daniel : gotta run folks
+13:04:06	 From  Rosie Le Faive : sorry, we are overtime, folks.
+13:04:17	 From  Rosie Le Faive : thank you for staying; i understand if you have to go!
