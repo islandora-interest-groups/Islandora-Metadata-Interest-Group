@@ -36,3 +36,7 @@
 * Anna Dabrowski (Texas Advanced Computing Center)
 * Michael Kemezis (University of Connecticut)
 * Karen Li-Lun Hwang (Metropolitan New York Library Council)
+* Derek Merleaux (Born-Digital)
+* Sarah Lippincott (Born-Digital)
+* Michelle Janowiecki (John Hopkins University)
+
