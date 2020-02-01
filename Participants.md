@@ -40,3 +40,4 @@
 * Sarah Lippincott (Born-Digital)
 * Michelle Janowiecki (John Hopkins University)
 * Seth Shaw (University of Nevada, Las Vegas)
+* Alexander May (Arizona State University)
