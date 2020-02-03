@@ -11,3 +11,6 @@
 |December 16, 2019|Mike|Rosie|Creating a Metadata Application Profile|
 |December 30, 2019|no meeting|no meeting|co-convener libraries are closed|
 |January 13, 2020|Rosie|Tillay|Metadata Application Profile Discussion Cont.|
+|February 10, 2020|Tillay|Mike||
+|February 24, 2020|Mike|Rosie||
+|March 9, 2020|Rosie|Tillay||
