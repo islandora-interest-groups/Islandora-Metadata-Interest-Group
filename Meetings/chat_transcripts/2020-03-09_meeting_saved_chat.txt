@@ -1,0 +1,13 @@
+17:09:06	 From  Paige Morfitt : I'm here!
+17:11:32	 From  Martha Tenney : https://docs.google.com/spreadsheets/d/15esq0W2tcxUfIVf0nCl1wr0blxhci2m97T5B-h-zOvs/edit?userstoinvite=jradding%40amherst.edu&ts=5e6657f1&actionButton=1#gid=0
+17:14:53	 From  Meredith Hale : Would you mind sharing your screen for an easy follow along? Thanks for doing this!
+17:17:22	 From  Charlie Tillay : http://id.loc.gov/vocabulary/relators.html
+17:18:53	 From  Rosie : hi everyone! sorry I'm late
+17:20:35	 From  Meredith Hale : I think we’re talking about Advisor particularly, so it will just get mapped to contributor
+17:21:14	 From  Rosie : yes Tillay is right, we intend to represent peoples roles as long as they're in marc relators. to be a tiny bit nitpicky... marcrelators will be installed if you use Defaults. you could configure your site to use another vocab if you wanted. 
+17:21:48	 From  Rosie : so "hard-coded" is maybe "default-there"... 
+17:37:02	 From  Rosie : inferred! cool!
+17:37:57	 From  Rosie : (I think the mapping drops the attribute for inferred. does edtf have an "inferred" thing?? I know it has approx)
+17:40:25	 From  Kristina Spurgin : I work for LYRASIS, and we have ~22 existing hosted clients using all manner of date formats and MODS conventions as hosted Islandora 7 clients. We are going to have to do work to figure out how to transform this inconsistent client data into EDTF for migration into I8. And we will be happy to contribute that work back
+17:45:52	 From  Seth Shaw : FYI, in string sort the range signifier ‘/‘ comes before approximate ‘~’.
+17:48:52	 From  Johanna Radding : OriginInfo/Place, this is not always the place of publication. we use eventType and hope to use relators:prp and relators:mfp in addition to relators:pup
