@@ -14,3 +14,6 @@
 |February 10, 2020|Tillay|Mike|Metadata Management tool with Mark Jordan |
 |February 24, 2020|Mike|Rosie||
 |March 9, 2020|Rosie|Tillay||
+|March 23, 2020|Tillay|Mike||
+|April 6, 2020|Mike|Rosie||
+|April 20, 2020|Rosie|Tillay||
