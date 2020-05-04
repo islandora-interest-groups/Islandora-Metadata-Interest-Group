@@ -1,0 +1,25 @@
+13:05:08	 From Rosie Le Faive : AGENDA: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2020_05_04.md
+13:09:29	 From Melissa Anez : https://forms.gle/H3nwkx11Ut36AAiQ6
+13:11:20	 From Bolam, Michael R : I’m just not hearing it - what is the name of the event that ICG is looking to host? Hack-Doc?
+13:11:52	 From Lisa McFall : https://islandora-collaboration-group.github.io/icg_information/hack_docs/METRO/(A past iteration)
+13:14:28	 From daniel : i've lost all audio
+13:14:29	 From daniel : :(
+13:16:59	 From Martha Tenney : There is a page: https://github.com/Islandora-Collaboration-Group/icg_information/blob/master/hack_docs/meetings/06_BrynMawr_2020.md but the dates and the focus are likely shifting
+13:17:11	 From Martha Tenney : And the rsvp form is no longer… real
+13:19:19	 From daniel : hooray!  i have sound again!
+13:22:03	 From Rosie Le Faive : Walkthrough: https://docs.google.com/document/d/1ZNvWdgNvYsfRdmflYBQxIJUrDGFeeifXwS6COV-Dp1o/edit#
+13:25:16	 From daniel : frig my internet is terrible and you're all robot-y
+13:37:32	 From daniel : the ol' deny apim if not localhost
+13:38:00	 From Kristina Spurgin : What’s opim (or apim?)
+13:38:13	 From daniel : "Management" API for Fedora 3
+13:38:32	 From Kristina Spurgin : thx
+13:39:16	 From Kristina Spurgin : I’m glad this isn’t only my life…
+13:39:20	 From Rosie Le Faive : NOOOO
+13:47:56	 From Paige Morfitt : So if you have an older version of MODS, will it not work?
+13:48:18	 From Paige Morfitt : Ah! Okay. Phew!
+13:55:22	 From Lisa McFall : I have to run to another meeting. Thanks for the demo, Rosie!
+13:55:54	 From Kristina Spurgin : These were the missing elements I id’ed comparing to the MODS in our test migration:
+13:56:26	 From Kristina Spurgin : (It won’t let me paste… sorry, can share elsewhere)
+14:00:37	 From Martha Tenney : Thank you, Rosie!!
+14:03:35	 From Bolam, Michael R : Huzzah!
+14:05:05	 From Paige Morfitt : Thank you! This was helpful!
