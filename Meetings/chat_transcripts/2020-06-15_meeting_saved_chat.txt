@@ -1,0 +1,14 @@
+13:07:45	 From Bolam, Michael R : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/meetings/2020_06_15.md
+13:07:52	 From Bolam, Michael R : ^^^ Agenda
+13:08:52	 From Paige Morfitt : I'm curious!
+13:13:02	 From Paige Morfitt : Any types of metadata? Even MARC records? 
+13:14:00	 From Paige Morfitt : Thank you. That sounds interesting!
+13:15:28	 From Kristina Spurgin : BRB, gotta check on a thing...
+13:25:12	 From Michelle Janowiecki : Bethany, a developer at Hopkins, is working on a bulk ingest api using csvs or json might be useful to talk to her?
+13:25:37	 From Michelle Janowiecki : It’s UI for the csvs, and just api commands for json
+13:46:53	 From Michelle Janowiecki : We can though export the repository item metadata as json?
+13:47:27	 From Martha Tenney : can I also clarify something Danny said—that if we are okay with generating metadata records on the fly we wouldn’t need these templates?
+13:48:12	 From Michelle Janowiecki : (Through the default Drupal api or whatever)
+13:49:37	 From Danny : if you want the record, you need a template
+13:50:59	 From Michelle Janowiecki : Ok, thanks! That makes sense! I don’t have mods, so I think the default is good for us
+13:58:12	 From Bolam, Michael R : I am going to have to run right at 2 to get to another meeting. I’m really going to need some help from the group cleaning up the notes - There was a ton of information put out there today...
