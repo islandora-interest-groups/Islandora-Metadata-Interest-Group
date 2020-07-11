@@ -41,3 +41,4 @@
 * Seth Shaw (University of Nevada, Las Vegas)
 * Alexander May (Arizona State University)
 * Jonathan Kiritharan (Carnegie Mellon University)
+* Garth Tardy (University of Missouri—Kansas City)
