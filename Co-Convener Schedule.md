@@ -23,5 +23,14 @@
 |June 15, 2020|Tillay|Mike||
 |June 29, 2020|Mike|Rosie||
 |July 13, 2020|Rosie|Tillay||
-|July 27, 2020|Tillay|Mike||
-|August 10, 2020|Mike|Rosie||
+|July 27, 2020|**Meeting Cancelled**|||
+|August 10, 2020|Tillay|Mike|Islandora Online Discussion|
+|August 24, 2020|Mike|Rosie|| 
+|September 7, 2020|Rosie|Tillay||
+|September 21, 2020|Tillay|Mike||
+|October 5, 2020|Mike|Rosie|| 
+|October 19, 2020|Rosie|Tillay||
+|November 2, 2020|Tillay|Mike||
+|November 16, 2020|Mike|Rosie|| 
+|November 30, 2020|Rosie|Tillay||
+|December 14, 2020|Tillay|Mike||
