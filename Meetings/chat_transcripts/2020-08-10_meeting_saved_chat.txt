@@ -1,0 +1,42 @@
+13:02:21	 From Daniel Lamb : fwiw i've always secretly called that robot hair
+13:02:40	 From Charlie Tillay : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2020_08_10.md
+13:02:43	 From Seth Shaw : Not so secret now, Danny. 🤖
+13:05:05	 From Paige Morfitt : Where's the link to the survey? 
+13:05:13	 From Melissa Anez : https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!msg/islandora/SOED-scjAmQ/BGvnB2YOCQAJ
+13:05:27	 From Melissa Anez : er.. https://forms.gle/vv8ktGfGDcPERJfH9
+13:05:29	 From Paige Morfitt : Thank you!
+13:14:44	 From Melissa Anez : https://www.ica.org/en/egad-ric-conceptual-model
+13:19:25	 From Rosie Le Faive : https://w3id.org/
+13:19:38	 From Daniel Lamb : this is new to me
+13:20:17	 From Melissa Anez : https://xkcd.com/927/
+13:22:43	 From Meredith Hale : Somehow identifiers are always a “kerfuffle”
+13:23:08	 From Daniel Lamb : ISO-9660
+13:23:34	 From Daniel Lamb : that's for burning a cd, lol
+13:25:19	 From Daniel Lamb : fun stuff
+13:25:32	 From Rosie Le Faive : which one? the drupal or the fedora?
+13:27:17	 From Melissa Anez : Take *that*, Imposter Syndrome.
+13:28:19	 From Bolam, Michael R : Dubin Core = Dublin Ohio
+13:28:27	 From Meredith Hale : Beat me to it Michael!
+13:28:30	 From Daniel Lamb : i always thought ireland
+13:28:32	 From Meredith Hale : Proud Ohioan here originally
+13:28:34	 From Melissa Anez : Guys… *Island*ora
+13:31:16	 From Melissa Anez : https://us02web.zoom.us/meeting/register/tZAuf-yprD4oG9bqLHaZ-FjKHc7ji4MychIM
+13:34:44	 From Eli Zoller : I’d totally use that
+13:35:31	 From Eli Zoller : I was just thinking about this same thing earlier - using the external URI instead of the taxonomy term URI
+13:42:05	 From Kristina Spurgin (she/her) : https://github.com/perma-id/w3id.org/tree/master/mediatype
+13:42:18	 From Rosie Le Faive : like the pirate code
+13:42:19	 From Meredith Hale : Samvera I think is using URIs for typeOfResource - file:///Users/Meredith/Downloads/MODS-RDF-Mapping-Recommendations_SMIG_v1_2019-01%20(10).pdf
+13:42:59	 From Kristina Spurgin (she/her) : "The initial reason for doing this is to allow users of the Dublin Core Terms format property to refer to stable, dereferenceable, URIs for Media Types rather than to uses non-resolving URIs or text strings."
+13:43:14	 From Seth Shaw : https://wiki.duraspace.org/download/attachments/87460857/MODS-RDF-Mapping-Recommendations_SMIG_v1_2019-01.pdf?version=3&modificationDate=1549383163287&api=v2
+13:43:49	 From Meredith Hale : It’s here - https://wiki.lyrasis.org/display/samvera/MODS+and+RDF+Descriptive+Metadata+Subgroup
+13:50:24	 From Eli Zoller : Sorry have to head out now to prepare for next meeting
+13:51:45	 From Seth Shaw : I’m not looking forward to my kids starting school on the 24th…. 😬
+13:52:11	 From Paige Morfitt : My brain is still on vacation mode. 
+13:52:21	 From Lisa McFall : Seth, my kids go back after Labor Day, but are doing remote learning. It's going to be crazy.
+13:52:36	 From Meredith Hale : UTK students started coming back this past weekend :)
+13:55:20	 From Meredith Hale : Yeah, we’ve worked on this situation within our department. Basically, the person doesn’t report yes centrally, just to their supervisor.
+13:55:40	 From Meredith Hale : They figure it out together from there.
+13:57:41	 From Daniel Lamb : where are the pluses here?
+14:00:08	 From Kristina Spurgin (she/her) : Thanks all! Take care!
+14:00:24	 From Paige Morfitt : Thank you!
+14:00:29	 From Chris : Thanks
