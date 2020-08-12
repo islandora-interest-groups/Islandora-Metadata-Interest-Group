@@ -42,3 +42,4 @@
 * Alexander May (Arizona State University)
 * Jonathan Kiritharan (Carnegie Mellon University)
 * Garth Tardy (University of Missouri—Kansas City)
+* Mandy Ryan (University of Texas)
