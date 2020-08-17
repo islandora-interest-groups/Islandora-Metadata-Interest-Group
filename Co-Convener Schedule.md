@@ -25,7 +25,7 @@
 |July 13, 2020|Rosie|Tillay||
 |July 27, 2020|**Meeting Cancelled**|||
 |August 10, 2020|Tillay|Mike|Islandora Online Discussion|
-|August 24, 2020|Mike|Rosie|| 
+|August 24, 2020|Mike|Rosie|Update of Mapping/Open Meeting| 
 |September 7, 2020|Rosie|Tillay||
 |September 21, 2020|Tillay|Mike||
 |October 5, 2020|Mike|Rosie|| 
