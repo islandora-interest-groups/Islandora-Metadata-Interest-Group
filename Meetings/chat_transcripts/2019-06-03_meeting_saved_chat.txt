@@ -1,4 +1,4 @@
-13:05:32	 From Rosie Le Faive : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2019_06_03.md
+13:05:32	 From Rosie Le Faive : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2019_06_03.md
 13:10:33	 From Rosie Le Faive : http://www.dublincore.org/resources/userguide/publishing_metadata/#dcterms:extent
 13:12:12	 From Rosie Le Faive : ex:myVideo dcterms:extent [ rdf:value "21 minutes" ] .
 13:19:22	 From Rosie Le Faive : "http:\/\/purl.org\/dc\/terms\/extent":[{"@value":"1 item","@type":"http:\/\/www.w3.org\/2001\/XMLSchema#string"}]

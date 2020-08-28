@@ -1,7 +1,8 @@
-13:05:08	 From Rosie Le Faive : AGENDA: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2020_05_04.md
+13:05:08	 From Rosie Le Faive : AGENDA: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2020_05_04.md
 13:09:29	 From Melissa Anez : https://forms.gle/H3nwkx11Ut36AAiQ6
 13:11:20	 From Bolam, Michael R : I’m just not hearing it - what is the name of the event that ICG is looking to host? Hack-Doc?
-13:11:52	 From Lisa McFall : https://islandora-collaboration-group.github.io/icg_information/hack_docs/METRO/(A past iteration)
+13:11:52	 From Lisa McFall : https://islandora-collaboration-group.github.io/icg_information/hack_docs/METRO/
+(A past iteration)
 13:14:28	 From daniel : i've lost all audio
 13:14:29	 From daniel : :(
 13:16:59	 From Martha Tenney : There is a page: https://github.com/Islandora-Collaboration-Group/icg_information/blob/master/hack_docs/meetings/06_BrynMawr_2020.md but the dates and the focus are likely shifting

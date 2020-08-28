@@ -3,11 +3,11 @@
 13:03:22	 From rachel tillay : Save created a txt in this folder at my computer! C:\Users\[myusername]\Documents\Zoom\2018-05-14 12.02.31 Islandora Metadata IG call 181240170
 13:04:05	 From morfitpb : Me! Paige Morfitt
 13:04:33	 From michaelbolam : Trello: https://trello.com/b/J6ciWrqa/sample-mods-rdf-mapping-tool
-13:04:45	 From michaelbolam : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2018_05_14.md
+13:04:45	 From michaelbolam : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2018_05_14.md
 13:04:48	 From Mark Jordan : I can't see an option to save chat transcripts in the Zoom admin settings, so someone will need to do it before we end the meeting
 13:05:13	 From Mark Jordan : good idea
 13:07:26	 From rachel tillay : If anyone is coming to ALA Annual at New Orleans, feel free to reach out! Tulane University is located in New Orleans, and I'd be glad to give recommendations.
-13:07:30	 From rachel tillay : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2018_04_30.md
+13:07:30	 From rachel tillay : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2018_04_30.md
 13:07:38	 From rosie : https://trello.com/c/8dR1jq1c/62-modstitle
 13:07:44	 From rachel tillay : I didn't finish them completely.
 13:09:21	 From rachel tillay : Specifically, I stalled out on the "post-meeting review of decisions", so I'd love feedback on that and I can add them to the notes I took last week.
@@ -51,7 +51,14 @@
 13:52:18	 From rachel tillay : https://trello.com/c/xMuhwxRf/70-pre-mapping
 13:53:41	 From rachel tillay : Can we do with names what we did with titles where the simplest option is a string?
 13:53:49	 From rosie : rachel++
-13:54:21	 From rachel tillay : Use cases:    some names have existing URIs; some will not    we may have more info in MODS than the URI (birth and death dates)    some will have roles, others will not    not every role will have a mapping to a known ontology, so we'll need to develop some particular set or option for unknown value    attributes like name type or namepart type may exist; these attributes currently may alter how the name is displayed
+13:54:21	 From rachel tillay : Use cases:
+
+    some names have existing URIs; some will not
+    we may have more info in MODS than the URI (birth and death dates)
+    some will have roles, others will not
+    not every role will have a mapping to a known ontology, so we'll need to develop some particular set or option for unknown value
+    attributes like name type or namepart type may exist; these attributes currently may alter how the name is displayed
+
 13:54:30	 From rachel tillay : https://trello.com/c/HkXEzgYv/68-modsname
 13:56:00	 From Bethany Seeger : If you’re not talking, can you please mute?
 13:56:05	 From Mark Jordan : Robin, can you mute?

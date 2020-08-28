@@ -1,8 +1,8 @@
 13:02:28	 From Melissa Anez : Anyone who needs an invite, just say the word.
 13:04:12	 From michaelbolam : Agenda:
-13:04:27	 From michaelbolam : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2019_09_09.md
+13:04:27	 From michaelbolam : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2019_09_09.md
 13:04:39	 From michaelbolam : Book mapping:
-13:04:51	 From michaelbolam : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Tools/book_MODS_mapping.jpg
+13:04:51	 From michaelbolam : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Tools/book_MODS_mapping.jpg
 13:14:29	 From Charlie Tillay : Sorry for de-railing: LCCN looks like a totally valid identifier and I was just confusing it with LCC classification. (https://lccn.loc.gov/ )
 13:14:40	 From Meredith Hale : Being nitpicky, for the value for the rights URI you should have “vocab” instead of “page”
 13:15:11	 From Meredith Hale : Done it a million times

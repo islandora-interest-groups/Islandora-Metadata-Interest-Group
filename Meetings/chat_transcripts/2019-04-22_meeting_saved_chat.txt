@@ -1,4 +1,4 @@
-13:01:33	 From rosie : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2019_04_22.md
+13:01:33	 From rosie : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2019_04_22.md
 13:03:58	 From Melissa Anez : https://docs.google.com/forms/d/1qOwGvTlB-8DdoMs1eQ-aGCdaNSifTKXzB7Klj620v5k
 13:05:15	 From rosie : https://docs.google.com/spreadsheets/d/18u2qFJ014IIxlVpM3JXfDEFccwBZcoFsjbBGpvL0jJI/edit#gid=0
 13:09:01	 From rosie : http://www.loc.gov/standards/mods/userguide/part.html

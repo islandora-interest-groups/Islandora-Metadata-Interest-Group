@@ -1,5 +1,5 @@
 11:59:10	 From  Rosie : Hahaha I screwed up the date on the agenda. Sorry folks!!
-12:00:24	 From  Rosie : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2018_07_09.md
+12:00:24	 From  Rosie : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2018_07_09.md
 12:06:22	 From  daniel : I'm calling it open beta.
 12:06:48	 From  rnaughton : https://docs.google.com/spreadsheets/d/1s5GCs9zrJsXevOulyRehpC-wdn4ShOVvEeaHDN_A2eo/edit#gid=2121481344
 12:14:26	 From  wrandtke : Did you wear tiaras?

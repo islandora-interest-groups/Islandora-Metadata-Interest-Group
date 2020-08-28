@@ -1,4 +1,4 @@
-12:59:55	 From michaelbolam : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2019-01-14.md
+12:59:55	 From michaelbolam : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2019-01-14.md
 13:01:37	 From michaelbolam : I will not be available
 13:04:41	 From manez : he’s on his way. I was in his last meeting and he said he’d be on tis one
 13:08:49	 From daniel : hey hey

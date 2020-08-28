@@ -1,9 +1,9 @@
 13:01:25	 From Mike Bolam : Agenda
-13:01:27	 From Mike Bolam : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2020_02_10.md
+13:01:27	 From Mike Bolam : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2020_02_10.md
 13:08:10	 From Mark Jordan : cool
 13:11:34	 From Derek Merleaux : Yes - very clear
 13:15:15	 From Rosie Le Faive : great idea Mark!
-13:16:06	 From Rosie Le Faive : if you just joined: welcome! Here’s the agenda link. Mark Jordan’s going to introduce two tools for migration/metadata analysis/cleanup. https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2020_02_10.md
+13:16:06	 From Rosie Le Faive : if you just joined: welcome! Here’s the agenda link. Mark Jordan’s going to introduce two tools for migration/metadata analysis/cleanup. https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2020_02_10.md
 13:23:22	 From Rebel Cummings-Sauls : yes, please
 13:28:15	 From Rebel Cummings-Sauls : Thank you
 13:39:13	 From Alex K. : This would be very useful
