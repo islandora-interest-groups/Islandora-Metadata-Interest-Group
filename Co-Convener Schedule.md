@@ -26,11 +26,11 @@
 |July 27, 2020|**Meeting Cancelled**|||
 |August 10, 2020|Tillay|Mike|Islandora Online Discussion|
 |August 24, 2020|Mike|Rosie|Update of Mapping/Open Meeting| 
-|September 7, 2020|Rosie|Tillay||
-|September 21, 2020|Tillay|Mike||
-|October 5, 2020|Mike|Rosie|| 
-|October 19, 2020|Rosie|Tillay||
-|November 2, 2020|Tillay|Mike||
-|November 16, 2020|Mike|Rosie|| 
-|November 30, 2020|Rosie|Tillay||
-|December 14, 2020|Tillay|Mike||
+|September 7, 2020|No Meetings||
+|September 21, 2020|Rosie|Tillay||
+|October 5, 2020|Tillay|Mike||
+|October 19, 2020|Mike|Rosie|| 
+|November 2, 2020|Rosie|Tillay||
+|November 16, 2020|Tillay|Mike||
+|November 30, 2020|Mike|Rosie|| 
+|December 14, 2020|Rosie|Tillay||
