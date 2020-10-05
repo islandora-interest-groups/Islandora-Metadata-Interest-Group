@@ -1,4 +1,4 @@
-13:07:45	 From Bolam, Michael R : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/meetings/2020_06_15.md
+13:07:45	 From Bolam, Michael R : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/meetings/2020_06_15.md
 13:07:52	 From Bolam, Michael R : ^^^ Agenda
 13:08:52	 From Paige Morfitt : I'm curious!
 13:13:02	 From Paige Morfitt : Any types of metadata? Even MARC records? 

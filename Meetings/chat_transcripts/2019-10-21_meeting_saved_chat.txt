@@ -1,5 +1,5 @@
 12:59:50	 From Sarah Lippincott : hi
-13:00:28	 From michaelbolam : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2019_10_21.md
+13:00:28	 From michaelbolam : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2019_10_21.md
 13:06:37	 From michaelbolam : Looks good on my tiny laptop.
 13:07:01	 From Rosie Le Faive : https://docs.google.com/document/d/1fFz9wL9A06L3EMvhQyRnKKAxEkk8B-sv668Jl80HPEQ/edit?usp=sharing
 13:12:45	 From Charlie Tillay : 1963%/1970%  possibly?

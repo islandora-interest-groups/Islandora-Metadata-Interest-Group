@@ -1,4 +1,4 @@
-12:59:47	 From michaelbolam : Meeting Agenda: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2018_10_01.md
+12:59:47	 From michaelbolam : Meeting Agenda: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2018_10_01.md
 13:01:23	 From Daniel Lamb  : i'll have to drop out 15 minutes early.  have to take care of something before my next meeting
 13:03:01	 From Rachel Tillay : https://github.com/Islandora-CLAW/islandora_demo/pull/2
 13:03:20	 From Rachel Tillay : https://docs.google.com/spreadsheets/d/1C2Xie7HUDSgRT5v4ldoJvlNdoXz2GHAPvL3PE3TOKW8/edit#gid=1500472861
@@ -10,12 +10,15 @@
 13:27:28	 From Daniel Lamb  : https://www.coar-repositories.org/activities/repository-interoperability/coar-vocabularies/
 13:27:33	 From Rachel Tillay : http://id.loc.gov/search/?q=&q=cs%3Ahttp%3A%2F%2Fid.loc.gov%2Fvocabulary%2Ffrequencies
 13:27:48	 From Rosie : ooh Rachel! That looks promising
-13:30:54	 From jradding : Just for what it's worth, here is theSmavera MODS to RDF groups direct mapping for Origin info, https://docs.google.com/document/d/1FZI8KJiW4qSKYUUKe0mAwqlx0ppVRFyPtsfLDqQE5T8/edit#They use rdau:frequency.en for the predicate with the LOC Publication Frequencies Scheme linked above.
+13:30:54	 From jradding : Just for what it's worth, here is theSmavera MODS to RDF groups direct mapping for Origin info, https://docs.google.com/document/d/1FZI8KJiW4qSKYUUKe0mAwqlx0ppVRFyPtsfLDqQE5T8/edit#
+
+They use rdau:frequency.en for the predicate with the LOC Publication Frequencies Scheme linked above.
 13:32:14	 From jradding : Meant for that to link directly to originInfo: https://docs.google.com/document/d/1FZI8KJiW4qSKYUUKe0mAwqlx0ppVRFyPtsfLDqQE5T8/edit#heading=h.11yqlw12myf8
 13:33:32	 From michaelbolam : http://www.rdaregistry.info/Elements/u/#
 13:34:39	 From jradding : They map it to the LOC controlled vocabulary. 
 13:36:49	 From Daniel Lamb  : sounds like it to me
-13:38:32	 From Rachel Tillay : Example curie (canonical)*: 	rdau:P60001Example curie (lexical)*: 	rdau:respondentOf
+13:38:32	 From Rachel Tillay : Example curie (canonical)*: 	rdau:P60001
+Example curie (lexical)*: 	rdau:respondentOf
 13:39:03	 From Daniel Lamb  : http://rdaregistry.info/Elements/u/P60001
 13:42:33	 From Daniel Lamb  : I've got to step out here, folks
 13:42:37	 From Daniel Lamb  : sry
