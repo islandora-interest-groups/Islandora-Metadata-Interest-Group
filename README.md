@@ -4,6 +4,8 @@
 
 * Rosemary Le Faive (University of Prince Edward Island)
 * Charlie Tillay (Tulane University)
+* Paige Morfitt (Whitman College)
+* Kristina Spurgin (LYRASIS)
 * Mike Bolam (University of Pittsburgh)
 
 
