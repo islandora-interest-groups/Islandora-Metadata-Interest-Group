@@ -2,9 +2,10 @@
 
 ## Getting Data from XML into CSV
 
-1. Islandora Get CSV: gets values via Solr for an Islandora 7 collection
-1. XML2CSV: transform MODS XML values into CSV, by xpath. Buggy.
-1. Complex XML to OpenRefine: transforms any XML values into an ordered CSV, including attributes
+Tools described here:
+1. **Islandora Get CSV**: gets values via Solr for an Islandora 7 collection
+1. **XML2CSV**: transform MODS XML values into CSV, by xpath. Buggy.
+1. **Complex XML to OpenRefine**: transforms any XML values into an ordered CSV, including attributes
 
 ### [Islandora Get CSV](https://github.com/mjordan/islandora_get_csv) by Mark Jordan at SFU
 For a given islandora 7.x collection, get a CSV of all the metadata values, from Solr. By Mark Jordan.
