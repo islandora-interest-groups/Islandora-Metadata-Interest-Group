@@ -4,6 +4,7 @@ Main users/audience: co-conveners
 
 Purpose: keeping track of topics, ideas, etc. that we want to bring to MIG
 
+**Order does not indicate prioritization of any kind**
 -------------------------------------------------------------------------------
 
 ## Topics to discuss ##
@@ -20,7 +21,7 @@ Purpose: keeping track of topics, ideas, etc. that we want to bring to MIG
       
 ## Docs, etc. to produce ##
 
-  * Wireframes/etc. for desired technical metadata functionality/forms (?) - 
+  * Wireframes and use cases for desired technical metadata functionality/forms (?)
   
 ## Presentation/etc ideas ##
 
