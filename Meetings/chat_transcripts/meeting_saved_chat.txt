@@ -1,0 +1,26 @@
+10:07:19	 From  Paige Morfitt : Agenda: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021_01_11.md
+10:21:22	 From  Lisa McFall : We don't have developers on staff at Hamilton unfortunately.
+10:21:38	 From  Charlie Tillay : Ah, thanks for that detail, Lisa!
+10:23:43	 From  Paige Morfitt : That would be amazing, though!
+10:29:17	 From  Melissa Anez : One time *for now*
+10:29:32	 From  Paige Morfitt : I think that would be a great idea. I know in our process, that is something I wished we had. It would have saved us some time/investigation. 
+10:29:36	 From  Paige Morfitt : and confusion
+10:32:49	 From  Melissa Anez : I think that’s an excellent idea, Tillay
+10:33:26	 From  Mandy Ryan : I would love that so much! I can't attend all of the other interest meetings, but I'd love to get some details on what's being worked on/discussed in those
+10:34:20	 From  Rosie Le Faive : is anyone here on IR interest group? or multilingual (is that an IG yet?)
+10:34:46	 From  Melissa Anez : Multilingual is not an IG yet, but Multi-tenancy is
+10:35:03	 From  Melissa Anez : Active IGs: DIG, IRIG, ISLE, Multi-Tenancy
+10:35:07	 From  Melissa Anez : And the one we’re soaking in.
+10:35:27	 From  Melissa Anez : Please the User Group and the Tech Call. That’s basically the run of public meetings.
+10:35:57	 From  Melissa Anez : There is already a regular reporting channel for the Islandora Coordinating Committee
+10:37:04	 From  Lisa McFall : I need to run for a meeting with my son and his teacher. See you all next time!
+10:37:46	 From  Mandy Ryan : All of it?
+10:41:33	 From  Charlie Tillay : Ah, yes, the excellent open meetings as well!
+10:42:50	 From  Mandy Ryan : I like it
+10:45:53	 From  Melissa Anez : I think your question fell into the holiday void
+10:51:23	 From  Charlie Tillay : We've also regularly had some of us cataloger/metadata types freak out about the *next* migration, and how customization is going to complicate that. For instance, I'm convinced the next gen is going to hate us for moving away from the concept of records (ie. LoD)
+10:51:59	 From  Melissa Anez : gtg
+10:53:12	 From  Charlie Tillay : I'd be willing to write the *warning* risks of complication portion, but not the details of customization/how updates will work.
+10:54:06	 From  Charlie Tillay : Good point, Seth. We're still figuring out so many best practices.
+10:55:21	 From  Mandy Ryan : I love a good case study!
+11:01:01	 From  Bolam, Michael R : Speaking of which - I need to get to an Archives Space meeting in a minute. See everyone later!
