@@ -2,12 +2,13 @@
 
 ## Conveners
 
-* Rosemary Le Faive (University of Prince Edward Island)
-* Charlie Tillay (Tulane University)
 * Paige Morfitt (Whitman College)
 * Kristina Spurgin (LYRASIS)
-* Mike Bolam (University of Pittsburgh)
+* Charlie Tillay (Tulane University)
 
+### Emeritus conveners
+* Mike Bolam (University of Pittsburgh)
+* Rosemary Le Faive (University of Prince Edward Island)
 
 ### MIG MODS to RDF  
 * [Working Documents](https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/wiki/MIG-MODS-to-RDF-Working-Documents)  
