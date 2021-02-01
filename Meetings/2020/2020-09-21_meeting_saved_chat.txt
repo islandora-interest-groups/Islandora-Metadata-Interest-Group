@@ -1,0 +1,32 @@
+12:03:11	 From  Charlie Tillay : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/master/Meetings/2020/2020-09-21.md
+12:03:23	 From  Paige Morfitt : no longer breathing smoke!
+12:03:46	 From  Melissa Anez : Staying off camera because my son brought home a cold from his first week of school :)
+12:04:26	 From  Charlie Tillay : We're only 78 F with 87% humidity!
+12:04:28	 From  Melissa Anez : Eh, it’s inevitable
+12:05:03	 From  Charlie Tillay : Get well soon! Definitely time to get my flu shot and start taking elderberry syrup every day!
+12:06:00	 From  Danny Lamb : threats?
+12:06:04	 From  Danny Lamb : hehehehe
+12:06:17	 From  Danny Lamb : volun-will-you-just-freaking-do-this?
+12:07:59	 From  Rosie Le Faive : nah it’s great! Yay for community feedback!
+12:08:43	 From  Rosie Le Faive : The results (blog post) >> https://islandora.ca/index.php/content/latest-survey-results-are
+12:12:35	 From  Charlie Tillay : When creating those buckets in future surveys, you might need to clarify the for library administrators what your boundaries for administrators vs. librarians is, because most library administrators identify as librarians!
+12:13:24	 From  Charlie Tillay : Future surveys analyzing type of library/participant would be great!
+12:14:44	 From  Rosie Le Faive : Who’s working on the documentation?
+12:16:40	 From  Seth Shaw : I think SFU is sponsoring work on access controls...
+12:19:15	 From  Charlie Tillay : Do we need some kind of Inclusion Interest Group to be involved in accessibility and other areas that might get missed because they only effect a portion of the community?
+12:23:36	 From  Paige Morfitt : For us, there is confusion around if we'd need XML once we're in Islandora 8. 
+12:28:02	 From  Paige Morfitt : Same here! Our MODS are messy!
+12:35:21	 From  Seth Shaw : search_api_solr does support multiple SOLR servers and multiple SOLR cores.
+12:35:59	 From  Danny Lamb : https://wave.webaim.org/
+12:38:19	 From  Rosie Le Faive : Thanks Danny!
+12:39:38	 From  Rosie Le Faive : “that’s FITS. FITS is a file. It’s in XML and get attached to a Media. If you want you can pull out some info and put it in fields on the Media.”
+12:40:38	 From  Rosie Le Faive : My questions for us (metadata ppl): What is technical metadata? What are our needs/wants  w.r.t it? How would you like it treated in islandora?
+12:47:30	 From  Charlie Tillay : Minutes are getting fuzzy due to migraine (mostly a note to myself to review any notes I take from this point on).
+12:48:28	 From  Charlie Tillay : But also, I would welcome contributions to the minutes about this technical metadata discussion even post-meeting.
+12:53:24	 From  Danny Lamb : is fits universal?
+12:54:04	 From  Seth Shaw : FITS is actually a wrapper.
+12:54:10	 From  Seth Shaw : Around multiple tools.
+12:54:28	 From  Seth Shaw : ArchiveMatica also wraps it’s own set of identification tools.
+12:54:32	 From  Bolam, Michael R : Seth beat me to it…The wrapped stuff is a mix of XML and other data wrapped up in a bundle.
+12:54:36	 From  Danny Lamb : i mean universal as in 'de facto standard'
+12:58:42	 From  Danny Lamb : done.

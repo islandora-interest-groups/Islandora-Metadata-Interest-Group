@@ -1,0 +1,17 @@
+13:01:33	 From rosie : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2019/2019-04-22.md
+13:03:58	 From Melissa Anez : https://docs.google.com/forms/d/1qOwGvTlB-8DdoMs1eQ-aGCdaNSifTKXzB7Klj620v5k
+13:05:15	 From rosie : https://docs.google.com/spreadsheets/d/18u2qFJ014IIxlVpM3JXfDEFccwBZcoFsjbBGpvL0jJI/edit#gid=0
+13:09:01	 From rosie : http://www.loc.gov/standards/mods/userguide/part.html
+13:13:05	 From Johanna Radding : In that example you'd use part as a subelement of related item.
+13:13:27	 From Johanna Radding : (the chapter of a book if an individual physical item)
+13:20:39	 From Johanna Radding : I think finding a predicate for each that closely matches the concept that each example uses makes sense.
+13:31:37	 From rosie : MODS example w part: https://sandbox.islandora.ca/islandora/object/ir%3A2/datastream/MODS/view#overlay-context=islandora/object/ir%253A2
+13:36:13	 From daniel : gosh, there's not even consistency in the mods in the sandox
+13:36:21	 From Johanna Radding : Sorry had to step away for a moment
+13:39:13	 From rosie : example of a LD-y citation: http://www.bibliontology.com/content/article.html
+13:42:58	 From daniel : delicious
+13:43:11	 From daniel : don't tease me with thoughts of mint julips
+13:45:17	 From daniel : i'm muted and crying i'm laughing so hard at the muggle literature jab
+13:50:27	 From Kate Gerrity : +1 to Rachel's comment 
+13:54:20	 From rosie : example of a citation generated on the fly: https://sandbox.islandora.ca/islandora/object/ir%3A2 (see right above “Description”)
+13:55:50	 From rosie : one use case that I need: journal titles as a “facet” / ability to generate ‘reports’ of articles per journal, etc.

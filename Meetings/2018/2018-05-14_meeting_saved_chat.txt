@@ -1,0 +1,72 @@
+13:02:18	 From rachel tillay : Hello!
+13:02:23	 From rnaughton : yes
+13:03:22	 From rachel tillay : Save created a txt in this folder at my computer! C:\Users\[myusername]\Documents\Zoom\2018-05-14 12.02.31 Islandora Metadata IG call 181240170
+13:04:05	 From morfitpb : Me! Paige Morfitt
+13:04:33	 From michaelbolam : Trello: https://trello.com/b/J6ciWrqa/sample-mods-rdf-mapping-tool
+13:04:45	 From michaelbolam : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2018/2018-05-14.md
+13:04:48	 From Mark Jordan : I can't see an option to save chat transcripts in the Zoom admin settings, so someone will need to do it before we end the meeting
+13:05:13	 From Mark Jordan : good idea
+13:07:26	 From rachel tillay : If anyone is coming to ALA Annual at New Orleans, feel free to reach out! Tulane University is located in New Orleans, and I'd be glad to give recommendations.
+13:07:30	 From rachel tillay : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2018/2018-04-30.md
+13:07:38	 From rosie : https://trello.com/c/8dR1jq1c/62-modstitle
+13:07:44	 From rachel tillay : I didn't finish them completely.
+13:09:21	 From rachel tillay : Specifically, I stalled out on the "post-meeting review of decisions", so I'd love feedback on that and I can add them to the notes I took last week.
+13:12:09	 From daniel : you are correct.  it is language tag
+13:12:19	 From daniel : i shan't forget again
+13:12:35	 From rosie : https://gist.github.com/rosiel/7bd7caafe13f84e1357eaee17e84a245
+13:17:03	 From Bethany Seeger : so it would still look something like the example in the samvera doc:  <https://example.org/objects/1> dcterms:title "The wintermind : William Bonk and American letters" .    ?
+13:17:20	 From rosie : bethany: yes
+13:17:29	 From rachel tillay : Awesome. I like this.
+13:17:38	 From rachel tillay : Thank you, Rosie!
+13:19:43	 From Mark Jordan : I think you're right Danny
+13:19:52	 From rachel tillay : I'm confused...MIK uses PHP and XSLT???
+13:25:15	 From rachel tillay : I vote for that.
+13:25:21	 From Bethany Seeger : I definitely like the concatenation option
+13:31:59	 From Mark Jordan : The Bible
+13:32:20	 From rachel tillay : https://www.loc.gov/marc/authority/adx30.html
+13:32:48	 From rachel tillay : Correct. It's much more like a "subject" or a "name authority."
+13:33:06	 From rachel tillay : But for a title.
+13:33:09	 From rachel tillay : or work.
+13:33:15	 From rachel tillay : Instead of a person or group.
+13:34:27	 From rachel tillay : For notes: instead of just "string join" will it look for certain things to put in that alternative title and language tag?
+13:38:09	 From rosie : <nonSort> <title> <subTitle> <partNumber> <partName>
+13:39:32	 From rachel tillay : Current notes: <nonSort> <title> <subTitle> <partNumber> <partName> will concatenate with appropriate punctuation. <altTitle>s will be pulled into dcTerms: alternative and @language will be added to a language tag.
+13:39:51	 From rosie : rachel++ thanks!
+13:40:00	 From rachel tillay : Cool beans.
+13:40:31	 From rachel tillay : Yup!
+13:40:55	 From rachel tillay : https://tenor.com/view/spongebob-squarepants-spongebob-dust-hands-gif-4172164
+13:41:36	 From rachel tillay : I didn't get any notes down about Name mappings at the last meeting.
+13:41:46	 From rosie : neither did i.
+13:46:15	 From rachel tillay : I'll try to share whatever pre-processing we create to see if it helps anyone else with similar issues.
+13:46:38	 From rachel tillay : It'll probably take place in OpenRefine, maybe in the JSON export.
+13:47:01	 From rosie : danny++
+13:47:21	 From rosie : mark++
+13:47:35	 From rosie : MODIT
+13:48:15	 From Mark Jordan : https://github.com/mjordan/cdminspect
+13:48:15	 From rnaughton : Mark++
+13:50:04	 From rosie : http://www.loc.gov/standards/mods/userguide/name.html
+13:50:34	 From Mark Jordan : https://github.com/jyobb/islandora_metadata_analyzer
+13:51:03	 From Bethany Seeger : In case folks are interested - this is a helpful resource: http://book.freeyourmetadata.org/
+13:52:17	 From rachel tillay : I also created this card as per the tanget conversation we had.
+13:52:18	 From rachel tillay : https://trello.com/c/xMuhwxRf/70-pre-mapping
+13:53:41	 From rachel tillay : Can we do with names what we did with titles where the simplest option is a string?
+13:53:49	 From rosie : rachel++
+13:54:21	 From rachel tillay : Use cases:
+
+    some names have existing URIs; some will not
+    we may have more info in MODS than the URI (birth and death dates)
+    some will have roles, others will not
+    not every role will have a mapping to a known ontology, so we'll need to develop some particular set or option for unknown value
+    attributes like name type or namepart type may exist; these attributes currently may alter how the name is displayed
+
+13:54:30	 From rachel tillay : https://trello.com/c/HkXEzgYv/68-modsname
+13:56:00	 From Bethany Seeger : If you’re not talking, can you please mute?
+13:56:05	 From Mark Jordan : Robin, can you mute?
+13:56:31	 From rnaughton : Sorry, I thought I was on mute.
+13:56:40	 From Mark Jordan : no problem
+14:01:19	 From rosie : cool.
+14:01:50	 From Bethany Seeger : names and subjects are probably the worst…
+14:01:56	 From Bethany Seeger : famous lasts words, though. :)
+14:02:08	 From rachel tillay : Names will probably take 2.5 weeks.
+14:02:16	 From rachel tillay : IMHO
+14:02:29	 From Mark Jordan : Michael, don't forget to save chat transcript before you sign off.

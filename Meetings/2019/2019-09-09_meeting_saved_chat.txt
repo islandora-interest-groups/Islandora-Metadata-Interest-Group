@@ -1,0 +1,20 @@
+13:02:28	 From Melissa Anez : Anyone who needs an invite, just say the word.
+13:04:12	 From michaelbolam : Agenda:
+13:04:27	 From michaelbolam : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2019/2019-09-09.md
+13:04:39	 From michaelbolam : Book mapping:
+13:04:51	 From michaelbolam : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Tools/book_MODS_mapping.jpg
+13:14:29	 From Charlie Tillay : Sorry for de-railing: LCCN looks like a totally valid identifier and I was just confusing it with LCC classification. (https://lccn.loc.gov/ )
+13:14:40	 From Meredith Hale : Being nitpicky, for the value for the rights URI you should have “vocab” instead of “page”
+13:15:11	 From Meredith Hale : Done it a million times
+13:35:51	 From Paige Morfitt : yes, plesae
+13:39:42	 From michaelbolam : PCC = Program for Cooperative Cataloging
+13:39:50	 From michaelbolam : https://www.loc.gov/aba/pcc/
+13:40:41	 From Paige Morfitt : Ok. Yes! Thank you!
+13:47:45	 From Paige Morfitt : Yes!
+13:49:12	 From michaelbolam : Agree with the data hierarchy problem with MODS in OpenRefine.
+13:49:40	 From Meredith Hale : I use this to flatten - https://github.com/markpbaggett/complex_xml_to_openrefine
+13:50:08	 From Kate Gerrity : was just going to ask if you'd share... thanks!
+13:52:12	 From Melissa Anez : https://github.com/Islandora-CLAW/CLAW/issues/1172
+14:01:16	 From Meredith Hale : Thanks for the clarification.
+14:02:32	 From Kate Gerrity : thank you
+14:02:35	 From Paige Morfitt : Thank you!

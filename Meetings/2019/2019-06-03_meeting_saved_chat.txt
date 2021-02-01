@@ -1,0 +1,14 @@
+13:05:32	 From Rosie Le Faive : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2019/2019-06-03.md
+13:10:33	 From Rosie Le Faive : http://www.dublincore.org/resources/userguide/publishing_metadata/#dcterms:extent
+13:12:12	 From Rosie Le Faive : ex:myVideo dcterms:extent [ rdf:value "21 minutes" ] .
+13:19:22	 From Rosie Le Faive : "http:\/\/purl.org\/dc\/terms\/extent":[{"@value":"1 item","@type":"http:\/\/www.w3.org\/2001\/XMLSchema#string"}]
+13:25:55	 From Meredith Hale : I think properly is best.
+13:26:40	 From Rosie Le Faive : title: https://docs.google.com/document/d/15qSO9YcALtYSqd6CUuGx0t8FwUJ5pPwVPz0PA5rU898/edit#heading=h.ow50d7t4trlp
+13:29:26	 From Paige Morfitt : I think that's a fantistic idea, specially for someone who's still very new with Islandora. 
+13:32:16	 From Rosie Le Faive : Type of resource: https://docs.google.com/document/d/15qSO9YcALtYSqd6CUuGx0t8FwUJ5pPwVPz0PA5rU898/edit#heading=h.6zd6ralv4wvj
+13:41:21	 From Rosie Le Faive : https://docs.google.com/a/upei.ca/document/d/15qSO9YcALtYSqd6CUuGx0t8FwUJ5pPwVPz0PA5rU898/edit?disco=AAAADA4J2ZQ
+13:47:43	 From Itza carbajal : I do
+13:47:53	 From Paige Morfitt : We do for very very small towns.
+13:47:57	 From Meredith Hale : We don’t
+13:47:59	 From Kate Gerrity : we don't
+13:55:18	 From Rosie Le Faive : https://docs.google.com/a/upei.ca/document/d/15qSO9YcALtYSqd6CUuGx0t8FwUJ5pPwVPz0PA5rU898/edit?disco=AAAACp1Q0fg

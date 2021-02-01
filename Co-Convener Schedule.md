@@ -1,3 +1,7 @@
+As of Co-Convener meeting on 2020-02-01, we decided that Kristina will be standing chair, Paige will be standing note-taker, and Tillay will switch to fill in either role as needed and available.
+
+
+
 |Date | Chair | Note-taker | Topic |
 |---|---|---|---|
 |August 26, 2019|Rosie|Tillay|Mapping Vizualizations|
