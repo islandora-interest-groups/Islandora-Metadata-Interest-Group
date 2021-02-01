@@ -1,0 +1,31 @@
+13:01:41	 From Martha Tenney : Can you send me a link? I can share
+13:01:43	 From Martha Tenney : or request access
+13:01:53	 From Charlie Tillay : https://docs.google.com/document/d/11OpqMMCXM1TFXgsr4yyTQ_cH9DabnD31p7JnuTRQl28/edit?invite=CMWvruEI&ts=5e66437f
+13:02:10	 From Martha Tenney : And your email
+13:02:15	 From Martha Tenney : to share it with
+13:02:57	 From Lisa McFall : Poor thing :(
+13:03:18	 From Charlie Tillay : I think I'm currently logged in as r.tillay@gmail.com
+13:03:59	 From Martha Tenney : Sent! Can share any docs with anyone if you share your email—sorry a lot of these docs originate on school google apps which means you can’t open via the link
+13:04:26	 From Charlie Tillay : https://docs.google.com/spreadsheets/d/15esq0W2tcxUfIVf0nCl1wr0blxhci2m97T5B-h-zOvs/edit#gid=0
+13:04:36	 From Charlie Tillay : https://docs.google.com/document/d/11OpqMMCXM1TFXgsr4yyTQ_cH9DabnD31p7JnuTRQl28/edit?ts=5e66437f
+13:04:49	 From Charlie Tillay : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2020/2020-03-23.md
+13:05:05	 From Melissa Anez : Quick announcement?
+13:05:30	 From Melissa Anez : https://zoom.us/meeting/register/vpEkcuyrrTIjkosuYnsqT5ywcWIxBrY61w
+13:06:25	 From Charlie Tillay : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2020/2020-03-09.md
+13:06:33	 From Paige Morfitt : I think we stopped on relatedItem
+13:20:12	 From Rosie Le Faive : here’s an example yaml showing a solr-field-to-drupal-field: https://github.com/Islandora-Devops/migrate_7x_claw/blob/main/modules/islandora_migrate_7x_claw_feature/config/install/migrate_plus.migration.islandora_objects.yml#L65-L67
+13:25:04	 From Paige Morfitt : I like that idea! 
+13:25:45	 From Rosie Le Faive : Lisa - “option: you could make a different field for every identifier. Another option: you could make a paragraph for “identifier” that includes a dropdown (or whatever) for “type”. Another option: We could make a “new Drupal field type” that is a “typed string” (parallel to a “typed relation”)
+13:28:48	 From Martha Tenney : We are using location as recommended in dlf aquifer guidelines https://wiki.dlib.indiana.edu/download/attachments/24288/DLFMODS_ImplementationGuidelines.pdf
+13:30:30	 From Rosie Le Faive : do you *want* to map the URL location? i.e. are you planning to maintain all your old URL locations?
+13:38:10	 From Alex K. : Got a larger question, perhaps. Just ran our first test migration and got objects to come through, but no metadata came through from our 7 site. Where do we "input" metadata mapping in 7 to get it to come through to 8? Or is that mapping/config done somewhere in 8? Or are the YML files where we do this mapping? Apologies if this question isn't on topic for the meeting at the moment :)
+13:38:31	 From Rosie Le Faive : https://github.com/Islandora-Devops/migrate_7x_claw/blob/main/modules/islandora_migrate_7x_claw_feature/config/install/migrate_plus.migration.islandora_objects.yml#L65-L67
+13:38:48	 From Alex K. : THANK YOU
+13:39:33	 From Alex K. : Exactly, we are trying to use the migrate module but have lots of customizations
+13:40:12	 From Alex K. : Feels like some broader documentation needed on it
+13:40:32	 From Alex K. : Can try to work on that some as we are testing on it
+13:40:56	 From Seth Shaw : As for rights statements, we have a Drupal Taxonomy for the rights statements we use and our objects use a Drupal Entity Reference field mapped to dc:rights.
+13:41:07	 From Seth Shaw : We = UNLV
+13:46:29	 From Alex K. : I would suggest looking at Creative Commons, RightsStatements.org at some point
+13:59:58	 From Alex K. : This was quite a helpful meeting today. Thank you!
+14:00:09	 From Angelina Spotts : Thank you!

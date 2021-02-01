@@ -1,0 +1,37 @@
+13:02:11	 From Rosie Le Faive : https://addons.mozilla.org/en-CA/firefox/addon/tree-style-tab/
+13:02:59	 From Bolam, Michael R : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2020/2020-11-16.md
+13:03:07	 From Bolam, Michael R : ^^ Agenda!
+13:04:38	 From Lisa McFall to Bolam, Michael R (Privately) : Sorry, I joined just after you sent the link. Any chance you could re-send it to me?
+13:06:00	 From Melissa Anez : https://islandora.ca/content/open-meeting-islandora-8-sandbox-time
+13:06:37	 From Bolam, Michael R to Lisa McFall (Privately) : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2020/2020-11-16.md
+13:06:47	 From Bolam, Michael R to Lisa McFall (Privately) : Agenda (again)!^^
+13:06:50	 From Lisa McFall to Bolam, Michael R (Privately) : Thank you so much! Juggling kid school and meetings today
+13:07:06	 From Bolam, Michael R to Lisa McFall (Privately) : No problem. Sorry it took me a while. Notes and tracking chat.
+13:07:14	 From Lisa McFall to Bolam, Michael R (Privately) : No worries!
+13:08:07	 From Paige Morfitt : sounds good to me!
+13:17:32	 From Melissa Anez : It might not be absolutely reliable information, but it’s still information
+13:33:03	 From Seth Shaw : I think this exactly the right group to figure out what you want.
+13:33:33	 From Rosie Le Faive : Kristina  you’re breaking up to me - to anyone else?
+13:34:45	 From Paige Morfitt : I agree, Kristina. The role of metadata person is simplified to "add this". 
+13:49:11	 From Danny Lamb : i cannot escape slack
+13:51:08	 From Paige Morfitt : there's a google group?
+13:51:35	 From Bolam, Michael R : https://groups.google.com/g/islandora
+13:51:44	 From Melissa Anez : Paige: it’s our “listserv”
+13:52:26	 From Paige Morfitt : Ah! Ok. Thank you! 
+13:52:35	 From Paige Morfitt : And thank you for sharing the link! 
+13:54:36	 From Kristina Spurgin (she/her) : Mental note I'm making: If I ask about a problem on Slack and eventually arrive at a solution, maybe write up a "here's how I solved this problem" message to the listserv to make it more easy to find... ?
+13:55:01	 From Rosie Le Faive : KRISTINA++
+13:55:03	 From Danny Lamb : that is what a good open source citizen would do
+13:56:08	 From Kristina Spurgin (she/her) : Oh man, everything I do is multiparagraphs... oof
+13:57:39	 From Kristina Spurgin (she/her) : AUTOCAT
+13:58:03	 From Melissa Anez : I’ve seen a handful of listserv fights go down in archives land, but it always seems unusual
+13:58:07	 From Bolam, Michael R : Alma/Primo lists are a nightmare of ready to delete emails.
+13:58:23	 From Rosie Le Faive : (how to make sure your question gets answered - know your audience)
+13:59:35	 From Seth Shaw : Side note: most of our Google Group traffic lately has been folks who found the list and post there, mainly to be told “Use Slack.” I’ve tried to give replies, but there really isn’t much traffic there.
+14:00:13	 From Melissa Anez : Tillay++
+14:00:14	 From Paige Morfitt : Yes, Tillay! 
+14:00:22	 From Melissa Anez : It took me a long time to own how often I didn’t understand.
+14:00:23	 From Rosie Le Faive : Tillay++
+14:01:32	 From Melissa Anez : Excellent chairing. You run a tight yet cozy ship :)
+14:02:09	 From Paige Morfitt : thank you!
+14:02:10	 From Mandy Ryan : Thank you!

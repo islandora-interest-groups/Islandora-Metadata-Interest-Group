@@ -1,0 +1,20 @@
+12:59:50	 From Sarah Lippincott : hi
+13:00:28	 From michaelbolam : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2019/2019-10-21.md
+13:06:37	 From michaelbolam : Looks good on my tiny laptop.
+13:07:01	 From Rosie Le Faive : https://docs.google.com/document/d/1fFz9wL9A06L3EMvhQyRnKKAxEkk8B-sv668Jl80HPEQ/edit?usp=sharing
+13:12:45	 From Charlie Tillay : 1963%/1970%  possibly?
+13:14:49	 From Charlie Tillay : EDTF documentation for those following along: https://www.loc.gov/standards/datetime/edtf.html
+13:23:53	 From Charlie Tillay : I have a whole spreadsheet of how I'm consolidating all of these into genre terms in LCGFT and then the Spanish pulled from Sears in Spanish.
+13:24:18	 From Charlie Tillay : But, that solution sounds much easier in theory.
+13:29:23	 From daniel : we all know nothing has ever been longer than the arbitrary 256 character limit
+13:29:43	 From daniel : ^^ Assumptions programmers make about strings
+13:30:02	 From Charlie Tillay : ROTFL
+13:30:28	 From Charlie Tillay : I was recently informed that some of our map titles have 50+ words in the title.
+13:30:46	 From daniel : _there is_
+13:39:30	 From daniel : we're doin' it live!
+13:39:36	 From Seth Shaw : So for it. You can roll back if it borks!
+13:39:42	 From Seth Shaw : ^Go for it.
+13:47:29	 From Sarah Lippincott : You can filter for blanks
+13:48:06	 From daniel : :%s/^M//ga
+13:50:01	 From Seth Shaw : “:set ff=unix”
+13:57:05	 From Sarah Lippincott : thank you!
