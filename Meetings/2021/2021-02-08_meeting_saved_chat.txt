@@ -1,0 +1,45 @@
+10:03:15 From  Mirko Hanke (he/him/his)  to  Everyone : Hello everyone! I'll keep my video off while eating :)
+10:03:32 From  Paige Morfitt  to  Everyone : Agenda! https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021/2021-02-08.md
+10:12:05 From  Seth Shaw  to  Everyone : “Overly simplified”
+10:13:25 From  Seth Shaw  to  Everyone : YAML: https://yaml.org/
+10:18:24 From  Mirko Hanke (he/him/his)  to  Everyone : Is this a way to set up new content type (?) or what the equivalent of Content Models in I7 is?
+10:19:05 From  Seth Shaw  to  Everyone : @Mirko: this would be one step, after setting up the content type itself.
+10:19:20 From  Seth Shaw  to  Everyone : Setting up a new content type can all happen in the Drupal web interface.
+10:20:02 From  Kristina Spurgin (she/her)  to  Everyone : But the Islandora 8 basic content type idea is very different from I7s's content models, right?
+10:20:04 From  Mirko Hanke (he/him/his)  to  Everyone : Ok, nice
+10:20:21 From  Kristina Spurgin (she/her)  to  Everyone : We express that with the System Model field/taxonomy
+10:20:33 From  Seth Shaw  to  Everyone : I can’t speak to I7. 🤷‍♂️
+10:20:37 From  Kristina Spurgin (she/her)  to  Everyone : But there's not a specific distinct content type
+10:21:22 From  Kristina Spurgin (she/her)  to  Everyone : By default, everything's an Islandora Object/Repository Item, whether it's an image, collection, video, PDF or whatever
+10:21:51 From  Seth Shaw  to  Everyone : Yup. But you can add your own. Most early adopters have.
+10:22:45 From  Mirko Hanke (he/him/his)  to  Everyone : And is the metadata schema tied to the Drupal node type/class, or to the System Model taxonomy entries?
+10:23:18 From  Kristina Spurgin (she/her)  to  Everyone : Yep, but mostly folks aren't making a new content type per Islandora Model term, right? (Each of those is a different I7 content type)
+10:24:26 From  Seth Shaw  to  Everyone : 🐛
+10:25:03 From  Kristina Spurgin (she/her)  to  Everyone : By default, you set your fields up on the content type (Islandora Model). They are the same in the form regardless of the System Model chosen
+10:25:10 From  Kristina Spurgin (she/her)  to  Everyone : This is *by default*
+10:25:12 From  Seth Shaw  to  Everyone : Yes.
+10:25:48 From  Paige Morfitt  to  Everyone : Good for the note taking!
+10:26:00 From  Kristina Spurgin (she/her)  to  Everyone : There are use cases under discussion about needing a different metadata form / view per system model, collection and/or other specific contexts
+10:27:15 From  Seth Shaw  to  Everyone : Yes, that is true. When the base field set doesn’t need to change but you may want to hide certain fields depending on X condition.
+10:27:26 From  Mirko Hanke (he/him/his)  to  Everyone : Let's say I have some images described in VRA core, and some described in RiC, I would need to set up two content types?
+10:27:57 From  Seth Shaw  to  Everyone : Yes, that would be ‘best’.
+10:28:28 From  Mirko Hanke (he/him/his)  to  Everyone : Good to know, thanks Seth!
+10:28:29 From  Seth Shaw  to  Everyone : I have separate content types for Dublin Core, and Architype.
+10:29:34 From  Melissa Anez  to  Everyone (in Waiting Room) : They are not on the call
+10:32:11 From  Seth Shaw  to  Everyone : I will note that RiC’s “Thing”, “Record Resource”, and “Instantiation” may be a bit hairy to do well.
+10:33:58 From  Seth Shaw  to  Everyone : Also, we use dates as a property, rather than as an entity.
+10:34:14 From  Mirko Hanke (he/him/his)  to  Everyone : I was using that just as an example
+10:34:23 From  Seth Shaw  to  Everyone : 👍
+10:39:23 From  Seth Shaw  to  Everyone : I think that was my phone buzzing.
+10:39:29 From  Seth Shaw  to  Everyone : My mic was on.
+10:41:21 From  Paige Morfitt  to  Everyone : Entity reference is like autofill?
+10:44:51 From  Mirko Hanke (he/him/his)  to  Everyone : Paige, I'd assume that the autofill function can use data from a referenced entity, but I'd like to hear more on that from Danny or Seth as well.
+10:45:45 From  Seth Shaw  to  Everyone : Yes, entity reference *can* use an auto-fill. Or a drop down, or check-boxes, depending on how you want to setup your form.
+10:47:51 From  Mirko Hanke (he/him/his)  to  Everyone : And do entity references only reference Drupal/internal entities, or can you reference external resources as well?
+10:49:30 From  Seth Shaw  to  Everyone : Usually, only internal stuff. Drupal has a “Link” field for creating external links. Although, there is a module to use LOC references for subjects instead… I’d have to find it.
+10:51:05 From  Mirko Hanke (he/him/his)  to  Everyone : Oh, that sounds interesting. Even if it were to create a local copy of the external data upon first reference, this could be very useful.
+10:51:42 From  Seth Shaw  to  Everyone : Found it https://www.drupal.org/project/linked_data_field
+10:52:09 From  Seth Shaw  to  Everyone : I haven’t played with it, so I don’t know details.
+10:53:03 From  Mirko Hanke (he/him/his)  to  Everyone : Nice, thank you!
+10:59:41 From  Seth Shaw  to  Everyone : ?_format=jsonld
+10:59:45 From  Danny Lamb  to  Everyone : ?_format=jsonld
