@@ -1,0 +1,43 @@
+10:00:31 From  Paige Morfitt  to  Everyone : Link to the agenda! https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021/2021-03-08.md
+10:03:15 From  Paige Morfitt  to  Everyone : Agenda links!https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021/2021-03-08.md
+10:05:18 From  Paige Morfitt  to  Everyone : sandbox
+10:05:21 From  Karen Gorss Benko (she/her)  to  Everyone : sandbox?
+10:07:20 From  Paige Morfitt  to  Everyone : https://docs.google.com/spreadsheets/d/1s5GCs9zrJsXevOulyRehpC-wdn4ShOVvEeaHDN_A2eo/edit
+10:07:38 From  Paige Morfitt  to  Everyone : work-spreadsheet: https://docs.google.com/spreadsheets/d/1-L_eAaNBvnVWb05HFrnNHKM6Bn2ULDKxurB9ZXRYCpU/edit#gid=0
+10:09:45 From  Bolam, Michael R  to  Everyone : “in progress” might be good if multiple people are in the spreadsheet?
+10:09:57 From  Charlie Tillay  to  Everyone : Mike +1
+10:10:01 From  Karen Gorss Benko (she/her)  to  Everyone : Yes
+10:10:02 From  Bolam, Michael R  to  Everyone : So someone doesn’t jump on something you are working on..
+10:10:13 From  Karen Gorss Benko (she/her)  to  Everyone : Also people could get interrupted and have to come back hours later
+10:21:21 From  Charlie Tillay  to  Everyone : I vaguely remember that we had decided to use description and abstract for different fields, and I'm wondering if that's causing some of this discrepancy. I might look up the historical notes on this field.
+10:26:06 From  Christopher H Day  to  Everyone : Sure
+10:26:17 From  Mandy Ryan  to  Everyone : Sure!
+10:26:34 From  Rebecca McCallum (she/her)  to  Everyone : Sure!
+10:27:15 From  Charlie Tillay  to  Everyone : https://docs.google.com/spreadsheets/d/18u2qFJ014IIxlVpM3JXfDEFccwBZcoFsjbBGpvL0jJI/edit#gid=0
+10:29:08 From  Karen Gorss Benko (she/her)  to  Everyone : Can you show again how to get to the sandbox?
+10:29:38 From  Paige Morfitt  to  Everyone : This is the link to the sandbox: https://159-203-41-81.traefik.me/
+10:29:45 From  Karen Gorss Benko (she/her)  to  Everyone : Thank you Paige
+10:34:08 From  Mandy Ryan  to  Everyone : Agreed - a separate document would be great
+10:38:02 From  Mandy Ryan  to  Everyone : Just want to clarify - for the actual vocabulary column, that would be the checked vocabulary on the reference type page?
+10:39:28 From  Charlie Tillay  to  Everyone : Instructions say "record actual drupal field name if different." So, if it's the same, I should leave the field empty?
+10:39:57 From  Karen Gorss Benko (she/her)  to  Everyone : Is "Actual Drupal Field Name" what the sandbox calls "machine name" 
+10:39:59 From  Karen Gorss Benko (she/her)  to  Everyone : ?
+10:42:32 From  Karen Gorss Benko (she/her)  to  Everyone : Or maybe it is what the sandbox calls "Label"
+10:43:12 From  Mandy Ryan  to  Everyone : Got it! Thanks :)
+10:44:06 From  Karen Gorss Benko (she/her)  to  Everyone : Thank you
+10:45:14 From  Mandy Ryan  to  Everyone : I'm probably doing something wrong - but I'm getting an error message with I add the ?_format=jsonld
+10:46:39 From  Karen Gorss Benko (she/her)  to  Everyone : Are we to edit what's in the gray columns if necessary? Or just make a note if there's a discrepancy?
+10:47:04 From  Danny Lamb  to  Everyone : works for me? https://159-203-41-81.traefik.me/node/42?_format=jsonld
+10:48:09 From  Liz DeLisle Rodrigues  to  Everyone : Hopping off—thanks for the walkthrough!
+10:48:12 From  Danny Lamb  to  Everyone : also seems ok for me: https://159-203-41-81.traefik.me/node/41?_format=jsonld
+10:48:31 From  Danny Lamb  to  Everyone : if that link fails for you, let me know
+10:49:01 From  Mandy Ryan  to  Everyone : Oh, interesting - I don't think that's the link that was generated when it took me to my created node
+10:49:28 From  Mandy Ryan  to  Everyone : So when I created my test node it took me to this address: https://159-203-41-81.traefik.me/user/3
+10:51:53 From  Mandy Ryan  to  Everyone : Search worked and provided the right initial address - all working now!
+10:53:13 From  Christopher H Day  to  Everyone : Danny, you are now a value in the Persons taxonomy. Please correct any of your information if you want.
+10:54:44 From  Brianna Gormly  to  Everyone : Going to need to leave for another meeting. Are there going to be other co-working times?
+10:55:02 From  Karen Gorss Benko (she/her)  to  Everyone : Brianna +1
+10:55:33 From  Angelina Spotts (she/they)  to  Everyone : Heading to another meeting but this has been very interesting. Just had a meeting with one of our devs this morning dealing with many of these same topics. Thanks!
+10:57:50 From  Lisa McFall (she/her) | Hamilton College  to  Everyone : I have to run to another meeting too but I'd definitely be in interested in another co-working time. I'll watch the Slack channel for more info. Thanks so very much, this was immensely helpful!
+10:58:34 From  Brianna Gormly  to  Everyone : Thanks everyone!
+10:59:10 From  Rebecca McCallum (she/her)  to  Everyone : Thank you, this session was super helpful!
