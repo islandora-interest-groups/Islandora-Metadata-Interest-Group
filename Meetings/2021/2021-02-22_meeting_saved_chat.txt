@@ -1,34 +1,12 @@
-10:03:24 From  Paige Morfitt  to  Everyone : Here's the agenda! https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021/2021-02-22.md
-10:03:26 From  Lisa McFall (she/her) | Hamilton College  to  Everyone : Hi!
-10:03:54 From  Lisa McFall (she/her) | Hamilton College  to  Everyone : I have to duck out at 1:40 for a meeting with my son and his teacher.
-10:04:35 From  Charlie Tillay  to  Everyone : misophonia!
-10:08:24 From  Paige Morfitt  to  Everyone : Here's the agenda again: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021/2021-02-22.md
-10:08:45 From  Danny Lamb  to  Everyone : the crickets mean whatever you want them to mean
-10:08:49 From  Danny Lamb  to  Everyone : i live by that rule
-10:09:29 From  Kristina Spurgin (she/her)  to  Everyone : https://docs.google.com/spreadsheets/d/1-L_eAaNBvnVWb05HFrnNHKM6Bn2ULDKxurB9ZXRYCpU/edit#gid=0
-10:10:40 From  Mandy Ryan (she/her)  to  Everyone : 1 vote for shared screen
-10:13:06 From  Danny Lamb  to  Everyone : i'm tinkering with it now
-10:19:44 From  Charlie Tillay  to  Everyone : Early on in the mapping, we did play around with complex titles vs. simple titles.
-10:24:09 From  Seth Shaw  to  Everyone : Fuller form title is the simplest to do.
-10:24:19 From  Seth Shaw  to  Everyone : Yup.
-10:25:01 From  Charlie Tillay  to  Everyone : Okay...note to update the other spreadsheet as well!
-10:31:58 From  Paige Morfitt  to  Everyone : Do we want to stray too far from the default?
-10:33:08 From  Charlie Tillay  to  Everyone : Totally fair. Sorry...since I missed last meeting, I'm definitely behind!
-10:35:57 From  Paige Morfitt  to  Everyone : that's what we're working with
-10:39:15 From  Charlie Tillay  to  Everyone : I would love at least a couple open work sessions...I think I'll be more likely to participate if I know I can immediately ask a question (rather than having to type out a message about what I'm seeing).
-10:39:43 From  Paige Morfitt  to  Everyone : I agree!
-10:40:15 From  Mandy Ryan (she/her)  to  Everyone : Yeah, I’d love to do a set work session, even if it’s just in the beginning to get started.
-10:42:44 From  Seth Shaw  to  Everyone : 👍
-10:44:26 From  Seth Shaw  to  Everyone : That works.
-10:46:04 From  Seth Shaw  to  Everyone : I still haven’t found where to change my black box.
-10:46:13 From  Bolam, Michael R  to  Everyone : DP.LA MAP for quick reference: https://pro.dp.la/hubs/metadata-application-profile
-10:46:59 From  Seth Shaw  to  Everyone : Huh… still not seeing it on that page. 🤷‍♂️
-10:47:20 From  Paige Morfitt  to  Everyone : "Something about the i8 metadata I realized is really bothering me - you have to define your repeating fields by how many repeats they are allowed - and you get one shot at that and can never change it.  I am horrified by both of those things - I thought defining a limited number of repeats went away with relational databases in the 90s.  And not being able to change?  Is 5 authors enough?  Do I have to do 10 and waste all those empty spaces on every record?  I don't really understand how drupal stores the metadata and I guess I need to - because what I believe are the answers to those questions are one reason I am strongly opposed to i8."
-10:51:28 From  Seth Shaw  to  Everyone : All I can say is “CONTENTdm didn’t scale.”
-10:51:39 From  Seth Shaw  to  Everyone : We got too big for it.
-10:52:11 From  Seth Shaw  to  Everyone : Oh, our problem request log is *long*
-10:52:21 From  Seth Shaw  to  Everyone : Filled with “they didn’t respond”
-10:54:55 From  Charlie Tillay  to  Everyone : Thanks for these helpful pieces of information I can use in these discussion. I really appreciate this community and I do not want to leave it.
-10:57:14 From  Mandy Ryan (she/her)  to  Everyone : I’m working with a few partner institutions that are all going through CMS/DAMS migrations into new hosted solutions (and unhosted) and it feels like there’s a variety of issues with all of them.
-10:58:37 From  Seth Shaw  to  Everyone : Yay community development!
-10:59:20 From  Seth Shaw  to  Everyone : I wonder if it is because I’m on a Mac… ☹️
+10:04:11 From  Paige Morfitt  to  Everyone : Link to agenda: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021/2021-03-22.md
+10:08:41 From  Mandy Ryan  to  Everyone : I second that! The prep was amazing and I walked away feeling way more knowledgeable about islandora 8 in general
+10:15:29 From  Danny Lamb  to  Everyone : happens
+10:19:30 From  Danny Lamb  to  Everyone : it's confusing in the least
+10:19:48 From  Danny Lamb  to  Everyone : # uris plz
+10:29:55 From  Danny Lamb  to  Everyone : DEI?
+10:30:29 From  Rosie Le Faive  to  Everyone : diversity, equity, inclusion. (generally, the push for cataloging to not be so racist)
+10:31:43 From  Rosie Le Faive  to  Everyone : (and otherwise harmful, understanding the many kinds of harms often come from interlocking causes/forces, and that they’re pretty well pervasive in various ways of what and how we do what we do)
+10:40:06 From  Paige Morfitt  to  Everyone : Identifiers seemed to do the same thing. But I could be wrong
+10:44:52 From  Danny Lamb  to  Everyone : i know right?
+10:57:19 From  Rosie Le Faive  to  Everyone : I have to run to another meeting - sorry!
+10:58:52 From  Seth Shaw  to  Everyone : I need to run. 👋
