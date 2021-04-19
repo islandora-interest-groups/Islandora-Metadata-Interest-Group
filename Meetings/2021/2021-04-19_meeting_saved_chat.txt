@@ -1,0 +1,17 @@
+10:03:23 From  Paige Morfitt  to  Everyone : Agenda! https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021/2021-04-19.md
+10:03:41 From  Kristina Spurgin (she/her)  to  Everyone : Thanks, Paige!
+10:08:38 From  Seth Shaw  to  Everyone : https://github.com/Islandora/documentation/issues/1770
+10:09:24 From  Seth Shaw  to  Everyone : Well, I was leaving it open for anyone to do… but I guess I’m assigned now…
+10:09:49 From  Lisa McFall (she/her) | Hamilton College  to  Everyone : You didn't step back quickly enough, Seth :)
+10:11:17 From  Paige Morfitt  to  Everyone : it bothers me
+10:18:21 From  Mandy Ryan  to  Everyone : I'm good with calling it either
+10:18:24 From  Paige Morfitt  to  Everyone : would it hurt to add another field? In case people have both an Abstract and Description  field?
+10:20:25 From  Lisa McFall (she/her) | Hamilton College  to  Everyone : Including both would probably give institutions the most flexibility.
+10:23:41 From  Paige Morfitt  to  Everyone : Agree
+10:25:38 From  Seth Shaw  to  Everyone : Being summoned away. Slack me if you need me.
+10:27:14 From  Lisa McFall (she/her) | Hamilton College  to  Everyone : I have to drop off for another call. Thanks!
+10:35:22 From  Rosie Le Faive  to  Everyone : seems reasonable
+10:35:27 From  Paige Morfitt  to  Everyone : looks good!
+10:37:40 From  Paige Morfitt  to  Everyone : why does it not show up in the json?
+10:41:47 From  Paige Morfitt  to  Everyone : does this change apply to every thing in I8? or just this item/collection?
+10:48:47 From  Paige Morfitt  to  Everyone : you haven't seen my face, lol
