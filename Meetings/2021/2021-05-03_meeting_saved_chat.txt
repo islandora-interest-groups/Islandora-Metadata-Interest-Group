@@ -1,0 +1,35 @@
+10:03:08 From  Paige Morfitt  to  Everyone : Here is the agenda: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021/2021-05-04.md
+10:05:15 From  Paige Morfitt  to  Everyone : Here is the agenda: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021/2021-05-04.md
+10:07:06 From  Lisa McFall (she/her) | Hamilton College  to  Everyone : That sounds great! Thank you!
+10:07:51 From  Bolam, Michael R  to  Everyone : I like it - crossing the lines between terminology used in the metadata librarian world and the web CMS world seems to always cause some confusion!
+10:10:57 From  Matthew Lincoln (he/him)  to  Everyone : When you say the name of field is changing to “Agent”, is that just changing the field label? The machine name field_linked_agent will remain the same, yes?
+10:11:25 From  Rosie Le Faive  to  Everyone : @Matthew Lincoln - yes. machine name isn’t changing
+10:11:29 From  Matthew Lincoln (he/him)  to  Everyone : ty
+10:13:12 From  Rosie Le Faive  to  Everyone : https://github.com/Islandora/controlled_access_terms/pull/67#issuecomment-829258099
+10:15:50 From  Kristina Spurgin (she/her)  to  Everyone : https://github.com/Islandora/controlled_access_terms/pull/67
+10:24:26 From  Paige Morfitt  to  Everyone : document: https://docs.google.com/document/d/18XChGOCWm_bT_S-UsfOl8l9xnsioF-L8sdsBXMQcqXU/edit#heading=h.9bn0ps9gm8x9
+10:27:37 From  Karen Gorss Benko [she/her]  to  Everyone : In our public OPAC, we have "Subjects" and "Notes," but everything else is singular. IMO it doesn't matter a whole lot
+10:31:37 From  Seth Shaw  to  Everyone : Our metadata folks decided to keep everything singular.
+10:31:49 From  Seth Shaw  to  Everyone : Even “geographic coordinate”.
+10:32:34 From  Karen Gorss Benko [she/her]  to  Everyone : Seth, have any users remarked on "geographic coordinate"?
+10:32:50 From  Seth Shaw  to  Everyone : User testing will being in a month or so.
+10:33:04 From  Karen Gorss Benko [she/her]  to  Everyone : 3 bucks says no one notices
+10:33:05 From  Seth Shaw  to  Everyone : *begin
+10:33:11 From  Mandy Ryan  to  Everyone : I dig Coordinates
+10:35:42 From  Bolam, Michael R  to  Everyone : I remember it being a catch-all/protect the data field, too.
+10:36:27 From  Bolam, Michael R  to  Everyone : Right, yeah, also other formats of coordinates.
+10:41:36 From  Christopher H Day  to  Everyone : I think so.
+10:44:39 From  Lisa McFall (she/her) | Hamilton College  to  Everyone : We did that during our migration from CONTENTdm to I7. It was worth the amount of time it took to change and let us have a better index.
+10:44:40 From  Matthew Lincoln (he/him)  to  Everyone : We at CMU feel your same pain @Michael
+10:46:35 From  Christopher H Day  to  Everyone : No matter how many fields you add, I’ll still be tripling it at least. :)
+10:48:02 From  Mandy Ryan  to  Everyone : Please!
+10:49:52 From  Danny Lamb  to  Everyone : please please please feel free to make that form better!
+10:51:25 From  Danny Lamb  to  Everyone : i'd do the same with acces terms, fwiw
+10:51:48 From  Danny Lamb  to  Everyone : hide it if it makes no sense and we can do things better
+10:52:15 From  Paige Morfitt  to  Everyone : Does access terms mean limited access/limited view to records?
+10:53:19 From  Danny Lamb  to  Everyone : YUP
+10:54:06 From  Danny Lamb  to  Everyone : yeah, and like delete the taxonomy
+10:55:31 From  Danny Lamb  to  Everyone : my technical description for what would happen is "pain in the arse"
+10:56:16 From  Paige Morfitt  to  Everyone : would you suggest not using taxonomies for that then?
+10:57:29 From  Kristina Spurgin (she/her)  to  Everyone : https://134-122-43-86.traefik.me
+10:59:13 From  Matthew Lincoln (he/him)  to  Everyone : ty :)
