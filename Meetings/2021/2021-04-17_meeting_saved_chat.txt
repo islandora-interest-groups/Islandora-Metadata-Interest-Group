@@ -1,0 +1,25 @@
+10:01:51 From  Paige Morfitt  to  Everyone : Agenda! https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021/2021-05-17.md
+10:04:04 From  Paige Morfitt  to  Everyone : Agenda: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021/2021-05-17.md
+10:14:07 From  Seth Shaw  to  Everyone : What ontology/predicate would you use for that?
+10:16:50 From  Karen Benko  to  Everyone : In cataloging, key titles are used exclusively for continuing resources. I haven't checked everywhere, but this seems to be true in Bibframe as well.
+10:17:21 From  Karen Benko  to  Everyone : Also the key title is assigned by the ISSN center
+10:25:21 From  Danny Lamb  to  Everyone : sounds like a nice good and straightforward use case
+10:25:27 From  Charlie Tillay (they/them)  to  Everyone : And I just wanted to confirm that other than this one issue., I feel good about closing this document.
+10:26:52 From  Danny Lamb  to  Everyone : that's a nice trick
+10:27:01 From  Danny Lamb  to  Everyone : being techy, i abstain
+10:27:23 From  Danny Lamb  to  Everyone : i abstain a lot as tech lead
+10:27:34 From  Seth Shaw  to  Everyone : I’ll also abstain, since I didn’t read it carefully.
+10:29:23 From  Charlie Tillay (they/them)  to  Everyone : https://tulane.co1.qualtrics.com/jfe/form/SV_81UgQY4T4bomjEq
+10:40:24 From  Danny Lamb  to  Everyone : the best one
+10:47:45 From  Danny Lamb  to  Everyone : "Here's how to format a spreadsheet for workbench" soudns likea great documentation page
+10:47:55 From  Danny Lamb  to  Everyone : *sounds like a
+10:49:04 From  Lisa McFall (she/her) | Hamilton College  to  Everyone : +1 to that Danny
+10:54:39 From  Rosie Le Faive  to  Everyone : ~ paragraphs! ~
+10:55:08 From  Rosie Le Faive  to  Everyone : ok :)
+10:56:01 From  Lisa McFall (she/her) | Hamilton College  to  Everyone : I have to hop off for another meeting. Thank you everyone!
+11:00:04 From  Danny Lamb  to  Everyone : regardless of where it lives, asking nicely on the list is sure to yield answers
+11:00:15 From  Danny Lamb  to  Everyone : and yeah, it's not like we can ask folks to give us their entire drupal site
+11:00:16 From  Paige Morfitt  to  Everyone : Very true.
+11:00:26 From  Seth Shaw  to  Everyone : I gotta go! 👋
+11:00:46 From  Danny Lamb  to  Everyone : collaboration's good!
+11:00:48 From  Danny Lamb  to  Everyone : gotta go
