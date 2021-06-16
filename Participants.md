@@ -45,4 +45,5 @@
 * Erin Tripp (Lyrasis)
 * Susan J. Vossberg (Northwestern Health Sciences University/PALS)
 * Teresa Weisser (Millersville University of Pennsylvania)
+* Tyrica Terry Kapral (University of Pittsburgh)
 
