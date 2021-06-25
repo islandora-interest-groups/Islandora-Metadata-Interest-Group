@@ -1,0 +1,18 @@
+10:01:41 From  Paige Morfitt  to  Everyone : Link to agenda! https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021/2021-06-14.md
+10:07:50 From  Paige Morfitt  to  Everyone : Link to agenda! https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021/2021-06-14.md
+10:08:25 From  Paige Morfitt  to  Everyone : Where would suggestions go to?
+10:08:43 From  Paige Morfitt  to  Everyone : Thank you!
+10:28:06 From  Mandy Ryan  to  Everyone : Are the tech calls recorded? We've been toying with doing a Fedoraless Islandora 8 instance
+10:28:29 From  Paige Morfitt  to  Everyone : The link is in the meeting notes I believe
+10:28:37 From  Rosie Le Faive  to  Everyone : https://github.com/Islandora/documentation/wiki/Tech-Call-2021
+10:28:37 From  Mandy Ryan  to  Everyone : Okay, cool! Thanks
+10:31:28 From  Paige Morfitt  to  Everyone : I think it would be friendlier for smaller institutions who can't invest a lot of time.
+10:38:08 From  Paige Morfitt  to  Everyone : Added!
+10:39:20 From  Mandy Ryan  to  Everyone : I have that same question!
+10:48:26 From  Paige Morfitt  to  Everyone : And that's what is happing in I8?
+10:48:45 From  Charlie Tillay (they/them)  to  Everyone : glossary or documentation concept ideas: RDF in JSON; RDF in Fedora; examples of changes Google and Fedora need in the JSON or RDF?
+10:49:36 From  Charlie Tillay (they/them)  to  Everyone : and describing the distinctions between Fedora 4, 5, and 6?
+10:50:53 From  Charlie Tillay (they/them)  to  Everyone : Slightly silly question: Will Fedora get mad at us for using the "dora" in Islandora if we mostly abandon it?
+10:53:23 From  Charlie Tillay (they/them)  to  Everyone : Definitely silly question: Danny, I wonder what your "waving your hands"/Islandora magic hand movement means in ASL. Do you happen to know?
+10:57:51 From  Mandy Ryan  to  Everyone : We're also having those discussions, Paige
+11:01:11 From  Mandy Ryan  to  Everyone : Thank you!
