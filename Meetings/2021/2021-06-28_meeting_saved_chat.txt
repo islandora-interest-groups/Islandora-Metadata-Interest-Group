@@ -1,0 +1,18 @@
+10:01:12 From  Paige Morfitt  to  Everyone : Can't turn my video on. Currently sitting in the dark to keep cool as today's high is 109
+10:01:46 From  Paige Morfitt  to  Everyone : Meeting Minutes! https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021/2021-06-28.md
+10:03:25 From  Kristina Spurgin (she/her)  to  Everyone : Oh Paige! That's waaaay too hot! Stay safe...
+10:03:57 From  Danny Lamb  to  Everyone : also, fyi, i'm awaiting a phone call from my dr.  so i may be handling that during this meeting
+10:06:47 From  Paige Morfitt  to  Everyone : https://www.islandora.ca/content/welcome-summer-islandora
+10:10:08 From  Paige Morfitt  to  Everyone : I think that would be a good idea! I know a few institutions who are using DC and don't have time to do the full MODS/RDF
+10:12:05 From  Rosie Le Faive  to  Everyone : se “elements/1.1/ namespace” https://www.dublincore.org/specifications/dublin-core/dcmi-terms/
+10:20:47 From  Paige Morfitt  to  Everyone : https://github.com/lyrasis/islandora8-metadata/\
+10:21:57 From  Paige Morfitt  to  Everyone : What's a Repo?
+10:22:23 From  Seth Shaw  to  Everyone : Essentially, a collection of code and configuration.
+10:22:41 From  Paige Morfitt  to  Everyone : thank you!
+10:23:18 From  Bolam, Michael R  to  Everyone : Typo in the URL above (extra back-slash). Try this: https://github.com/lyrasis/islandora8-metadata/
+10:25:05 From  Paige Morfitt  to  Everyone : https://github.com/lyrasis/islandora8-metadata/blob/main/mods_migration/mods_fieldtype_mappings.csv
+10:29:24 From  Paige Morfitt  to  Everyone : Is this LYRASIS content type something that is planning on being shared widely once it's finalized?
+10:43:24 From  Paige Morfitt  to  Everyone : So if you have a URI in your MODS, it will pull in the term? So http://id.loc.gov/authorities/subjects/sh85038796 would turn to "Dogs"?
+10:46:06 From  Paige Morfitt  to  Everyone : Yes! That's fascinating!
+10:49:45 From  Danny Lamb  to  Everyone : got to go, sry.  see y'all next time
+10:57:56 From  Paige Morfitt  to  Everyone : This is really awesome! I know I've been trying to organize our collection in a spreadsheet, but you have multiple institutions!
