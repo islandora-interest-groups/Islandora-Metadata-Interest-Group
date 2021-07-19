@@ -36,6 +36,7 @@
 * Mandy Ryan (University of Texas)
 * Marcia Salmon (York University)
 * Seth Shaw (University of Nevada, Las Vegas)
+* Jacob Shelby (LYRASIS)
 * Angelina Spotts (Carnegie Mellon University)
 * Kristina Spurgin (LYRASIS)
 * Chris Stanton (Metropolitan New York Library Council)
