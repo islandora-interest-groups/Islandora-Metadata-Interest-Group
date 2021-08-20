@@ -1,0 +1,38 @@
+10:01:22 From  Paige Morfitt  to  Everyone:
+	Agenda! https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021/2021-08-16.md
+10:03:22 From  Gulya, Abigail K  to  Everyone:
+	the low attendee count is making my usual lurker status harder lol
+10:04:41 From  Paige Morfitt  to  Everyone:
+	agenda! https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021/2021-08-16.md
+10:12:48 From  Kristina Spurgin (she/her)  to  Everyone:
+	https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021/2021-08-16.md
+10:15:03 From  Kristina Spurgin (she/her)  to  Everyone:
+	https://groups.google.com/g/islandora/c/diETUckBFp0/m/-HSrl8CZBAAJ
+10:20:18 From  Gulya, Abigail K  to  Everyone:
+	I'm confused, it sounds like an outreach coordinator/project manager, not a director to me. maybe i'm misunderstanding?
+10:21:58 From  Paige Morfitt  to  Everyone:
+	The original post does mention hiring an Executive Director, but I agree, it does sound more like an outreach coordinator with knowledge of the tech side/where to go with tech questions.
+10:33:44 From  Mandy Ryan (she/her)  to  Everyone:
+	I don't feel like I know enough about the Islandora Foundation structure to contribute - but I agree with everything ya'll are saying
+10:35:10 From  Gulya, Abigail K  to  Everyone:
+	here's an interesting article stressing the importance of end-user experience for the success of open source software in case anyone is interested, it repeats some of the points made https://www.hindawi.com/journals/ase/2010/517532/
+10:35:13 From  Mandy Ryan (she/her)  to  Everyone:
+	I just know I pick on the same 3 people in Slack, haha, and they're all in this group
+10:38:42 From  Devon Murphy  to  Everyone:
+	sorry I'm new here and all of this is a bit new! But I work with Mandy and am trying to learn as much as I can for our pending migration
+10:45:18 From  Devon Murphy  to  Everyone:
+	yes! we are very thankful!
+10:51:56 From  Devon Murphy  to  Everyone:
+	I spose I can share the teeniest more detail from Mandy's sharing is that I manage a variety of multilingual materials that range from some multilingual fields to all -- hence the content types!
+10:54:19 From  Paige Morfitt  to  Everyone:
+	Did John Hopkins do a presentation on multilingual fields or did you reach out to them?
+10:54:43 From  Mandy Ryan (she/her)  to  Everyone:
+	I reached out to them and they shared info and also their github
+10:55:35 From  Paige Morfitt  to  Everyone:
+	Ah. Ok!
+10:55:37 From  Mandy Ryan (she/her)  to  Everyone:
+	Michelle Janowiecki <michelle.janowiecki@jhu.edu> and Bethany Seeger <bseeger@jhu.edu>
+10:55:43 From  Paige Morfitt  to  Everyone:
+	Thank you!
+10:58:15 From  Devon Murphy  to  Everyone:
+	thank you!
