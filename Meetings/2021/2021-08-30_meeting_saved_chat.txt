@@ -1,0 +1,32 @@
+10:03:01 From  Paige Morfitt  to  Everyone:
+	Agenda! https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021/2021-08-30.md
+10:05:58 From  Paige Morfitt  to  Everyone:
+	Agenda! https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021/2021-08-30.md
+10:19:11 From  Seth Shaw  to  Everyone:
+	Using the Migrate API, your migration can trim whitespace values, but you have to specify it in the processing section.
+10:19:33 From  Seth Shaw  to  Everyone:
+	I don’t know about Workbench, but I think it trims too.
+10:22:19 From  Matthew Lincoln  to  Everyone:
+	For the locally-defined relators for linked agent, how are you defining and serializing them as URIs in RDF that goes to Fedora / json-ld?
+10:31:56 From  Kristina Spurgin (she/her)  to  Everyone:
+	"Taxonomy term fields"
+10:32:10 From  Mandy Ryan (she/her)  to  Everyone:
+	We're thinking of doing something similar
+10:32:12 From  Kristina Spurgin (she/her)  to  Everyone:
+	You can define fields for terms in each vocabulary
+10:35:06 From  Mandy Ryan (she/her)  to  Everyone:
+	Can we snag the link to Seth's presentation?
+10:35:37 From  Matthew Lincoln  to  Everyone:
+	What’s the spelling of that?
+10:35:43 From  Seth Shaw  to  Everyone:
+	agrelon
+10:35:48 From  Matthew Lincoln  to  Everyone:
+	ty
+10:36:12 From  Seth Shaw  to  Everyone:
+	Agent RELationship ONtology (I think)
+10:36:35 From  Rosie Le Faive  to  Everyone:
+	domains and ranges. oh my.
+10:40:14 From  Matthew Lincoln  to  Everyone:
+	Ty! Great google sheet use
+10:59:13 From  Rosie Le Faive  to  Everyone:
+	https://www.chapterthree.com/blog/how-alter-entity-autocomplete-results-drupal-8
