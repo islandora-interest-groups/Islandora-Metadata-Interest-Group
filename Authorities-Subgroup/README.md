@@ -16,6 +16,8 @@
 
 ## Become a Participant
 
+Group is inactive (2021). 
+
 Meetings are held monthly. Exact recurrences of the meetings are to be determined. Link to dates, agenda items, and call information will be in the Meetings subdirectory of this repository, for the appropriate meeting document.
 
 Meetings are typically held over Skype. To participate in a meeting, contact Felicity Dykas (DykasF [at] missouri [dot] edu) with the Skype username at which you wish to be called for the meeting.
