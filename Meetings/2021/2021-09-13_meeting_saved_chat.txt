@@ -1,0 +1,47 @@
+10:01:42 From  Paige Morfitt  to  Everyone : Agenda! https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021/2021-09-13.md
+10:01:56 From  Garth Tardy  to  Everyone : I'm strictly lurking ;)
+10:04:03 From  Garth Tardy  to  Everyone : University of Missouri--Kansas City -- Metadata librarian (interested in the discussion on migrating)
+10:04:09 From  Michelle Paquette (she/her)  to  Everyone : Yes I’m new! Just recently read that report about the feature parity in Islandora 7 vs. 8 (2.0, whatever) and figured it would be good for me to attend this!
+10:04:13 From  Paige Morfitt  to  Everyone : Agenda! https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021/2021-09-13.md
+10:04:21 From  Karen Gorss Benko [she/her]  to  Everyone : I'm at Williams; my title is Catalog and Metadata Librarian, but I don't feel I've really earned the second part of that
+10:04:51 From  Michelle Paquette (she/her)  to  Everyone : I’m Metadata Archivist at Smith College in the Special Collections Department
+10:07:02 From  Kristina Spurgin (she/her)  to  Everyone : I am a Data Migration Specialist at LYRASIS (Previous life: E-Resources Cataloger and later Library Data Strategist at UNC Chapel Hill)
+10:08:21 From  Rosie Le Faive  to  Everyone : I’m at UPEI, my title is Digital Infrastructure and Discovery (which means systems + cataloguing but not for long - i’m going to be ‘all islandora all the time’ for a couple years by November.) I’ve been doing islandora since 2012 and have many opinions on the stack.
+10:08:53 From  Michelle Paquette (she/her)  to  Everyone : Yeah I’ll say I don’t know what a “Drupal view” is
+10:09:06 From  Paige Morfitt  to  Everyone : I'll add it to the list!
+10:09:23 From  Yamil - Islandora DIG (he/him)  to  Everyone : https://islandora.github.io/documentation/user-documentation/glossary/
+10:10:25 From  Kristina Spurgin (she/her)  to  Everyone : https://docs.google.com/document/d/1cfPYFVV9qvvz2VjBRdYUN0CB7AyVDuG-GYavQ27DuBk/edit#heading=h.9fr9xw70meix
+10:11:20 From  Garth Tardy  to  Everyone : "developer speak" for non-developers ;)
+10:12:27 From  Bolam, Michael R  to  Everyone : “I keep hearing people say ______, like everyone knows what they are talking about. I don’t know what they are talking about, but I’m afraid I’m the only one."
+10:15:18 From  Rosie Le Faive  to  Everyone : https://docs.lefaive.ca/w/index.php/Article:Drupal_for_Islandora
+10:17:01 From  Matthew Lincoln  to  Everyone : +1 to not re-doing Drupal docs. One suggestion would be for those glossary terms that are core Drupal things, include a link to the actual Drupal docs so it’s clear to a reader that they can look there for more
+10:17:14 From  Matthew Lincoln  to  Everyone : *the actual Drupal docs for that specific concept
+10:18:51 From  Seth Shaw  to  Everyone : Agreed. The docs are more geared toward devs.
+10:19:43 From  Seth Shaw  to  Everyone : *The existing Drupal docs
+10:20:34 From  Kristina Spurgin (she/her)  to  Everyone : And even if you are a dev, it's sometimes hard to know what version is referred to
+10:20:42 From  Seth Shaw  to  Everyone : Happy to review, Rosie.
+10:21:22 From  Kristina Spurgin (she/her)  to  Everyone : Also happy to review
+10:21:45 From  Rachel White  to  Everyone : + many 1s!
+10:22:17 From  Garth Tardy  to  Everyone : Agreed. Lots of us metadata librarians are having to learn from scratch when we're really not trained in that way (yet).
+10:31:27 From  Bolam, Michael R  to  Everyone : Ontology
+10:35:48 From  Garth Tardy  to  Everyone : Our devs did that for our campus and was helpful...
+10:36:50 From  Paige Morfitt  to  Everyone : I've done that, and I agree.. It is overwhelming.
+10:37:00 From  Mandy Ryan (she/her)  to  Everyone : Same... the most painful process
+10:40:41 From  Garth Tardy  to  Everyone : YES!
+10:41:26 From  Mandy Ryan (she/her)  to  Everyone : Agreed! We got an Islandora 8 sandbox and one of the first things we did as a metadata working group was attempt to manually put in an object from our current collection just to get a better handle on what fields exist, where could our stuff go? It was a great hands on way to get an idea of what Islandora 8 looks like
+10:41:59 From  Garth Tardy  to  Everyone : Yes!
+10:42:11 From  Chris  to  Everyone : Yes
+10:44:02 From  Paige Morfitt  to  Everyone : Your spreadsheet is magic!
+10:45:11 From  Kristina Spurgin (she/her)  to  Everyone : Will give you a list of all fields in Solr: http://baseurl.to.your.solr.instance/collection/select?q=*%3A*&wt=csv&rows=0&facet
+10:45:54 From  Karen Gorss Benko [she/her]  to  Everyone : Thanks, Kristina
+10:46:25 From  Mandy Ryan (she/her)  to  Everyone : This is awesome, Rosie!
+10:48:38 From  Karen Gorss Benko [she/her]  to  Everyone : Thank you for sharing this; it's impressive and also intimidating
+10:48:52 From  Kristina Spurgin (she/her)  to  Everyone : https://github.com/lyrasis/islandora8-metadata/blob/main/mods_migration/mods_fieldtype_mappings.csv
+10:51:57 From  Rosie Le Faive  to  Everyone : “the model that islandora assumes” yeah lol i’ve gone down that rabbit hole
+10:55:19 From  Matthew Lincoln  to  Everyone : https://librarycarpentry.org/lc-open-refine/
+10:55:30 From  Matthew Lincoln  to  Everyone : We use this tutorial all the time @ CMU
+10:57:22 From  Matthew Lincoln  to  Everyone : Michael this reassures me about punting on our subset of items that had LCSH terms on em
+10:58:10 From  Mandy Ryan (she/her)  to  Everyone : Something that we had to consider that you may or may not have is if you use Islandora as your public facing portal as well? We have Islandora 7 as our internal DAMS system and then that is shared to a public-facing collections portal. So we had to track the DAMS Solr and the Collections Portal Solr
+10:59:05 From  Bolam, Michael R  to  Everyone : @Matthew - yeah, it can get really messy. Just dealing with hierarchical data in the flat data model (CSV) that works “best” in OpenRefine is it’s own special kind of hell...
+11:00:09 From  Matthew Lincoln  to  Everyone : Gotta run to next meeting :waves:
+11:00:12 From  Karen Gorss Benko [she/her]  to  Everyone : I have to leave for ICG meeting. I appreciate all of your help and expertise and I wish I could stay! Thank you!
