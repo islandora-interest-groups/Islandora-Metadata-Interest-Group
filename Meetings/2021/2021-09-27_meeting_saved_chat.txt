@@ -1,0 +1,40 @@
+10:01:01 From  Paige Morfitt  to  Everyone:
+	Agenda: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021/2021-09-27.md
+10:03:46 From  Paige Morfitt  to  Everyone:
+	Agenda: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021/2021-09-27.md
+10:05:14 From  Karen Gorss Benko [she/her]  to  Everyone:
+	Indigenous People's Day in this town
+10:13:19 From  Paige Morfitt  to  Everyone:
+	I think it could be good to have as a default, because it's better than what there currently is.
+10:22:57 From  Kirsta Stapelfeldt  to  Everyone:
+	https://www.drupal.org/project/wt_getty
+10:24:50 From  Rosie Le Faive  to  Everyone:
+	https://www.drupal.org/project/linked_data_field
+10:33:10 From  Seth Shaw  to  Everyone:
+	Sorry for not raising my hand!
+10:37:00 From  Charlie Tillay (they/them)  to  Everyone:
+	Thanks, y'all, for slowing down the flow of conversation. It's a big help, even if hands aren't raised every time! I know I don't always remember either!
+10:37:47 From  Paige Morfitt  to  Everyone:
+	Use Cases: https://docs.google.com/document/d/1oyba3HJngwgAiQz8yasmOBZ5iM2coDdpnsGERiSs1DA/edit
+10:50:46 From  Kirsta Stapelfeldt  to  Everyone:
+	That makes total sense, Seth!
+10:51:25 From  Rosie Le Faive  to  Everyone:
+	https://docs.google.com/spreadsheets/d/18u2qFJ014IIxlVpM3JXfDEFccwBZcoFsjbBGpvL0jJI/edit#gid=0
+10:55:52 From  Seth Shaw  to  Everyone:
+	This also highlights the difference between code and configuration….
+11:01:05 From  Kristina Spurgin (she/her)  to  Everyone:
+	metadata is actually complicated
+11:01:14 From  Kirsta Stapelfeldt  to  Everyone:
+	LOL yes
+11:03:43 From  Charlie Tillay (they/them)  to  Everyone:
+	Yeah...feeling stuck between those two needs is a thing that keeps coming up.
+11:07:26 From  Charlie Tillay (they/them)  to  Everyone:
+	Multiple ways to trim the cats nails?
+11:07:40 From  Kristina Spurgin (she/her)  to  Everyone:
+	LOL claw clipping flexibility
+11:10:51 From  Kirsta Stapelfeldt  to  Everyone:
+	I got a presentation: https://docs.google.com/presentation/d/1Lnzq39_W4WkNB2ZsVoj63Aq0Tlmo0TEdydMJKie-WMI/edit#slide=id.gefa12be457_0_0
+11:10:55 From  Kirsta Stapelfeldt  to  Everyone:
+	Maybe it would be useful later?
+11:11:34 From  Paige Morfitt  to  Everyone:
+	I'll add it to the notes!
