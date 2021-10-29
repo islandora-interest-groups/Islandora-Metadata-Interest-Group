@@ -1,0 +1,70 @@
+10:04:15 From  Paige Morfitt  to  Everyone:
+	agenda: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021/2021-10-25.md
+10:06:31 From  Rosie Le Faive  to  Everyone:
+	https://github.com/Islandora/documentation/issues?q=is%3Aopen+is%3Aissue+label%3A%22Subject%3A+Metadata%22
+10:09:12 From  Karen Gorss Benko [she/her]  to  Everyone:
+	...the list?
+10:09:24 From  Rosie Le Faive  to  Everyone:
+	https://github.com/Islandora/documentation/issues?q=is%3Aopen+is%3Aissue+label%3A%22Subject%3A+Metadata%22
+10:17:40 From  Seth Shaw  to  Everyone:
+	I make “stupid” questions about ISLE quite frequently.
+10:18:04 From  David Wisniewski  to  Everyone:
+	I expect to be far enough along in Isle in a couple months that I’ll then be making stupid statements… or questions
+10:18:42 From  David Wisniewski  to  Everyone:
+	also I anticipate making changes to my metadata (extending sets I hope and not changing completely) as I go.. which will likely raise questions in this group
+10:25:31 From  David Wisniewski  to  Everyone:
+	I feel better now :)
+10:30:44 From  Paige Morfitt  to  Everyone:
+	We've mapped our fields to RDA.
+10:34:49 From  Kristina Spurgin (she/her)  to  Everyone:
+	I think definitely stay with the unconstrained RDA properties http://www.rdaregistry.info/Elements/u/
+10:35:01 From  Kristina Spurgin (she/her)  to  Everyone:
+	for the scope issue
+10:36:56 From  David Wisniewski  to  Everyone:
+	I recognize some of it.
+10:40:29 From  Paige Morfitt  to  Everyone:
+	That's the part I got stuck on.
+10:42:02 From  Rosie Le Faive  to  Everyone:
+	@Don Richards - that’s the part I’m stuck on.
+10:44:00 From  Karen Gorss Benko [she/her]  to  Everyone:
+	Glad I'm not the only one trying for years to figure it out
+10:44:20 From  Seth Shaw  to  Everyone:
+	This sounds like a great case-study article for Code4Lib, if someone needs the scholarly publication credit.
+10:45:45 From  Paige Morfitt  to  Everyone:
+	Maybe having a Mapping tutorial to help give more insight on what mapping is and how to do it?
+10:46:09 From  Karen Gorss Benko [she/her]  to  Everyone:
+	@Paige that sounds great
+10:47:10 From  Kristina Spurgin (she/her)  to  Everyone:
+	datamance! <3
+10:49:44 From  MattFesnak  to  Everyone:
+	Does anyone here have experience with drupal migrate/Islandora migrate to get data in and out of drupal?
+10:50:20 From  Kristina Spurgin (she/her)  to  Everyone:
+	This is hard because the new Islandora threw away any support for standard metadata formats and we're all trying to work around that ad hoc
+10:51:01 From  Seth Shaw  to  Everyone:
+	I have a lot of experience getting it in. Getting it out again, not so much.
+10:51:52 From  MattFesnak  to  Everyone:
+	I’m trying to learn migrate modules and not getting support from developers so that’s my challenge at the moment. I’ve read you can get data out using blazegraph for linked data analysis, which sounds cool but very obtuse for me
+10:52:57 From  Rosie Le Faive  to  Everyone:
+	Matt- yes, it’s brutal. Ping me if you have q’s. I’ve never done blazegraph for getting data out. Usually i  make a little utility View and give it a CSV Export display.
+10:54:48 From  David Wisniewski  to  Everyone:
+	observation:  this doesn’t sound very ‘modular’.  One of the aspects of Islandora that is interesting from an external stance is that it is built on top of several technologies, giving a sense of modularity (handing off handling of one aspect to one system, another to another, etc.)
+10:55:20 From  Rosie Le Faive  to  Everyone:
+	David: bingo!
+10:55:24 From  David Wisniewski  to  Everyone:
+	is it possible that this kind of migration could be built in a modular fashion, from this point forward, so that whenever there is a future advancement
+10:55:31 From  David Wisniewski  to  Everyone:
+	this kind of move is … modular?
+10:55:59 From  David Wisniewski  to  Everyone:
+	csv conversion?  that’s not very… technical.
+10:57:00 From  Paige Morfitt  to  Everyone:
+	But having A way to do it can help create understanding to do it other ways.
+10:57:59 From  Paige Morfitt  to  Everyone:
+	Confis?
+10:58:14 From  Seth Shaw  to  Everyone:
+	*configs
+10:58:56 From  Don Richards  to  Everyone:
+	Not sure if the CSV conversion is simple.
+10:59:47 From  Don Richards  to  Everyone:
+	David it’s Difficult to serialize the data into a CSV
+11:00:00 From  David Wisniewski  to  Everyone:
+	I requested to join the Slack
