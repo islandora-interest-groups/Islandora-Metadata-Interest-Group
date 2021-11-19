@@ -1,0 +1,38 @@
+10:01:22 From  Paige Morfitt  to  Everyone:
+	Agenda! https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021/2021-11-08.md
+10:03:00 From  Paige Morfitt  to  Everyone:
+	Agenda! https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2021/2021-11-08.md
+10:07:38 From  Karen Gorss Benko [she/her]  to  Everyone:
+	2.0
+10:42:56 From  Islandora Foundation  to  Everyone:
+	Apologies but I have this in my calendar for an hour, and another meeting at 2:00. If I have to go and there are questions or updates for me, feel free to email me or hit me up on Slack
+10:43:28 From  Mandy Ryan (she/her)  to  Everyone:
+	We are in the exact same place, Chris
+10:44:49 From  Paige Morfitt  to  Islandora Foundation(Direct Message):
+	Thank you for coming today!
+10:45:17 From  Matthew Lincoln  to  Everyone:
+	Is that true about islandora defaults tho? That it will be supported in some core way?
+10:49:17 From  Paige Morfitt  to  Everyone:
+	I agree!
+10:50:24 From  Don Richards  to  Everyone:
+	I would heavily suggest not using Islandora Defaults. Instead use an install profile. Lots more pros vs the simpleness of defaults.
+10:51:06 From  Matthew Lincoln  to  Everyone:
+	@Don hah! If that was on the front page of the documentation, it would be cool
+10:51:58 From  Don Richards  to  Everyone:
+	Yeah. ISLE is switching to an install profile (if it hasn’t already).
+10:55:42 From  Karen Gorss Benko [she/her]  to  Everyone:
+	are there dates for the sprint?
+10:56:06 From  Kristina Spurgin (she/her)  to  Everyone:
+	November 29 - December 15th
+10:56:09 From  Karen Gorss Benko [she/her]  to  Everyone:
+	ty
+10:56:39 From  Don Richards  to  Everyone:
+	Install references stuff specific to a block that is likely specific that is there by default by specified theme. You can change stuff to fix those changes quickly.
+10:59:44 From  Karen Gorss Benko [she/her]  to  Everyone:
+	I have to head out, thank you Kristina and everyone!
+10:59:50 From  David Wisniewski  to  Everyone:
+	that’s a legit issue
+11:00:09 From  Islandora Foundation  to  Everyone:
+	Yes I have to go too. Sorry if I went on too much. Oatmeal brain.
+11:00:11 From  David Wisniewski  to  Everyone:
+	whenever I had developers building things they’d do ‘foo data’ and I would always tell them ‘try it with real data’
