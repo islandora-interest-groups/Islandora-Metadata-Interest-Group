@@ -1,0 +1,20 @@
+09:59:46 From  Islandora Foundation  to  Everyone:
+	Agenda: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2022/2022-02-14.md
+10:05:33 From  Islandora Foundation  to  Everyone:
+	Agenda: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2022/2022-02-14.md
+10:17:06 From  Islandora Foundation  to  Everyone:
+	I agree.. Looking back on some of our content, a BD suggestion for us regarding Newspapers was to create an additional field for and filter.
+10:31:18 From  Rosie Le Faive  to  Everyone:
+	https://docs.google.com/document/d/1EI03VIcAPM300vzkluZAm1Is-Set3eqJMA3Ywr_s-B4/edit#bookmark=id.dptrss1pcohf
+10:35:56 From  Don Richards  to  Everyone:
+	“Reclaiming Resource Type” for the metadata and not reserved for contextual triggers
+10:53:32 From  Bolam, Michael R  to  Everyone:
+	I was afraid it was called “The Onion” due to the sense of humor required to understand any of it...
+10:54:18 From  David Wisniewski  to  Everyone:
+	that is an excellent interpretation of what is going on Rosie… it would be useful to see it more clearly once you get it where you are comfortable sharing it
+10:54:33 From  Islandora Foundation  to  Everyone:
+	That description is helpful in knowing what is impacted by what at what level.
+10:54:45 From  David Wisniewski  to  Everyone:
+	not a problem. understood
+10:57:20 From  David Wisniewski  to  Everyone:
+	my metadata work has been centered more on finding a standard that works best for us.  lots of research
