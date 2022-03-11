@@ -1,0 +1,28 @@
+10:00:58 From  Islandora Foundation  to  Everyone:
+	Agenda: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2022/2022-02-28.md
+10:03:42 From  Islandora Foundation  to  Everyone:
+	Agenda: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2022/2022-02-28.md
+10:06:42 From  Rosie Le Faive  to  Everyone:
+	pull request: https://github.com/Islandora-Devops/islandora_install_profile_demo
+10:07:01 From  Rosie Le Faive  to  Everyone:
+	https://github.com/Islandora-Devops/islandora_install_profile_demo/pull/11
+10:11:10 From  Islandora Foundation  to  Everyone:
+	This is really amazing! Thank you Rosie!
+10:12:39 From  Islandora Foundation  to  Everyone:
+	https://sandbox.islandora.ca/
+10:18:13 From  Islandora Foundation  to  Everyone:
+	I can help!
+10:22:44 From  Rosie Le Faive  to  Everyone:
+	brb
+10:23:43 From  Rosie Le Faive  to  Everyone:
+	back
+10:32:25 From  David Wisniewski  to  Everyone:
+	somehow generated from the item itself
+10:47:17 From  Melanie Cofield (she/her)  to  Everyone:
+	Can I ask about the Media of field and cardinality of node/media relationships - just wondering about the status of changes to that as discussed in previous recent meetings, and more specifics on what that means for migration paths? Sorry if this is asking for repetition of old news.
+10:52:59 From  David Wisniewski  to  Everyone:
+	it makes sense that that takes a while - that’s a fair amount of examining of a file (bits per sample?  that’s really specific)
+10:53:58 From  Chris Day  to  Everyone:
+	I have to take off. I’ll work on the spreadsheet later today/tomorrow morning.
+10:54:47 From  Melanie Cofield (she/her)  to  Everyone:
+	Thanks!
