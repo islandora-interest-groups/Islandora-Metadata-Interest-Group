@@ -1,0 +1,24 @@
+10:03:10 From  Islandora Foundation  to  Everyone:
+	meeting minutes: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2022/2022-03-14.md
+10:04:39 From  Islandora Foundation  to  Everyone:
+	meeting minutes: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2022/2022-03-14.md
+10:05:53 From  Rosie Le Faive  to  Everyone:
+	https://github.com/rosiel/xml2workbench
+10:12:23 From  Rosie Le Faive  to  Everyone:
+	https://docs.google.com/document/d/1zoTlBle17gTT_DlPq_xroUAyRmOdnfl5CpycUu5qs_o/edit#
+10:12:35 From  Devon Murphy (they/them)  to  Everyone:
+	thank you!
+10:13:39 From  Seth Shaw  to  Everyone:
+	If you want to move the Google Doc into a README.md, GitHub flavored markdown supports tables.
+10:14:00 From  Devon Murphy (they/them)  to  Everyone:
+	yes! I would also love a demonstration. this is amazing -- I can see it being helpful as a base for us at ut Austin to build out for our final configuration of islandora 8
+10:20:12 From  Seth Shaw  to  Everyone:
+	Yup, we are in the process of cleaning up our terms with geographic components.
+10:24:01 From  Seth Shaw  to  Everyone:
+	Yeah, XSLT is best for format transformation, NOT content transformation.
+10:30:30 From  Kristina Spurgin (she/her)  to  Everyone:
+	https://github.com/lyrasis/islandora-data-tools/tree/main/mods/ruby
+10:36:23 From  Islandora Foundation  to  Everyone:
+	Maybe reach out and ask to add help text more uniformly?
+10:56:25 From  Cheryl Oestreicher  to  Everyone:
+	thank you!
