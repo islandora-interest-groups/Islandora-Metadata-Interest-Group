@@ -1,0 +1,16 @@
+09:59:15 From  Devon Murphy (they/them)  to  Everyone:
+	hello! microphone not working today so i'll be here in the chat
+10:01:09 From  Islandora Foundation  to  Everyone:
+	agenda: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2022/2022-03-28.md
+10:03:13 From  Islandora Foundation  to  Everyone:
+	agenda: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2022/2022-03-28.md
+10:12:32 From  Islandora Foundation  to  Everyone:
+	Sorry!
+10:24:51 From  Devon Murphy (they/them)  to  Everyone:
+	yes! it's amazing. I would love to learn more about possible errors/your ruby script for mods-to-csv later
+10:24:52 From  Devon Murphy (they/them)  to  Everyone:
+	big claps
+10:37:51 From  Chris Day  to  Everyone:
+	I have to leave a little early. Thanks everyone. This has been great. Gonna start looking at FITS more closely.
+10:42:56 From  Seth Shaw  to  Everyone:
+	FYI, the file inhibitor is file encryption.
