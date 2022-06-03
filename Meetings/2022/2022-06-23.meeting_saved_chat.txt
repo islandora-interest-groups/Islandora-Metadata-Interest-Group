@@ -1,0 +1,44 @@
+10:01:35 From  Islandora Foundation  to  Everyone:
+	Agenda! https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2022/2022-05-23.md
+10:03:02 From  Islandora Foundation  to  Everyone:
+	Agenda! https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2022/2022-05-23.md
+10:07:40 From  Michelle Janowiecki  to  Everyone:
+	That's what jhu did as well for copyright and use
+10:15:51 From  Michelle Janowiecki  to  Everyone:
+	https://github.com/mjanowiecki/metadata-editing-python/blob/main/reformat-values/convertToETDF.py
+10:17:55 From  Michelle Janowiecki  to  Everyone:
+	that's my understanding too Kristina
+10:18:43 From  Islandora Foundation  to  Everyone:
+	We did a lot of work on dates because we had trouble with sort not sorting correctly
+10:23:13 From  Rachel White  to  Everyone:
+	https://docs.google.com/document/d/1TUhJFyfRMZKa6pxyxZ-T0UZgQpO6nwu1wYT6Mme0NHE/edit
+10:25:59 From  Islandora Foundation  to  Everyone:
+	Yes! We had something very similar with keydate.
+10:30:50 From  Islandora Foundation  to  Everyone:
+	For date ranges, we all decided to sort by the first date. So whenever we have a date range, we always sort by the first date (though for "unknkown-1943" it sorts by 1943 which looks really funny)
+10:30:56 From  Michelle Janowiecki  to  Everyone:
+	also for programmatic date clean-up, python's date.isoformat() is great too
+10:39:43 From  Islandora Foundation  to  Michelle Janowiecki(Direct Message):
+	Hi Michelle! Do you have a link for the python's date.isoformat() you mentioned? I want to make sure to add it to our notes.
+10:40:00 From  Michelle Janowiecki  to  Islandora Foundation(Direct Message):
+	https://docs.python.org/3/library/datetime.html#datetime.date.isoformat
+10:44:47 From  Rachel White  to  Everyone:
+	our double date histogram:
+10:44:48 From  Rachel White  to  Everyone:
+	https://digitalcollections.colgate.edu/collections/colgate-university-student-newspapers?islandora_solr_search_navigation=0&cq=catch_all_fields_mt%3A%28willow%20path%29
+10:48:56 From  Islandora Foundation  to  Everyone:
+	Did you use OpenRefine?
+10:50:14 From  Devon Murphy (they/them)  to  Everyone:
+	I use OR pretty frequently, including for date clean up. honestly use just GREL or Python in there anyway, I think it's just a nice visual organizer for me more than anything else
+10:50:21 From  Michelle Janowiecki  to  Islandora Foundation(Direct Message):
+	it does!
+10:50:26 From  Michelle Janowiecki  to  Everyone:
+	it does
+10:55:20 From  Islandora Foundation  to  Everyone:
+	What did you end up doing?
+10:56:38 From  Kristina Spurgin (she/her)  to  Everyone:
+	https://docs.google.com/spreadsheets/d/1cx2KTkELqCDxczIVQw6La_PTSgmqMj_KEr6dIKvszYg/edit#gid=0
+10:59:24 From  Michelle Janowiecki  to  Everyone:
+	if anyone wants to look at my dates to edtf conversion, you can look at this (column g, h). https://docs.google.com/spreadsheets/d/1OUfldI_FMxriIQ-nhHn8OImf5wOxdwoCjFu21G-vJ1s/edit?usp=sharing
+10:59:43 From  Michelle Janowiecki  to  Everyone:
+	I'm not sure if it's the latest version though apologies
