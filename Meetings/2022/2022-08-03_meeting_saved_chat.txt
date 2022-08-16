@@ -1,0 +1,112 @@
+12:51:55 From  Garth Tardy  to  Everyone:
+	I'm just early... pay me no mind ;)
+13:02:41 From  upeiguest  to  Everyone:
+	we're just going to wait about 5 more minutes
+13:06:41 From  Michelle Janowiecki  to  Everyone:
+	https://github.com/mjanowiecki/dspace-data-collection-1/blob/main/exportCollectionMetadataToCSV.py
+	
+	https://github.com/mjanowiecki/marc-data/blob/main/extractScienceReview.py
+	
+	
+	https://docs.google.com/spreadsheets/d/1PI3m8fTxuYc2JCprm7fy1TDTRKF2u0Mb3lzzJfIdpfY/edit#gid=0
+	
+	https://github.com/mjordan/islandora_get_csv
+13:12:27 From  Michelle Janowiecki  to  Everyone:
+	https://www.google.com/url?q=https://digital.library.jhu.edu/node/11760&sa=D&source=editors&ust=1659633141902612&usg=AOvVaw1Na_tWdY5CT1an2kRq-Rsf
+13:16:38 From  Yamil (he/him)  to  Everyone:
+	Did I miss a link to the slides from the beginning of this session, or maybe it was not posted yet?
+13:16:38 From  Michelle Janowiecki  to  Everyone:
+	https://islandora.github.io/documentation/user-documentation/metadata/#field-types
+13:16:47 From  Michelle Janowiecki  to  Everyone:
+	It is not posted yet
+13:16:54 From  Michelle Janowiecki  to  Everyone:
+	but we are planning on posting it!
+13:19:23 From  Yamil (he/him)  to  Everyone:
+	thank you
+13:22:39 From  Michelle Janowiecki  to  Everyone:
+	https://github.com/mjanowiecki/metadata-editing-python
+13:22:40 From  Michelle Janowiecki  to  Everyone:
+	https://openrefine.org/
+13:22:49 From  Michelle Janowiecki  to  Everyone:
+	https://www.google.com/sheets/about/
+13:23:09 From  Michelle Janowiecki  to  Everyone:
+	https://docs.google.com/spreadsheets/d/1ZEU2VPHWCTTGt4oArOBM0wS1lp5Kmrgf6cyRFGn4Q8s/edit#gid=0
+13:23:23 From  Michelle Janowiecki  to  Everyone:
+	https://docs.google.com/document/d/1OoHm86QE5aPGLJptg0SE08cmJ_jSP1jLHGgEGIP2u90/edit
+13:23:34 From  Michelle Janowiecki  to  Everyone:
+	https://docs.google.com/spreadsheets/d/17NSe6JwoA7dNcyR2ggot_XvT2YacnEsfY2yo2TAyd_0/edit#gid=2012886023
+13:23:48 From  Michelle Janowiecki  to  Everyone:
+	https://docs.google.com/spreadsheets/d/1fNM5vAzC3ebEiOfHblnU5rdUSnzPsNIlEOtQ1PQR3mQ/edit#gid=1941699693
+13:25:23 From  Michelle Janowiecki  to  Everyone:
+	https://docs.google.com/document/d/15qSO9YcALtYSqd6CUuGx0t8FwUJ5pPwVPz0PA5rU898/edit
+13:25:34 From  Michelle Janowiecki  to  Everyone:
+	https://docs.google.com/spreadsheets/d/18u2qFJ014IIxlVpM3JXfDEFccwBZcoFsjbBGpvL0jJI/edit#gid=0
+13:25:44 From  Michelle Janowiecki  to  Everyone:
+	https://docs.google.com/spreadsheets/d/1C2Xie7HUDSgRT5v4ldoJvlNdoXz2GHAPvL3PE3TOKW8/edit#gid=1829081124
+13:25:55 From  Michelle Janowiecki  to  Everyone:
+	https://www.dublincore.org/specifications/dublin-core/dcmi-terms/
+13:26:05 From  Michelle Janowiecki  to  Everyone:
+	http://www.rdaregistry.info/Elements/u/
+13:26:15 From  Michelle Janowiecki  to  Everyone:
+	https://schema.org/
+13:30:30 From  Garth Tardy  to  Everyone:
+	This is the presentation I wish I'd seen *before* we started our migration...
+13:32:10 From  Michelle Janowiecki  to  Everyone:
+	https://airtable.com/shrHq0KHuvmGfSkIs/tblxEo2sDUsW1bA1h/viwJEPp0WxACNex4Y
+13:32:52 From  Michelle Janowiecki  to  Everyone:
+	https://protege.stanford.edu/
+13:33:10 From  Michelle Janowiecki  to  Everyone:
+	https://docs.google.com/document/d/1Wg8O9nf2BIEK9KLYlcpWR6Z7DPbN6Zsh3gZAIZBo_AE/edit
+13:33:20 From  Michelle Janowiecki  to  Everyone:
+	https://docs.google.com/spreadsheets/d/1r8cX0nZ_SoGsZtWzrc6Lk7kJmqPtNAAEYZww29sjx2o/edit#gid=1499428892
+13:35:13 From  Michelle Janowiecki  to  Everyone:
+	https://github.com/jhu-idc/idc_migration
+13:35:24 From  Michelle Janowiecki  to  Everyone:
+	https://mjordan.github.io/islandora_workbench_docs/
+13:35:33 From  Michelle Janowiecki  to  Everyone:
+	https://mjordan.github.io/islandora_workbench_docs/fields/
+13:48:25 From  Michelle Janowiecki  to  Everyone:
+	https://www.youtube.com/watch?v=UDshKWDK_Ho&t=3s
+13:56:37 From  Yamil (he/him)  to  Everyone:
+	Here is my lightning talk on how to use Slack for Islandora folks:
+	https://docs.google.com/presentation/d/138XAPyef20tk_xQNTolEMQfrqcs12k47j8pBMFn-zqE/edit#
+13:56:49 From  Michelle Janowiecki  to  Everyone:
+	Thank you Yamil, that's perfect!
+13:58:13 From  Michelle Janowiecki  to  Everyone:
+	We are happy to go over anything in more detail 🙂
+13:59:20 From  Michelle Janowiecki  to  Everyone:
+	https://digital.library.jhu.edu/
+13:59:25 From  [CoC] Amy Blau (she/her)  to  Everyone:
+	My understanding is that it takes developer work to change it, and that wasn't our highest priority.
+13:59:41 From  Ali Konieczny, Health Sciences Librarian  to  Everyone:
+	I'd love to see more details about global updates to person names, authors, etc. The accidental duplication with changes in characters seems worrisome
+14:01:11 From  Ali Konieczny, Health Sciences Librarian  to  Everyone:
+	In Islandora - making global updates
+14:01:36 From  Ali Konieczny, Health Sciences Librarian  to  Everyone:
+	How do you change all of the terms to the desired common term?
+14:04:35 From  Yamil (he/him)  to  Everyone:
+	the audio is dropping off
+14:04:41 From  Yamil (he/him)  to  Everyone:
+	need to get closer to mic
+14:05:11 From  Michelle Janowiecki  to  Everyone:
+	I forgot to add this earlier, but here's an example of help text on our form:
+14:06:23 From  Michelle Janowiecki  to  Everyone:
+	https://drive.google.com/file/d/1-ffihfsTcHLa_7uZtVfnfXqeVINmmuM9/view?usp=sharing
+14:08:23 From  Ali Konieczny, Health Sciences Librarian  to  Everyone:
+	Thanks so much for the demo!
+14:12:16 From  Yamil (he/him)  to  Everyone:
+	what about reversing the order. Add the second term first, then second delete the first term?
+14:12:37 From  Ali Konieczny, Health Sciences Librarian  to  Everyone:
+	That was great!
+14:13:27 From  Yamil (he/him)  to  Everyone:
+	that way you can use the old term page for longer to slowly delte. but they are now giving you the bul editor if you can create a view
+14:13:53 From  Yamil (he/him)  to  Everyone:
+	https://islandora.github.io/documentation/user-documentation/glossary/#views-bulk-operations
+14:14:35 From  Yamil (he/him)  to  Everyone:
+	https://www.drupal.org/project/views_bulk_operations
+14:15:32 From  Yamil (he/him)  to  Everyone:
+	Here is a docs page on Drupal views: https://islandora.github.io/documentation/user-documentation/video-docs/
+14:15:54 From  Yamil (he/him)  to  Everyone:
+	sorry: https://islandora.github.io/documentation/user-documentation/video-docs/#working-with-views
+14:24:53 From  Stephen Szanati FLVC  to  Everyone:
+	Great Stuff. Thank you both for your presention.

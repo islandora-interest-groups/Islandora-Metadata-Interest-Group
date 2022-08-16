@@ -1,0 +1,28 @@
+10:02:04 From  Paige Morfitt  to  Everyone:
+	agenda: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2022/2022-08-15.md
+10:13:50 From  Yamil (he/him)  to  Everyone:
+	what was the other field no longer needed?
+10:16:23 From  Rosie Le Faive (she/they)  to  Everyone:
+	https://github.com/Islandora/islandora/pull/881
+10:20:33 From  Rosie Le Faive (she/they)  to  Everyone:
+	https://www.youtube.com/channel/UCCiQwdLWwrTNE6yToDKG3Uw/videos - i see 3 islandoracon videos
+10:22:28 From  Yamil (he/him)  to  Everyone:
+	https://github.com/Islandora-Devops/islandora_install_profile_demo/pull/11
+10:28:04 From  Chris Day  to  Everyone:
+	be right back
+10:45:32 From  Yamil (he/him)  to  Everyone:
+	At Berklee (Bosotn, MA) I am being migrated to ISLE2 by Born-Digital as I write this. Hoping to be done by October/November
+10:46:14 From  Yamil (he/him)  to  Everyone:
+	ysuarez@berklee.edu
+10:46:39 From  Andrew Weidner  to  Everyone:
+	weidnera@bc.edu
+10:52:06 From  Yamil (he/him)  to  Everyone:
+	is there an existing use case or a “Github issue” for this capability?
+10:52:21 From  Rosie Le Faive (she/they)  to  Everyone:
+	possibly!
+10:53:15 From  Rosie Le Faive (she/they)  to  Everyone:
+	https://github.com/Islandora/documentation/issues/1696
+10:56:45 From  Yamil (he/him)  to  Everyone:
+	¡thanks Rosie!
+10:57:56 From  Ross, Staci L  to  Everyone:
+	https://www.loc.gov/marc/bibliographic/bd008a.html
