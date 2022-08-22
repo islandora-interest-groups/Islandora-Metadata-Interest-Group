@@ -2,13 +2,14 @@
 
 ## Conveners
 
+* Chris Day (discoverygarden)
 * Paige Morfitt (Whitman College)
-* Kristina Spurgin (LYRASIS)
-* Charlie Tillay (Tulane University)
+* Rosemary Le Faive (University of Prince Edward Island)
 
 ### Emeritus conveners
+* Charlie Tillay (Tulane University)
+* Kristina Spurgin (LYRASIS)
 * Mike Bolam (University of Pittsburgh)
-* Rosemary Le Faive (University of Prince Edward Island)
 
 ### MIG MODS to RDF  
 * [Working Documents](https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/wiki/MIG-MODS-to-RDF-Working-Documents)  
