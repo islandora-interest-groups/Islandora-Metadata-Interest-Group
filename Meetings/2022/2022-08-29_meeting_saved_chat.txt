@@ -1,0 +1,38 @@
+12:02:42 From Elisabeth Ball to Everyone:
+	Hi! I'm here to listen and absorb. thanks!
+12:02:45 From Rosie Le Faive (she/they) to Everyone:
+	https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2022/2022-08-29.md
+12:08:39 From Rosie Le Faive (she/they) to Everyone:
+	https://docs.google.com/document/d/1rk0o_0byzeHrSKst0Feval_QeVZmo2DeIP0Mk3jaaFc/edit#heading=h.c65xalanp51n
+12:39:37 From Rosie Le Faive (she/they) to Everyone:
+	https://docs.google.com/presentation/d/1lis8DUuXMeTJWFGiElrFrbdhfURRNpN3VwZkF4B9Hv4/edit?usp=sharing
+12:53:39 From Rosie Le Faive (she/they) to Everyone:
+	https://www.facebook.com/groups/161813927168408/?multi_permalinks=6041828185833590
+12:57:55 From Devon Murphy (they/them) to Everyone:
+	the one distinction I can think of is related to visual resources/art cataloging. approximate is usually with ranges or dating based on the material (using the pigment to date something) and uncertain would be a date logged on an item but it could be inaccurate (this happens fairly often with professor-created art slides haha)
+12:58:10 From Ross, Staci L to Everyone:
+	yes, perfect example, Devon!
+12:58:15 From Devon Murphy (they/them) to Everyone:
+	I've basically extended these definitions to my current job
+12:58:41 From Devon Murphy (they/them) to Everyone:
+	you're welcome!
+12:59:31 From Devon Murphy (they/them) to Everyone:
+	haha
+13:00:00 From Ross, Staci L to Everyone:
+	And I've taken to using your definition of "uncertain:" date on object says 2025 but an uncertain date might be 2022
+13:01:04 From Seth Shaw to Everyone:
+	Gotta run. 👋
+13:01:04 From Devon Murphy (they/them) to Everyone:
+	yes! that makes sense.
+13:01:29 From Devon Murphy (they/them) to Everyone:
+	circa and approximate are equivalent, yes
+13:01:31 From Ross, Staci L to Everyone:
+	in MARC we have a "questionable" date range or a single "probable date"
+13:01:43 From Devon Murphy (they/them) to Everyone:
+	it's a VRA Core thing :)
+13:02:46 From Devon Murphy (they/them) to Everyone:
+	thank you!!
+13:02:48 From Elisabeth Ball to Everyone:
+	Thanks to everyone!
+13:02:49 From Ross, Staci L to Everyone:
+	thank you!
