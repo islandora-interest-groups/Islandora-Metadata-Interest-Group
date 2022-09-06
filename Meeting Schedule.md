@@ -1,6 +1,11 @@
-As of Co-Convener meeting on 2020-02-01, we decided that Kristina will be standing chair, Paige will be standing note-taker, and Tillay will switch to fill in either role as needed and available.
 
+## 2022 Meetings
 
+|Date | Chair | Note-taker | Topic |
+|---|---|---|---|
+|September 12, 2022|Chris|Paige|FotW: Field Model, Resource Type, and Genre|
+
+## Pre-2021
 
 |Date | Chair | Note-taker | Topic |
 |---|---|---|---|
@@ -39,3 +44,5 @@ As of Co-Convener meeting on 2020-02-01, we decided that Kristina will be standi
 |November 30, 2020|Mike|Rosie|| 
 |December 14, 2020|Rosie|Tillay||
 |January 11, 2020|Tillay|Paige|Preparing for 2021|
+
+As of Co-Convener meeting on 2020-02-01, we decided that Kristina will be standing chair, Paige will be standing note-taker, and Tillay will switch to fill in either role as needed and available.
