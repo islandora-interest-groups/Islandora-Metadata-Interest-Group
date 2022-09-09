@@ -3,6 +3,7 @@
 
 |Date | Chair | Note-taker | Topic |
 |---|---|---|---|
+|August 29, 2022|Rosie|Chris|FotW: Title|
 |September 12, 2022|Chris|Paige|FotW: Field Model, Resource Type, and Genre|
 
 ## Pre-2021
@@ -21,17 +22,17 @@
 |December 30, 2019|no meeting|no meeting|co-convener libraries are closed|
 |January 13, 2020|Rosie|Tillay|Metadata Application Profile Discussion Cont.|
 |February 10, 2020|Tillay|Mike|Metadata Management tool with Mark Jordan |
-|February 24, 2020|Mike|Rosie||
-|March 9, 2020|Rosie|Tillay||
-|March 23, 2020|Tillay|Mike||
-|April 6, 2020|Mike|Rosie||
-|April 20, 2020|Rosie|Tillay||
-|May 4, 2020|Tillay|Mike||
-|May 18, 2020|Mike|Rosie||
-|June 1, 2020|Rosie|Tillay||
-|June 15, 2020|Tillay|Mike||
+|February 24, 2020|Mike|Rosie|Discussion: Mapping feedback|
+|March 9, 2020|Rosie|Tillay|Discussion: Feedback on Mapping from ICG part 1|
+|March 23, 2020|Tillay|Mike|Discussion: Feedback on Mapping from ICG part 2|
+|April 6, 2020|Mike|Rosie|accessCondition and sharing custom mapping use cases|
+|April 20, 2020|Rosie|Tillay|Mapping to RDF from MODS discussion|
+|May 4, 2020|Tillay|Mike|Mapping discussion comparing MODS, DC Elements and DC terms|
+|May 18, 2020|Mike|Rosie|Discussion of Wants/Needs/Questions document|
+|June 1, 2020|Rosie|Tillay|Simple mapping proposal|
+|June 15, 2020|Tillay|Mike|Islandora online and Metadata sprint|
 |June 29, 2020|Mike|Rosie||
-|July 13, 2020|Rosie|Tillay||
+|July 13, 2020|Rosie|Tillay|Discussion on projects, tools, and other topics|
 |July 27, 2020|**Meeting Cancelled**|||
 |August 10, 2020|Tillay|Mike|Islandora Online Discussion|
 |August 24, 2020|Mike|Rosie|Update of Mapping/Open Meeting| 
@@ -43,6 +44,29 @@
 |November 16, 2020|Tillay|Mike||
 |November 30, 2020|Mike|Rosie|| 
 |December 14, 2020|Rosie|Tillay||
-|January 11, 2020|Tillay|Paige|Preparing for 2021|
+|January 11, 2021|Tillay|Paige|Preparing for 2021|
+|January 25, 2021|Kristina|Paige/Tillay|Possibilities discussion|
+|February 2, 2021|Kristina|Paige|Presentation looking behind the scenes at Drupal and Islandora|
+|February 22, 2021|Kristina|Paige|Sprint planning|
+|March 8, 2021|Kristina|Paige|Sprint Kickoff meeting|
+|March 22, 2021|Kristina|Paige|Sprint Review|
+|April 5, 2021|Kristina|Paige|Post-Sprint Steps and Priorities Survey|
+|April 19, 2021|Kristina|Paige|Linked Agend and Default Mapping Discussion|
+|May 3, 2021|Kristina|Paige|Agent Field and Demo of default work|
+|May 17, 2021|Kristina|Paige|Use-case Documentation|
+|June 14, 2021|Kristina|Paige|Survey results and Islandora Tech Call|
+|June 28, 2021|Kristina|Paige|LYRASIS Migration Work Demo and Temprature check on Simple DC|
+|July 19, 2021|Kristina|Paige|Taxonomy in Drupal Presentation and Glossary Sprint|
+|August 02, 2021|Kristina|Paige|Glossary Sprint Check-in and Taxonomy Use Case document|
+|August 16, 2021|Kristina|Paige|Sprint work and Islandora Input Request Document|
+|August 30, 2021|**Meeting Cancelled**||Pause for summer|
+|September 13, 2021|**Meeting Cancelled**||Pause for summer|
+|September 27, 2021|Kristina|Paige|Use Cases, Taxonomy Manager and Drupal Discussion|
+|October 11, 2021|**Meeting Cancelled**||Holiday|
+|October 25, 2021|Kristina|Paige|Github contribution and Metadata Schema Question|
+|November 08, 2021|Kristina|Paige|Importance of Drupal Fields and Sprint|
+|November 22, 2021|Kristina|Mike|Question about Local Contexts and Sprint Discussion/Use Cases|
+|December 06, 2021|Kristina||Sprint update and Round Table|
+|December 20, 2021|Kristina|Paige|Linked Data FYI and Islandora Defaults|
 
-As of Co-Convener meeting on 2020-02-01, we decided that Kristina will be standing chair, Paige will be standing note-taker, and Tillay will switch to fill in either role as needed and available.
+
