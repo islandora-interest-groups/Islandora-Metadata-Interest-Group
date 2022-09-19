@@ -1,0 +1,70 @@
+10:00:10 From  Paige Morfitt  to  Everyone:
+	Here is the agenda for today: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2022/2022-09-12.md
+10:01:35 From  Paige Morfitt  to  Everyone:
+	Here is the agenda for today: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2022/2022-09-12.md
+10:03:01 From  Paige Morfitt  to  Everyone:
+	Here is the agenda for today: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2022/2022-09-12.md
+10:05:49 From  Chris Day  to  Everyone:
+	BRB
+10:08:04 From  Seth Shaw  to  Everyone:
+	Resource Type is Controlled Access Terms Defaults
+10:10:46 From  Chris Day  to  Everyone:
+	Here is the LOC page for the Schema main terms: https://id.loc.gov/vocabulary/resourceTypes.html
+10:15:57 From  Ross, Staci L  to  Everyone:
+	There have been times when we had different record types (like "mixed material") from data we transformed from MARC
+10:16:34 From  Rosie Le Faive (she/they)  to  Everyone:
+	Here is the larger list of Resource Types. https://docs.google.com/spreadsheets/d/18u2qFJ014IIxlVpM3JXfDEFccwBZcoFsjbBGpvL0jJI/edit#gid=25390054
+10:18:46 From  Paige Morfitt  to  Everyone:
+	We use a mix of AAT, LCSH, and a local list.
+10:19:19 From  Paige Morfitt  to  Everyone:
+	We also use COAR
+10:19:26 From  Rosie Le Faive (she/they)  to  Everyone:
+	MARC genres: https://www.loc.gov/standards/valuelist/marcgt.html ?
+10:20:28 From  Ross, Staci L  to  Everyone:
+	https://www.coar-repositories.org/news-updates/what-we-do/controlled-vocabularies/
+10:20:35 From  Ross, Staci L  to  Everyone:
+	?
+10:21:02 From  Ross, Staci L  to  Everyone:
+	lol!
+10:24:24 From  Bolam, Michael R  to  Everyone:
+	That was the word! Taxonomies!!!
+10:24:56 From  Paige Morfitt  to  Everyone:
+	As of nor, our large list is already out of control because there is no dup-check built in and it's so easy for it to get messy.
+10:27:20 From  Ross, Staci L  to  Everyone:
+	Sorry it's been hard to keep track of, but this is very helpful to know, Paige!
+10:29:04 From  Islandora Foundation  to  Everyone:
+	https://github.com/mjordan/islandora_workbench
+10:30:10 From  Rosie Le Faive (she/they)  to  Everyone:
+	documentation for workbench with "rich" taxonomies: https://mjordan.github.io/islandora_workbench_docs/creating_taxonomy_terms/
+10:31:07 From  Paige Morfitt  to  Everyone:
+	I wonder how that would work with the use of nodes in Islandora?
+10:33:58 From  Rosie Le Faive (she/they)  to  Everyone:
+	FYI: open "use case" ticket for managing taxonomies: https://github.com/Islandora/documentation/issues/1899
+10:34:09 From  Bolam, Michael R  to  Everyone:
+	https://github.com/cmharlow/lc-reconcile
+10:34:54 From  Bolam, Michael R  to  Everyone:
+	You should use the "run locally" instructions - but you need to make sure you have python set up properly and all that...
+10:41:38 From  Ross, Staci L  to  Everyone:
+	As Seth mentioned, hierarchical taxonomies can be used to leverage broader/narrower terms in facets or discovery. However, I haven't really seen anyone take advantage of this either
+10:46:51 From  Seth Shaw  to  Everyone:
+	https://en.wikipedia.org/wiki/Frederic_Edwin_Church#/media/File:Frederic_Edwin_Church_-_Rainy_Season_in_the_Tropics_-_Google_Art_Project.jpg
+10:46:58 From  Seth Shaw  to  Everyone:
+	For those that asked about my background.
+10:47:48 From  Islandora Foundation  to  Everyone:
+	Hello Meaghan!
+10:47:56 From  Cash, Meaghan Elise  to  Everyone:
+	Hi, everyone!
+10:48:49 From  Elisa Naquin  to  Everyone:
+	I'm still listening, but hope to be contributing more soon (I'm the metadata librarian at LSU, working on migrating the Louisiana Digital Library)
+10:49:15 From  Ross, Staci L  to  Everyone:
+	Thanks all!
+10:49:17 From  Challen Wright (he/they)  to  Everyone:
+	thanks!
+10:49:18 From  Elisa Naquin  to  Everyone:
+	Thanks!
+10:50:40 From  Seth Shaw  to  Everyone:
+	https://www.unlv.edu/news/expert/darnelle-melvin
+10:57:17 From  Seth Shaw  to  Everyone:
+	https://seth-shaw-unlv.github.io/
+10:57:27 From  Seth Shaw  to  Everyone:
+	https://seth-shaw-unlv.github.io/2020-09-07/large_vocab_list_error
