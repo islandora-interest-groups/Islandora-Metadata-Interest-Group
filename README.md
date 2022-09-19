@@ -15,6 +15,8 @@
 * [Working Documents](https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/wiki/MIG-MODS-to-RDF-Working-Documents)  
 * While the MIG is working on MODS to RDF, meetings occur every other week on Monday from 1 to 2pm EST.
 
+### [Shared Documents (Google Drive)](https://drive.google.com/drive/u/0/folders/1kTAHFcjNnipXHYQSkwgoQsgBPLYBm_1y)
+
 ## Terms of reference
 
 * The name of the interest group is the Islandora Metadata Interest Group (IMIG)
