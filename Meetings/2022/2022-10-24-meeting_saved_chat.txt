@@ -1,0 +1,42 @@
+10:00:45 From  Paige Morfitt  to  Everyone:
+	Agenda! https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2022/2022-10-24.md
+10:03:37 From  Paige Morfitt  to  Everyone:
+	Agenda! https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2022/2022-10-24.md
+10:05:26 From  Paige Morfitt  to  Everyone:
+	https://docs.google.com/document/d/1rk0o_0byzeHrSKst0Feval_QeVZmo2DeIP0Mk3jaaFc/edit#heading=h.kx3yrhwfpcvj
+10:07:37 From  Chris Day  to  Everyone:
+	https://islandora.github.io/documentation/user-documentation/metadata/
+10:15:18 From  Chris Day  to  Everyone:
+	https://mjordan.github.io/islandora_workbench_docs/fields/#typed-relation-fields
+10:27:41 From  Paige Morfitt  to  Everyone:
+	Also good to note, the delimiter can also be changed with Workbench. It just includes some tweaking
+10:29:29 From  Bolam, Michael R  to  Everyone:
+	https://www.loc.gov/standards/mods/userguide/origininfo.html#agent
+10:33:08 From  Rosie Le Faive (she/they)  to  Everyone:
+	is Agent repeatable (within a single originInfo)?
+10:34:57 From  Seth Shaw  to  Everyone:
+	Side note: regarding facets based on relators, ASU uses some custom code to do it. I believe the Islandora search solution is more generalizable.
+10:36:50 From  Bolam, Michael R  to  Everyone:
+	Just tested it in Oxygen and Agent is repeatable within an originInfo.
+10:38:01 From  Bolam, Michael R  to  Everyone:
+	Note that role/roleTerm is also repeatable within a single agent, which might need to be considered when mapping this field in the future when people actually have MODS 3.8
+10:41:01 From  Paige Morfitt  to  Everyone:
+	In MARC, it looks like you can repeat relator term (at least in 700 field)
+10:44:51 From  Rosie Le Faive (she/they)  to  Everyone:
+	https://www.drupal.org/project/synonyms
+10:54:45 From  Devon Murphy (they/them)  to  Everyone:
+	it makes sense to me -- UT Austin has yet to migrate, so we are doing a sort of similar thing, cleanup alongside our (eternal) mapping and building of our instance. I've had to do a lot of validation and reconciliation over the past 3 years so i'm happy to share anything that's helped me with you Harriet (or others)
+10:55:23 From  Harriet South  to  Everyone:
+	Thank you, Devon! :)
+10:55:46 From  Devon Murphy (they/them)  to  Everyone:
+	yw :) you can reach me on slack or at devon.murphy@austin,utexas.edu
+10:59:02 From  Devon Murphy (they/them)  to  Everyone:
+	yes, we're just treating it all as a string as well -- whatever is in the term as we see it in the authority, is the string we're using
+10:59:16 From  Devon Murphy (they/them)  to  Everyone:
+	so for the getty sometimes that's a LOT of content lol in ULAN
+10:59:28 From  Devon Murphy (they/them)  to  Everyone:
+	YEAH
+10:59:29 From  Devon Murphy (they/them)  to  Everyone:
+	hah
+11:00:14 From  Devon Murphy (they/them)  to  Everyone:
+	bye thank you!
