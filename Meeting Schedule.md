@@ -5,6 +5,12 @@
 |---|---|---|---|
 |August 29, 2022|Rosie|Chris|FotW: Title|
 |September 12, 2022|Chris|Paige|FotW: Field Model, Resource Type, and Genre|
+|September 25, 2022|Paige|Chris|Taxonomy Management discussion|
+|October 24, 2022|Chris|Paige|FotW: Linked Agent|
+|November 7, 2022|Rosie|Chris|FotW: Identifiers|
+|November 21, 2022|Paige|Rosie|FotW: Publication Info|
+|December 5, 2022|Chris|Paige|FotW: Subjects|
+
 
 ## Pre-2021
 
