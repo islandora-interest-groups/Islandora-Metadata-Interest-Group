@@ -1,0 +1,84 @@
+12:01:04 From Devon Murphy (they/them) to Everyone:
+	hello from Texas! gearing up for some ice
+12:01:32 From Devon Murphy (they/them) to Everyone:
+	I am NOT looking forward to it + bad infrastructure
+12:01:46 From Paige Morfitt to Everyone:
+	https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2023/2023-01-30.md
+12:05:17 From Chris Day to Everyone:
+	Here is a link to the survey
+12:05:18 From Chris Day to Everyone:
+	https://docs.google.com/forms/d/e/1FAIpQLSdiAyRZ4j5tLC86rSWITDZJnOa6WTTKUuNuaVA2x-IA1F6u5g/viewform?usp=sf_link
+12:11:54 From Devon Murphy (they/them) to Everyone:
+	nope, that's pretty much the same thing here. Language of the item. It repeats if the item contains more than one language (happens sometimes with rare books we have that are colonial dictionaries)
+12:12:53 From Devon Murphy (they/them) to Everyone:
+	I will say we use iso 639-3 bc we have languages that do not appear in 639-2, and are in the process even of adding a language to 639-3 :)
+12:14:37 From Devon Murphy (they/them) to Everyone:
+	that is a good point! I should clarify we use both the term + the code, ha. So something like English, eng.
+12:15:05 From Devon Murphy (they/them) to Everyone:
+	LOL
+12:18:50 From Harriet South to Everyone:
+	Spreadsheets are the best! 😄
+12:21:13 From Devon Murphy (they/them) to Everyone:
+	man I wish haha. bc over half of our materials come from the Latin American archives, it is just not possible. Spanish and Portuguese are just as common as English, and then many many Indigenous languages ;D. Luckily, collection curators are pretty comfy with ISO just bc we've had to do work to pick or create the best code for languages like...Nahuatl or Mixtec.
+12:21:38 From Devon Murphy (they/them) to Everyone:
+	i would love defaults but sigh
+12:22:27 From Devon Murphy (they/them) to Everyone:
+	yes! for the latin American materials we have started translating subjects into Spanish, less frequently Portuguese. long term we'd like to do so with all materials
+12:23:39 From Devon Murphy (they/them) to Everyone:
+	it's not too bad tbh! while i'd like iso 639-3 to be in there by default, it's not hard to add new vocabs. I've been messing around with that in our sandbox site
+12:30:39 From Devon Murphy (they/them) to Everyone:
+	yes!! we do for some collections
+12:32:32 From Devon Murphy (they/them) to Everyone:
+	we keep them separate, bc we do have a semi-consistent Spanish translation practice going on for descriptions and subjects
+12:32:42 From Seth Shaw to Everyone:
+	https://m.xkcd.com/2730/
+12:32:44 From Devon Murphy (they/them) to Everyone:
+	but other languages unsure. Only Spanish gets this treatment lol
+12:32:50 From Devon Murphy (they/them) to Everyone:
+	yes
+12:32:56 From Devon Murphy (they/them) to Everyone:
+	let me link the project :)
+12:33:23 From Devon Murphy (they/them) to Everyone:
+	https://guides.uflib.ufl.edu/pana/overview thank you! we partnered with UF bc their workflow is great
+12:36:16 From Chris Day to Everyone:
+	https://www.loc.gov/marc/languages/language_name.html
+12:37:18 From Chris Day to Everyone:
+	https://www.loc.gov/standards/iso639-2/php/code_list.php
+12:41:16 From Devon Murphy (they/them) to Everyone:
+	yes the English version of the language -- never thought of that before!
+12:41:57 From Devon Murphy (they/them) to Everyone:
+	ahh good point. hmm. I think for the Indigenous languages we have do use the Indigenous version but there's not much variation there really
+12:42:01 From Devon Murphy (they/them) to Everyone:
+	Otomi is Otomi lol
+12:42:13 From Devon Murphy (they/them) to Everyone:
+	i agree w seth
+12:53:11 From Bolam, Michael R to Everyone:
+	So... is there actually a camp coming soon? Anyone have a link handy?
+12:53:24 From Bolam, Michael R to Everyone:
+	(my search engine skills are failing...)
+12:53:32 From Dani Kroon to Everyone:
+	https://github.com/Islandora/islandora-community/wiki/IslandoraCamp-2023
+12:53:35 From Seth Shaw to Everyone:
+	https://github.com/Islandora/islandora-community/wiki/IslandoraCamp-2023
+12:54:34 From Chris Day to Everyone:
+	https://docs.google.com/forms/d/e/1FAIpQLSdiAyRZ4j5tLC86rSWITDZJnOa6WTTKUuNuaVA2x-IA1F6u5g/viewform?usp=sf_link
+12:56:29 From Harriet South to Everyone:
+	Reacted to "https://github.com/I..." with 👍
+12:56:59 From Elisa Naquin to Everyone:
+	Yes, I agree. Thank you.
+12:57:27 From Harriet South to Everyone:
+	Reacted to "https://github.com/I..." with 👍
+12:57:28 From Devon Murphy (they/them) to Everyone:
+	thank you all! some cool things to think about re: language...going to ponder translating the lang field
+12:58:05 From Devon Murphy (they/them) to Everyone:
+	yes lol
+12:58:14 From Devon Murphy (they/them) to Everyone:
+	my advisor would do that, she'd sit and smile at me for 2 full minutes
+12:58:16 From Devon Murphy (they/them) to Everyone:
+	was her max
+12:58:23 From Devon Murphy (they/them) to Everyone:
+	it always worked
+12:58:34 From Devon Murphy (they/them) to Everyone:
+	she's too powerful
+12:59:46 From Devon Murphy (they/them) to Everyone:
+	bye!
