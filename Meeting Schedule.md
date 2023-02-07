@@ -1,3 +1,9 @@
+## 2023 Meetings
+
+|Date | Chair | Note-taker | Topic |
+|---|---|---|---|
+|January 30, 2023|Paige|Chris|FotW: Abstract, Description, Notes, Table of Contents|
+|February 13, 2023|Rosie|Paige|FotW: Language|
 
 ## 2022 Meetings
 
@@ -10,6 +16,8 @@
 |November 7, 2022|Rosie|Chris|FotW: Identifiers|
 |November 21, 2022|Paige|Rosie|FotW: Publication Info|
 |December 5, 2022|Chris|Paige|FotW: Subjects|
+|December 19, 2022|Rosie|Paige|FotW: End of Year Summary|
+
 
 
 ## Pre-2021
