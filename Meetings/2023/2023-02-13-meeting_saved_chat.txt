@@ -1,0 +1,38 @@
+12:02:04 From Paige Morfitt to Everyone:
+	agenda! https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2023/2023-02-13.md
+12:03:25 From Chris Day to Everyone:
+	https://redrot.bandcamp.com/album/title-not-identified
+12:12:13 From Chris Day to Everyone:
+	https://docs.google.com/document/d/1rk0o_0byzeHrSKst0Feval_QeVZmo2DeIP0Mk3jaaFc/edit#heading=h.xal7wmf5chu8
+12:31:55 From Devon Murphy (they/them) to Everyone:
+	yes -- that's why we didn't go w/ paragraphs for notes (but we then didn't go with them for the rest of the form, for different complicated reasons lol)
+12:32:20 From Chris Day to Everyone:
+	Paragraphs can help but also add problems.
+12:32:35 From Devon Murphy (they/them) to Everyone:
+	exactly! :D
+12:34:41 From Annie Oelschlager to Everyone:
+	https://www.drupal.org/project/paragraphs
+12:35:15 From Harriet South to Everyone:
+	Reacted to "https://www.drupal.o..." with 👍
+12:36:41 From Devon Murphy (they/them) to Everyone:
+	yes, we abandoned them bc of not being able to use/structure RDF, and bc it made the form we were trying to build too complex for our developers. (scale-wise bc we have fields repeat to sometimes ridiculous amounts.) but if you have more concise metadata you probably won't retread the same problems we had :')
+12:43:17 From Bolam, Michael R to Everyone:
+	https://en.wikipedia.org/wiki/Blank_node
+12:45:47 From Annie Oelschlager to Everyone:
+	Thank you for the link :-)
+12:46:12 From Bolam, Michael R to Everyone:
+	Reacted to "Thank you for the li..." with 😺
+12:46:46 From Annie Oelschlager to Everyone:
+	Eli's examples of rdf mapping: https://github.com/Islandora/documentation/issues/1633#issuecomment-703769025
+12:54:30 From Bolam, Michael R to Everyone:
+	"The Practical Distiller: or an introduction to making Whiskey, Gin, Brandy, Spirits, &c. &c. of better quality, and in larger quantities, than produced by the present mode of distilling, from the produce of the United States: such as Rye, Corn, Buckwheat, Apples, Peaches, Potatoes, Pumpions[sic] and Turnips. With directions how to conduct and improve the practical part of distilling in all its branches. Together with directions for purifying, clearing and colouring Whiskey, making Spirits similar to French Brandy, &c. from the Spirits of Rye, Corn, Apples, Potatoes &c. &c. and sundry extracts of approved receipts for making Cider, domestic Wines, and Beer
+12:54:41 From Devon Murphy (they/them) to Everyone:
+	Reacted to ""The Practical Disti..." with 😱
+12:56:44 From Bolam, Michael R to Everyone:
+	https://worldcat.org/title/476565308
+12:57:00 From Harriet South to Everyone:
+	Reacted to ""The Practical Disti..." with 😁
+12:58:43 From Devon Murphy (they/them) to Everyone:
+	thank you all! have another mtg soon :)
+13:00:34 From Annie Oelschlager to Everyone:
+	bye!
