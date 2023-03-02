@@ -1,0 +1,62 @@
+09:59:53 From  Paige Morfitt (she/her)  to  Everyone:
+	agenda! https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2023/2023-02-27.md
+10:03:31 From  Paige Morfitt (she/her)  to  Everyone:
+	agenda! https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2023/2023-02-27.md
+10:03:39 From  Ross, Staci L  to  Everyone:
+	That's so awesome, Chris!
+10:09:55 From  Paige Morfitt (she/her)  to  Everyone:
+	survey link: https://docs.google.com/forms/d/e/1FAIpQLSdiAyRZ4j5tLC86rSWITDZJnOa6WTTKUuNuaVA2x-IA1F6u5g/viewform
+10:11:10 From  Paige Morfitt (she/her)  to  Everyone:
+	field of the week document : https://docs.google.com/forms/d/e/1FAIpQLSdiAyRZ4j5tLC86rSWITDZJnOa6WTTKUuNuaVA2x-IA1F6u5g/viewform
+10:14:10 From  Paige Morfitt (she/her)  to  Everyone:
+	my fault! Sorry!
+10:22:31 From  Devon Murphy (they/them)  to  Everyone:
+	only in one specific collection, bc we're slowly restoring the items (all are born-digital). I believe we may do that for born-digi items in the future but not for analog materials. that technical scanning metadata is stored in separate spreadsheets using diff schemas. that info + descriptive metadata is then written to tape together for long-term preservation.
+10:23:49 From  Devon Murphy (they/them)  to  Everyone:
+	it's mostly for access purposes, just letting ppl know the items were made in an outdated piece of software, they'll have to come in person to see it, etc. etc.
+10:23:58 From  Ross, Staci L  to  Everyone:
+	digitalOrigin defs follow (sorry for the bad paste :/): born digital – A resource was created in digital form and is intended to remain in digital form.	    reformatted digital – A resource that was created by digitizing an original analog resource.	    digitized microfilm – A resource that was created by digitizing a microform.	    digitized other analog – A resource that was created by digitizing a non-original, second-generation type analog resource, such as a photocopy.
+10:26:14 From  Bolam, Michael R  to  Everyone:
+	Reacted to "it's mostly for acce..." with 👍🏻
+10:26:18 From  Rosie Le Faive (she/they)  to  Everyone:
+	There’s also this detailed set of physical “material form”s: https://www.loc.gov/standards/valuelist/marcsmd.html
+	
+	I’d like to see a “tactile material >> moon"
+10:26:23 From  Ross, Staci L  to  Everyone:
+	Reacted to "only in one specific..." with 👍🏽
+10:26:30 From  Rosie Le Faive (she/they)  to  Everyone:
+	Reacted to "it's mostly for acce..." with 👍🏻
+10:26:30 From  Ross, Staci L  to  Everyone:
+	Reacted to "it's mostly for acce..." with 👍🏻
+10:27:23 From  Harriet South  to  Everyone:
+	Reacted to "it's mostly for acce..." with 👍🏻
+10:27:34 From  Ross, Staci L  to  Everyone:
+	Replying to "There’s also this de..."
+	
+	Same here! Turns out it's a type of embossed language for visually impaired users: https://origin-archive.ifla.org/IV/ifla65/65jg1-e.htm
+10:29:21 From  Rosie Le Faive (she/they)  to  Everyone:
+	Replying to "There’s also this de..."
+	
+	😄
+10:31:41 From  Ross, Staci L  to  Everyone:
+	Replying to "There’s also this de..."
+	
+	I'm only a little disappointed they didn't mean an actual hand-held moon 😊
+10:34:23 From  Devon Murphy (they/them)  to  Everyone:
+	from the few born-digi guidelines I've seen for EAD, yes, extent is used for file size. MG, GB etc, it would make sense to do that here
+10:34:39 From  Devon Murphy (they/them)  to  Everyone:
+	whoops MB
+10:34:51 From  Ross, Staci L  to  Everyone:
+	Reacted to "from the few born-di..." with 👍🏽
+10:34:52 From  Devon Murphy (they/them)  to  Everyone:
+	yw 🙂
+10:38:14 From  Rosie Le Faive (she/they)  to  Everyone:
+	(but we could pre-load the starter site, if you want, let me know)
+10:51:24 From  Paige Morfitt (she/her)  to  Everyone:
+	makes me thing, if you use the form what happens if two people are working on the same object at the same time? Does an alert or error appear?
+10:51:54 From  Chris Day  to  Everyone:
+	I7 had a module that would lock objects so only one person could edit at at time. Not default but you had add it.
+10:55:21 From  Ross, Staci L  to  Everyone:
+	Hm, good question, Paige. I'm not sure we've experienced that, yet, but there have been issues with getting updates to save for single users
+10:55:32 From  Ross, Staci L  to  Everyone:
+	ack, that's for I7 :)
