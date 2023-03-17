@@ -4,6 +4,8 @@
 |---|---|---|---|
 |January 30, 2023|Paige|Chris|FotW: Abstract, Description, Notes, Table of Contents|
 |February 13, 2023|Rosie|Paige|FotW: Language|
+|February 27, 2023|Chris|Paige|FotW: Physical Description: Extent & Physical Form|
+|March 13, 2023|Paige|Rosie|Citation Block CSL mappings|
 
 ## 2022 Meetings
 
