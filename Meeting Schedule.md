@@ -7,22 +7,8 @@
 |February 27, 2023|Chris|Paige|FotW: Physical Description: Extent & Physical Form|
 |March 13, 2023|Paige|Rosie|Citation Block CSL mappings|
 
-## 2022 Meetings
 
-|Date | Chair | Note-taker | Topic |
-|---|---|---|---|
-|August 29, 2022|Rosie|Chris|FotW: Title|
-|September 12, 2022|Chris|Paige|FotW: Field Model, Resource Type, and Genre|
-|September 25, 2022|Paige|Chris|Taxonomy Management discussion|
-|October 24, 2022|Chris|Paige|FotW: Linked Agent|
-|November 7, 2022|Rosie|Chris|FotW: Identifiers|
-|November 21, 2022|Paige|Rosie|FotW: Publication Info|
-|December 5, 2022|Chris|Paige|FotW: Subjects|
-|December 19, 2022|Rosie|Paige|FotW: End of Year Summary|
-
-
-
-## Pre-2021
+## Pre-2023
 
 |Date | Chair | Note-taker | Topic |
 |---|---|---|---|
@@ -84,5 +70,26 @@
 |November 22, 2021|Kristina|Mike|Question about Local Contexts and Sprint Discussion/Use Cases|
 |December 06, 2021|Kristina||Sprint update and Round Table|
 |December 20, 2021|Kristina|Paige|Linked Data FYI and Islandora Defaults|
+|January 31, 2022|Kristina|Paige|Discussion: Resource Type/System Model||
+|February 14, 2022|Kristina|Paige|Discussion: Resource Type/System Model|
+|February 28, 2022|Kristina|Paige|Discussion: Resource Type/System Model ; Technical Metadata |
+|March 14, 2022|Kristina|Paige|Python Script XML to MIG MODS showcase; Technical Metadata Spreadsheet|
+|March 28, 2022|Kristina|Paige|Showcase: MODS profiling Script; Technical Metadata: FITS|
+|April 11, 2022|Kristina|Mike|Technical Metadata: Continuing FITS|
+|April 25, 2022|Kristina|Paige|Discussion: Sandbox & Metadata Cleanup documentation|
+|May 9, 2022|Kristina|Paige|Metadata Brain Dump|
+|May 23, 2022|Kristina|Paige|Metadata Brain Dump|
+|June 6, 2022|Kristina|Paige|Metadata Brain Dump document|
+|July 18, 2022|Rosie|Paige|Metadata Brain Dump document; Metadata field report demo|
+|August 3, 2022|Rosie|Paige|Discussion: Dates|
+|August 15, 2022|Paige|Paige|Discussions: IslandoraCom, Metadata projects & Issues|
+|August 29, 2022|Rosie|Chris|FotW: Title|
+|September 12, 2022|Chris|Paige|FotW: Field Model, Resource Type, and Genre|
+|September 25, 2022|Paige|Chris|Taxonomy Management discussion|
+|October 24, 2022|Chris|Paige|FotW: Linked Agent|
+|November 7, 2022|Rosie|Chris|FotW: Identifiers|
+|November 21, 2022|Paige|Rosie|FotW: Publication Info|
+|December 5, 2022|Chris|Paige|FotW: Subjects|
+|December 19, 2022|Rosie|Paige|FotW: End of Year Summary|
 
 
