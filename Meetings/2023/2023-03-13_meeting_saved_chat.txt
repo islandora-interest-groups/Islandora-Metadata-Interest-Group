@@ -1,0 +1,20 @@
+09:58:41 From  Paige Morfitt (she/her)  to  Everyone:
+	Agenda! : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2023/2023-03-13.md
+10:00:30 From  Paige Morfitt (she/her)  to  Everyone:
+	Agenda! : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2023/2023-03-13.md
+10:02:51 From  Paige Morfitt (she/her)  to  Everyone:
+	Agenda! : https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2023/2023-03-13.md
+10:15:44 From  Paige Morfitt (she/her)  to  Everyone:
+	https://docs.google.com/spreadsheets/d/1_pSX624v2hMqkwBG0lO26adFStd-1SGvLBdPG3ix6Qs/edit#gid=0
+10:23:59 From  Rosie Le Faive (she/they)  to  Everyone:
+	https://docs.citationstyles.org/en/stable/specification.html#
+10:29:26 From  Paige Morfitt (she/her)  to  Everyone:
+	ah! Okay. Thanks!
+10:33:05 From  Paige Morfitt (she/her)  to  Everyone:
+	Whitman has a handle field as well. But for other items we'd want the DOI
+10:36:23 From  Paige Morfitt (she/her)  to  Everyone:
+	Same. Our handles are local.
+10:47:50 From  Seth Shaw  to  Everyone:
+	I'm neutral on this point.
+10:48:59 From  Seth Shaw  to  Everyone:
+	From the CSL spec: 	page	Range of pages the item (e.g. a journal article) covers in a container (e.g. a journal issue)	page-first	First page of the range of pages the item (e.g. a journal article) covers in a container (e.g. a journal issue)
