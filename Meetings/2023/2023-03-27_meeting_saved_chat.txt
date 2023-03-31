@@ -1,0 +1,58 @@
+11:59:56 From Paige Morfitt  to Everyone:
+	https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2023/2023-03-27.md
+12:00:50 From Paige Morfitt  to Everyone:
+	https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2023/2023-03-27.md
+12:01:31 From Ross, Staci L to Everyone:
+	That's a pretty interesting ceiling :p
+12:01:40 From Paige Morfitt  to Everyone:
+	Thank you!
+12:06:23 From Paige Morfitt  to Everyone:
+	Pet parade!
+12:07:33 From Paige Morfitt  to Everyone:
+	https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2023/2023-03-27.md
+12:19:42 From Bolam, Michael R to Everyone:
+	MODS Logo reminds me of that generic 90s "cup" art... https://en.wikipedia.org/wiki/Jazz_(design)
+12:20:02 From Paige Morfitt  to Everyone:
+	Reacted to "MODS Logo reminds me…" with 😂
+12:20:15 From Harriet South to Everyone:
+	Reacted to "MODS Logo reminds me..." with 😄
+12:20:16 From Challen Wright (he/they) to Everyone:
+	Reacted to "MODS Logo reminds me..." with 😂
+12:20:28 From Harriet South to Everyone:
+	Removed a 😄 reaction from "MODS Logo reminds me..."
+12:20:29 From Harriet South to Everyone:
+	Reacted to "MODS Logo reminds me..." with 😂
+12:37:10 From Seth Shaw to Everyone:
+	4GB = ~4,311,744,512 simple characters (Unicode uses multiple).
+12:39:54 From Devon Murphy (they/them) to Everyone:
+	Reacted to "MODS Logo reminds me..." with 😂
+12:46:45 From Bolam, Michael R to Everyone:
+	Strong "Perfect Strangers" vibes with that picture...
+12:49:03 From Ross, Staci L to Everyone:
+	If data is already present in a field but you want to reconfigure a locked in attribute (un/limited, field type, etc.), could you purge all data from that field and then reconfigure?
+12:56:48 From Bolam, Michael R to Everyone:
+	https://www.loc.gov/marc/relators/relaterm.html
+12:56:52 From Ross, Staci L to Everyone:
+	Reacted to "https://www.loc.gov/..." with 👍🏽
+12:56:58 From Bolam, Michael R to Everyone:
+	MARC relators ^^
+12:57:39 From Pascal Brammeier - Marmot to Everyone:
+	thanks
+12:58:21 From Devon Murphy (they/them) to Everyone:
+	we'll have to add some AAT ones 🙂
+12:58:30 From Devon Murphy (they/them) to Everyone:
+	or I mean ULAN oops
+12:58:43 From Ross, Staci L to Everyone:
+	Reacted to "or I mean ULAN oops" with 👍🏽
+12:58:57 From Ross, Staci L to Everyone:
+	There are also relators between works, but that's a lot...
+12:59:07 From Devon Murphy (they/them) to Everyone:
+	Reacted to "There are also relat..." with 👍🏻
+12:59:35 From Ross, Staci L to Everyone:
+	Replying to "or I mean ULAN oops"
+	
+	i'll have to check these out! especially for our collections of arts objects
+13:00:00 From Pascal Brammeier - Marmot to Everyone:
+	thank you for the presentation
+13:00:04 From Ross, Staci L to Everyone:
+	Thank you Chris!
