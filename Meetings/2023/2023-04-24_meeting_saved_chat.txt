@@ -1,0 +1,57 @@
+12:01:44 From Paige Morfitt to Everyone:
+	https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2023/2023-04-24.md
+12:04:32 From Ross, Staci L to Everyone:
+	Sounds good! Thanks, Paige
+12:05:16 From Rosie Le Faive (she/they) to Everyone:
+	https://docs.google.com/document/d/1rk0o_0byzeHrSKst0Feval_QeVZmo2DeIP0Mk3jaaFc/edit#heading=h.id38mzpymtm5
+12:10:38 From Seth Shaw to Everyone:
+	That stroke is slanted the wrong way. 🤦‍♂️
+12:14:11 From Rosie Le Faive (she/they) to Everyone:
+	@seth https://github.com/Islandora/controlled_access_terms/pull/97
+12:14:37 From Dani Kroon to Everyone:
+	How do you know what numbers to associate with Spring, summer etc?
+12:15:26 From Rosie Le Faive (she/they) to Everyone:
+	@Dani it's in the EDTF specification. We don't have a cheat sheet...
+	but I think I added (or could add!) a link to the EDTF specification in the "description" of our date fields
+12:15:50 From Dani Kroon to Everyone:
+	that would super helpful
+12:15:58 From Ross, Staci L to Everyone:
+	@Dani, here's a site I've used: https://www.loc.gov/standards/datetime/
+12:16:41 From Ross, Staci L to Everyone:
+	Replying to "@Dani, here's a site..."
+	
+	see section "Level 1": Seasons		The values 21, 22, 23, 24 may be used used to signify ' Spring', 'Summer', 'Autumn', 'Winter', respectively, in place of a month value (01 through 12) for a year-and-month format string.
+12:17:08 From Dani Kroon to Everyone:
+	Reacted to "see section "Level 1..." with 👍
+12:17:21 From Rosie Le Faive (she/they) to Everyone:
+	Replying to "@Dani, here's a site..."
+	
+	And to confuse things, under Level 2 you can signify 'summer in the northern hemisphere' vs 'summer in the southern hemisphere'
+12:17:29 From Ross, Staci L to Everyone:
+	Reacted to "And to confuse thing..." with 👍🏽
+12:17:37 From Dani Kroon to Everyone:
+	Replying to "@Dani, here's a site..."
+	
+	Thank you so much
+12:17:46 From Harriet South to Everyone:
+	Reacted to "see section "Level 1..." with 👍
+12:25:23 From Ross, Staci L to Everyone:
+	Has anyone locally implemented a free-text date display?
+12:30:16 From Seth Shaw to Everyone:
+	https://git.drupalcode.org/project/archivesspace/-/blob/8.x-1.x/src/Plugin/Field/FieldType/ASDate.php
+12:30:25 From Seth Shaw to Everyone:
+	https://git.drupalcode.org/project/archivesspace/-/blob/8.x-1.x/src/Plugin/Field/FieldFormatter/ASDateFormatter.php
+12:32:27 From Ross, Staci L to Everyone:
+	Good to know! Still can be helpful
+12:35:59 From Ross, Staci L to Everyone:
+	Reacted to "Thank you so much" with 👍🏽
+12:41:07 From Ross, Staci L to Everyone:
+	We've locally applied a "statement of responsibility" field to capture data as printed on the object (but it's only used for metadata from MARC for now)
+12:42:49 From Ross, Staci L to Everyone:
+	Good call! I like adding to description, too
+12:48:37 From Ross, Staci L to Everyone:
+	Agreed, this is a bit too much specificity for our use cases, lol
+12:53:52 From Seth Shaw to Everyone:
+	Y171010000S3
+12:54:07 From Seth Shaw to Everyone:
+	some year between 171000000 and 171999999 estimated to be 171010000
