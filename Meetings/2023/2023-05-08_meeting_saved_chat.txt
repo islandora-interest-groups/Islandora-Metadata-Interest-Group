@@ -1,0 +1,38 @@
+10:01:11 From Dani Kroon To Everyone:
+	yes, I do
+10:03:02 From Paige Morfitt To Everyone:
+	It does
+10:04:46 From Paige Morfitt To Everyone:
+	Agenda! https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2023/2023-05-08.md
+10:05:44 From Paige Morfitt To Everyone:
+	https://docs.google.com/document/d/1rk0o_0byzeHrSKst0Feval_QeVZmo2DeIP0Mk3jaaFc/edit
+10:08:48 From Chris Day To Everyone:
+	https://rightsstatements.org/page/1.0/?language=en
+10:09:12 From Chris Day To Everyone:
+	https://pro.europeana.eu/page/available-rights-statements
+10:10:01 From Chris Day To Everyone:
+	https://docs.rockarch.org/premis-rights-guidelines/
+10:10:33 From Chris Day To Everyone:
+	https://creativecommons.org/about/cclicenses/
+10:18:45 From Seth Shaw To Everyone:
+	There is also the "Copyright Not Evaluated" Rights Statement.
+10:18:52 From Chris Day To Everyone:
+	Reacted to "There is also the "C..." with 👍
+10:26:37 From Harriet South To Everyone:
+	Traditional Knowledge labels?
+10:34:15 From Paige Morfitt To Everyone:
+	That's what we have: https://arminda.whitman.edu/islandora/development-quantum-mechanical-computational-model-catalytic-active-site-sulfite-oxidase
+10:36:49 From Chris Day To Everyone:
+	https://digitalcollections.saic.edu/islandora/object/islandora%3A25047
+10:50:57 From Seth Shaw To Everyone:
+	Related: UNLV pulls our digital repositories into Primo, the search and discovery layer, bypassing ALMA.
+10:51:21 From Seth Shaw To Everyone:
+	*via OAI-PMH dublin core.
+10:51:42 From Paige Morfitt To Everyone:
+	I was just going to ask how you did that!
+10:54:54 From Paige Morfitt To Everyone:
+	That is interesting. We do it all by hand (by we I mean our single cataloger catalogs all our theses and creates our theses islandora metadata  by hand!)
+11:00:12 From Paige Morfitt To Everyone:
+	I'll put it in the notes!
+11:01:17 From Elisa Naquin To Everyone:
+	Thanks so much everyone
