@@ -1,0 +1,26 @@
+12:13:14 From Bolam, Michael R to Everyone:
+	https://historicpittsburgh.org/collection/aerial-photographs-pittsburgh
+12:15:59 From Bolam, Michael R to Everyone:
+	https://historicpittsburgh.org/islandora/object/pitt%3AUS-PPiU-dar192506/viewer
+12:17:06 From Bolam, Michael R to Everyone:
+	https://digital.library.pitt.edu/islandora/object/pitt%3AUS-PPiU-dar192506/viewer
+12:28:22 From Bolam, Michael R to Everyone:
+	https://github.com/ulsdevteam/islandora_datastreams_io
+12:39:12 From Staci Ross to Everyone:
+	RDA, DACs, etc. are moving toward using the term "agent" instead of "names"
+12:40:29 From Seth Shaw to Everyone:
+	Actually, "agent" may have been an EAD thing....
+12:42:47 From Seth Shaw to Everyone:
+	NM, agent wasn't introduced in EAD until EAD 3.
+12:44:54 From Bolam, Michael R to Everyone:
+	https://www.dublincore.org/specifications/dublin-core/dcmi-type-vocabulary/
+12:53:55 From Bolam, Michael R to Everyone:
+	https://id.loc.gov/authorities/names/n79053201.html
+12:54:03 From Bolam, Michael R to Everyone:
+	Seuss, Dr.
+12:56:15 From Staci Ross to Everyone:
+	May not be relevant, but you should also be careful with pseudonyms. In LCNAF, these have separate name authorities (i.e., Sam Clemens vs. Mark Twain)
+12:57:38 From Bolam, Michael R to Everyone:
+	Gotta run to another meeting. See you all in a couple weeks.
+12:58:13 From Elisa Naquin to Everyone:
+	Thanks, everyone
