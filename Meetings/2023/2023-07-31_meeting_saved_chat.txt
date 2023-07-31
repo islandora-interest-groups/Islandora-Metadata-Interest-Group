@@ -1,0 +1,52 @@
+12:02:27 From Chris Day to Everyone:
+	https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2023/2023-07-31.md
+12:05:37 From Chris Day to Everyone:
+	https://2023.islandora.ca/program/
+12:06:50 From Chris Day to Everyone:
+	https://docs.google.com/presentation/d/1L8c7cN_rakWtytOWyRQKuUJ2x__H1M3IjQEoaX1b7IU/edit?usp=sharing
+12:06:57 From Paige’s iPhone to Everyone:
+	Sorry! Lost internet!
+12:07:23 From Bolam, Michael R to Everyone:
+	Complete with Cody Rhodes reference, hub? :)
+12:08:55 From Yamil Suárez (he/him) to Everyone:
+	Darn, need to join another meeting
+12:13:28 From Seth Shaw to Everyone:
+	The limitations of CSV.
+12:13:45 From Rosie Le Faive (she/they) to Everyone:
+	JSON! TEI! lol.
+12:18:48 From Paige’s iPhone to Everyone:
+	Would that cause confusion for people who already are in islandora 8?
+12:21:45 From Paige’s iPhone to Everyone:
+	Ok. Thank you!
+12:22:28 From Chris Day to Everyone:
+	https://docs.google.com/document/d/1rk0o_0byzeHrSKst0Feval_QeVZmo2DeIP0Mk3jaaFc/edit#heading=h.7j9q7cq419g1
+12:28:44 From Seth Shaw to Everyone:
+	Just over 24 pages currently.
+12:39:23 From Seth Shaw to Everyone:
+	That is what UNLV's newspapers do.
+12:43:56 From Seth Shaw to Everyone:
+	Which is why our newspaper listing view was date based.
+12:48:09 From Paige’s iPhone to Everyone:
+	The only thing I could think of is exploring into media and nodes.
+12:48:30 From Paige’s iPhone to Everyone:
+	But we’ve done that in presentations.
+12:50:48 From Rosie Le Faive (she/they) to Everyone:
+	Pull request for Right as formatted text: https://github.com/Islandora-Devops/islandora-starter-site/pull/102
+12:54:46 From Paige’s iPhone to Everyone:
+	I think something like that would be great!
+12:55:19 From Paige’s iPhone to Everyone:
+	We also started a glossary.
+12:55:30 From Harriet South to Everyone:
+	Reacted to "I think something li..." with 👍
+12:55:36 From Harriet South to Everyone:
+	Reacted to "We also started a gl..." with 👍
+12:55:36 From Rosie Le Faive (she/they) to Everyone:
+	Reacted to "We also started a gl..." with 👍
+12:58:31 From Dani Kroon to Everyone:
+	Thanks for a good conversation
+12:58:33 From Ross, Staci L to Everyone:
+	Thank you!
+12:58:37 From Cash, Meaghan Elise to Everyone:
+	Thanks!
+12:58:41 From Paige’s iPhone to Everyone:
+	Chris can you copy the chat
