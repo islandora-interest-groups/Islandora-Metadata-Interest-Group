@@ -1,0 +1,86 @@
+12:01:45 From Rosie Le Faive (she/they) To Everyone:
+	https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2023/2023-08-28.md
+12:04:31 From Rosie Le Faive (she/they) To Everyone:
+	https://github.com/Islandora/islandora-community/wiki/Monthly-Open-Meetings
+12:05:05 From Rosie Le Faive (she/they) To Everyone:
+	https://docs.google.com/document/d/1DyPK8RsxFXQyOUXAPqzLqLQ8BnMobFoxXHlZ37SxeKU/edit#heading=h.e6uav58hhftk
+12:05:17 From Rosie Le Faive (she/they) To Everyone:
+	https://github.com/LEAF-VRE/islandora-UX-useathon/issues
+12:08:00 From Ross, Staci L To Everyone:
+	Agents makes a lot of sense here, though it may not be intuitive to folks outside the metadata community
+12:10:28 From Paige Morfitt To Everyone:
+	That's what I was thinking. I wasn't sure if Creator and Contributor would be two different fields.
+12:14:48 From Ross, Staci L To Everyone:
+	+1 Seth! It's tough to strike the balance between those of us in the metadata/Islandora/Drupal communities with those of users outside the library community. "Agents" is pretty jargon, but familiar to the former side, in my opinion
+12:15:11 From Paige Morfitt To Everyone:
+	Throwing it out, MARC has 7xx Added Entry Personal/Corporate/Meeting name. Not ideal, but I was curious.
+12:18:07 From Seth Shaw To Everyone:
+	Perhaps "Contributing Agents"?
+12:18:23 From Harriet South To Everyone:
+	Reacted to "Perhaps "Contributin..." with 👍
+12:18:25 From Ross, Staci L To Everyone:
+	Reacted to "Perhaps "Contributin..." with 👍
+12:19:19 From Seth Shaw To Everyone:
+	Historical note: this was based on ArchivesSpace terminology.
+12:19:27 From Harriet South To Everyone:
+	I do like Creators for the overall category.
+12:19:53 From Stephanie Porrata To Everyone:
+	Reacted to "Perhaps "Contributin..." with 👍
+12:19:56 From Dani Kroon To Everyone:
+	Reacted to "I do like Creators f..." with 👍
+12:19:58 From Paige Morfitt To Everyone:
+	Creators, and Co-creators?
+12:24:20 From Ross, Staci L To Everyone:
+	The field would display something like: Contributors:	Le Faive, Rosie, creator	Day, Chris, contributor	South, Harriet, writer of supplementary content	... etc.
+12:24:48 From Ross, Staci L To Everyone:
+	(if you include roles in the data)
+12:24:54 From Rosie Le Faive (she/they) To Everyone:
+	Yes, though the formatting at the moment is 
+	Creator: Le Faive, Rosie
+	Contributor: Day, Chris etc
+12:25:11 From Ross, Staci L To Everyone:
+	Replying to "Yes, though the form..."
+	
+	Very cool! That's even better!
+12:29:13 From Paige Morfitt To Everyone:
+	What about "Agent" as profession? Would the field be Agent: Agent: Juan, Don?
+12:30:46 From Bolam, Michael R To Everyone:
+	Replying to "What about "Agent" a..."
+	
+	What about adding the metal band Kreator as creator if we call it creator? 		Creator: Creator: Kreator?!?!
+12:31:19 From Paige Morfitt To Everyone:
+	Replying to "What about "Agent" a..."
+	
+	Yes!
+12:31:41 From Ross, Staci L To Everyone:
+	Contributors :)
+12:31:42 From Chris Day To Everyone:
+	Contributors
+12:31:43 From Stephanie Porrata To Everyone:
+	Contributors
+12:31:45 From Harriet South To Everyone:
+	Creators
+12:31:45 From Elisabeth Ball To Everyone:
+	contributors
+12:31:54 From Dani Kroon To Everyone:
+	Contributors
+12:31:54 From Sabrina Bocanegra To Everyone:
+	contributors
+12:31:57 From Joe Corall To Everyone:
+	contributors
+12:31:59 From Seth Shaw To Everyone:
+	Contributors
+12:32:01 From Bolam, Michael R To Everyone:
+	"Contributors" (even though I started by saying not that)
+12:32:08 From Ross, Staci L To Everyone:
+	Replying to ""Contributors" (even..."
+	
+	Lol same!
+12:32:32 From Elisabeth Ball To Everyone:
+	Reacted to "What about adding th..." with 🙂
+12:59:24 From Harriet South To Everyone:
+	Gotta go to another meeting. See you all next time! 🙂
+13:00:09 From Ross, Staci L To Everyone:
+	Thanks all!
+13:00:13 From Pascal Brammeier - Marmot To Everyone:
+	thanks everyone
