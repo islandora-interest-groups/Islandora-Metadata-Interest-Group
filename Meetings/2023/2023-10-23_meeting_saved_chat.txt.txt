@@ -1,0 +1,32 @@
+09:57:21 From Amber Arroyo To Everyone:
+	Good afternoon :)
+09:57:47 From Roxanna (HCC) To Everyone:
+	Reacted to "Good afternoon :)" with 👋
+09:57:50 From Roxanna (HCC) To Everyone:
+	Hello!
+09:57:58 From Paige Morfitt To Everyone:
+	Good morning (it's just 9:57 here)!
+09:59:00 From Roxanna (HCC) To Everyone:
+	Reacted to "Good morning (it's j..." with ☕
+10:00:27 From Chris Day To Everyone:
+	Here is the agenda: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2023/2023-10-23.md
+10:02:18 From Chris Day To Everyone:
+	Here is the agenda again
+10:02:19 From Chris Day To Everyone:
+	https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2023/2023-10-23.md
+10:03:41 From Roxanna (HCC) To Everyone:
+	Reacted to "https://github.com/i..." with 👍
+10:14:49 From Natalie Baur To Everyone:
+	Where will the recording of this demo be posted?
+10:20:28 From Seth Shaw To Everyone:
+	HAL is Hypertext Application Language (adds more rules to JSON and XML).
+10:34:49 From Rosie Le Faive (she/they) To Everyone:
+	https://www.drupal.org/project/taxonomy_manager
+10:35:04 From Rosie Le Faive (she/they) To Everyone:
+	https://www.drupal.org/project/views_data_export
+10:57:34 From Chris Day To Everyone:
+	https://github.com/carakey/xml2csv
+10:57:43 From Chris Day To Everyone:
+	https://github.com/SFULibrary/islandora_datastream_crud
+10:59:40 From Natalie Baur To Everyone:
+	Thanks, this was super helpful!
