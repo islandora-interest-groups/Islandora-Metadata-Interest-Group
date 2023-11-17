@@ -1,0 +1,14 @@
+12:02:41 From Rosie Le Faive (they/she) To Everyone:
+	https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2023/2023-11-06.md
+12:06:13 From Chris Day To Everyone:
+	https://docs.google.com/document/d/1nzg6a89LSBunlF0OJLpiRg0tAl1LLI7vP4aYmoJeWpo/edit#heading=h.s9f5ysbwj05o
+12:21:50 From Rosie Le Faive (they/she) To Everyone:
+	https://docs.google.com/document/d/1nzg6a89LSBunlF0OJLpiRg0tAl1LLI7vP4aYmoJeWpo/edit
+12:25:41 From Joe Corall To Everyone:
+	Need to drop. I will get the islandora_identifier code pulled up somewhere this week
+12:27:18 From Jenny Bradshaw (she/her) To Everyone:
+	That makes sense for language to have the code and displaying the full name.
+12:46:35 From Pascal Brammeier - Marmot To Everyone:
+	THanks everyone
+12:46:40 From Jenny Bradshaw (she/her) To Everyone:
+	Thanks!
