@@ -1,0 +1,14 @@
+10:03:20 From Paige Morfitt To Everyone:
+	Agenda: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2024/2024-01-29.md
+10:31:44 From Paige Morfitt To Everyone:
+	This is amazing!
+10:36:10 From Jonathan Hunt To Everyone:
+	Rosie - this core patch may be needed https://www.drupal.org/project/drupal/issues/3171835 "Field Groups marked as required are missing red asterisk"
+10:45:25 From Ross, Staci L To Everyone:
+	Before we wrap, I have a question about how to suggest changes to the OOTB Linked Agent config
+10:50:03 From Paige Morfitt To Everyone:
+	We have a Source field, but it is very messy and restricted to two collections.
+10:54:37 From Ross, Staci L To Everyone:
+	Names of entities having some relationship to the resource, and, optionally, the relationship to the resource. If a relationship is not specified, it will be recorded as <a href="https://id.loc.gov/vocabulary/relators/asn.html">Associated Name</a> in the system's linked data representation. <br />
+10:56:48 From Ross, Staci L To Everyone:
+	Attributed name
