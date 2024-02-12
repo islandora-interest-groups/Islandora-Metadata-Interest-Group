@@ -1,0 +1,38 @@
+12:00:55 From Chris Day to Everyone:
+	Agenda here: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2024/2024-02-12.md
+12:02:55 From Chris Day to Everyone:
+	Agenda again: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2024/2024-02-12.md
+12:06:00 From Paige Morfitt to Everyone:
+	What time?
+12:15:38 From Paige Morfitt to Everyone:
+	So if you delete fields in Easy Mode, it will not delete in the Default form?
+12:18:06 From Paige Morfitt to Everyone:
+	This is amazing! I'm excited to add this to our Islandora!!!
+12:20:24 From Pascal Brammeier - Marmot (he/him/his) to Everyone:
+	Thanks, form modes will be really useful
+12:20:49 From Rosie Le Faive (they/she) to Everyone:
+	http://64.23.180.138
+	user: mig
+	Pass: demo123
+12:27:59 From Paige Morfitt to Everyone:
+	Ah, okay. That's stinky.
+12:29:18 From Elisabeth Ball, FLVC to Everyone:
+	Thank you for the form demos! I have to go to another meeting.
+12:31:43 From Paige Morfitt to Everyone:
+	This spreadsheet is beautiful!!
+12:32:13 From Tyrica Terry Kapral (University of Pittsburgh LS, she/her) to Everyone:
+	Reacted to "This spreadsheet is ..." with 💯
+12:32:18 From Ross, Staci L to Everyone:
+	Reacted to "This spreadsheet is ..." with 💯
+12:36:33 From Rosie Le Faive (they/she) to Everyone:
+	Amazing spreadsheet
+12:40:44 From Paige Morfitt to Everyone:
+	Looking at this, it would be awesome to add in roles and mark which roles have access to which fields (if you have roles)
+12:44:29 From Ross, Staci L to Everyone:
+	It might be good to split out display configurations to another sheet, since this spreadsheet is pretty broad?
+12:49:10 From Paige Morfitt to Everyone:
+	That could be it's own tab, one that explains the meaning of each column. But I agree, that would be a lot of work.
+12:56:04 From Tyrica Terry Kapral (University of Pittsburgh LS, she/her) to Everyone:
+	Thanks, all!
+12:56:05 From Pascal Brammeier - Marmot (he/him/his) to Everyone:
+	Thanks, all!
