@@ -1,0 +1,50 @@
+10:05:56 From Paige Morfitt To Everyone:
+	https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2024/2024-02-26.md
+10:06:15 From Rosie Le Faive (they/she) To Everyone:
+	http://64.23.180.138/node/add/islandora_object
+10:06:31 From Rosie Le Faive (they/she) To Everyone:
+	mig / demo123
+10:06:38 From Paige Morfitt To Everyone:
+	It's also in the notes from last meeting
+10:11:26 From Paige Morfitt To Everyone:
+	free text?
+10:17:20 From Paige Morfitt To Everyone:
+	yes please!
+10:20:46 From Paige Morfitt To Everyone:
+	That is awesome!
+10:30:50 From Tyrica Terry Kapral (she/her) To Everyone:
+	I was wondering about a projection field under Geographic Coordinates?
+10:35:08 From Paige Morfitt To Everyone:
+	I wish we had time to do that cuz that would work wonderfully with the tribes we have in WA
+10:35:57 From Rosie Le Faive (they/she) To Everyone:
+	haha
+10:42:51 From Paige Morfitt To Everyone:
+	I think the geo location would be great for us as part of the college's mission is celebrating our location and this could be a nice way to celebrate our location, by adding coordinates/a map to highlight where things happened in the history of Eastern Washington area.
+10:43:11 From Tyrica Terry Kapral (she/her) To Everyone:
+	Reacted to "I think the geo loca..." with 👍🏾
+10:46:09 From Paige Morfitt To Everyone:
+	Sounds good to me!
+10:46:22 From Rosie Le Faive (they/she) To Everyone:
+	Reacted to "I think the geo loca..." with 👍🏾
+10:48:07 From Paige Morfitt To Everyone:
+	I agree.
+10:50:26 From Paige Morfitt To Everyone:
+	We typically group our Type and Gene together so it makes sense to me!
+10:50:59 From Tyrica Terry Kapral (she/her) To Everyone:
+	I agree. I was thinking of how genre -> type in the MODS to DC mapping.
+10:51:09 From Tyrica Terry Kapral (she/her) To Everyone:
+	And people always get form, genre, and type confused.
+10:51:16 From Tyrica Terry Kapral (she/her) To Everyone:
+	So, they seem closely related.
+10:54:53 From Paige Morfitt To Everyone:
+	That sounds amazing!
+10:55:58 From Paige Morfitt To Everyone:
+	Here I am frantically writing that down to look into!
+10:59:08 From Paige Morfitt To Everyone:
+	Will do! Thank you!
+10:59:15 From Tyrica Terry Kapral (she/her) To Everyone:
+	Reacted to "Will do! Thank you!" with 👍🏾
+11:00:07 From Paige Morfitt To Everyone:
+	But the prettiest bridges!
+11:00:22 From Tyrica Terry Kapral (she/her) To Everyone:
+	Reacted to "But the prettiest br..." with 💕
