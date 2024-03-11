@@ -1,0 +1,80 @@
+12:00:31 From Paige Morfitt to Everyone:
+	Agenda! https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2024/2024-03-11.md
+12:01:06 From Natalie Baur to Everyone:
+	Hi all! I'm going to be off video today
+12:01:16 From Natalie Baur to Everyone:
+	Hi Chris!
+12:02:44 From Paige Morfitt to Everyone:
+	Agenda! https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2024/2024-03-11.md
+12:04:48 From Natalie Baur to Everyone:
+	Wanted to give a shout out to my colleague at Iowa who's here on the call too, Jenny  Bradshaw. The more the merrier
+12:05:01 From Paige Morfitt to Everyone:
+	Yes! Welcome Jenny!
+12:05:13 From Jenny Bradshaw (she/her) to Everyone:
+	Hello!
+12:05:39 From Nicole Scalessa to Everyone:
+	I have Groot in the middle of a large pot of succulents on my work desk. He dances when you wind him up.
+12:05:44 From Chris Day to Everyone:
+	Reacted to "I have Groot in the ..." with ❤️
+12:05:46 From Paige Morfitt to Everyone:
+	Reacted to "I have Groot in the ..." with ❤️
+12:05:55 From Bolam, Michael R to Everyone:
+	Reacted to "I have Groot in the ..." with ❤️
+12:16:51 From Angelina Crowe to Everyone:
+	Reacted to "I have Groot in the ..." with ❤️
+12:17:04 From rosie le faive (they/she) to Everyone:
+	Reacted to "I have Groot in the ..." with ❤️
+12:18:44 From Jenny Bradshaw (she/her) to Everyone:
+	This sounds really useful.
+12:19:17 From Chris Day to Everyone:
+	https://docs.google.com/spreadsheets/d/1N37GSwiDl_DSH9-n3BhWLUtjZohOg2udGJJlnZ8BmWQ/edit?usp=sharing
+12:19:51 From rosie le faive (they/she) to Everyone:
+	Thank you Chris! Wonderful work!
+12:22:22 From Paige Morfitt to Everyone:
+	I will do that when I add the notes up!
+12:22:35 From rosie le faive (they/she) to Everyone:
+	Replying to "I will do that when ..."
+	
+	Thank you!
+12:23:14 From Angelina Crowe to Everyone:
+	Reacted to "Thank you Chris! Won..." with 👍
+12:30:12 From rosie le faive (they/she) to Everyone:
+	https://docs.google.com/spreadsheets/d/18u2qFJ014IIxlVpM3JXfDEFccwBZcoFsjbBGpvL0jJI/edit#gid=0
+12:35:30 From Paige Morfitt to Everyone:
+	Lovely!
+12:42:07 From rosie le faive to Everyone:
+	Is anyone migrating from MARC?
+12:45:59 From rosie le faive to Everyone:
+	Lol hear hear. I filed for a change, I don’t think It’s gone through yet
+12:46:30 From Nicole Scalessa to Everyone:
+	This may have some useful information. It looks like it has been kept up to date. This is from my previous employer, we had to transform Marc to mods in our i7 DL launched in 2018. https://github.com/librarycompany/agile_lcp
+12:46:50 From Chris Day to Everyone:
+	Reacted to "This may have some u..." with 👍
+12:47:23 From rosie le faive to Everyone:
+	Reacted to "This may have some u..." with 👍
+12:48:07 From rosie le faive to Everyone:
+	I hear you. We made some Bad Decisions and also have thousands of fields.
+12:49:55 From Paige Morfitt to Everyone:
+	We'll have to look into that.
+12:51:03 From Paige Morfitt to Everyone:
+	That's the piece we really want, cuz we're always editing records and it's hard to track in Islandora
+12:52:12 From Paige Morfitt to Everyone:
+	When it comes to Alma, there are always problems.
+12:52:53 From Bolam, Michael R to Everyone:
+	Reacted to "When it comes to Alm..." with 👆🏻
+12:53:34 From Nicole Scalessa to Everyone:
+	Do you mean like what Wikidata is doing?
+12:54:49 From Natalie Baur to Everyone:
+	https://en.wikipedia.org/wiki/SNAC?wprov=sfla1
+12:55:22 From Nicole Scalessa to Everyone:
+	We started with SNAC but are focusing more on Wikidata now
+12:55:35 From Paige Morfitt to Everyone:
+	It kind of sounds like Historic Pittsburgh.
+12:56:20 From Nicole Scalessa to Everyone:
+	https://www.wikidata.org/wiki/Wikidata:Introduction
+12:58:14 From Paige Morfitt to Everyone:
+	I'd like to know more.
+13:03:15 From Jenny Bradshaw (she/her) to Everyone:
+	I've got another meeting. Thanks for everything.
+13:03:43 From Natalie Baur to Everyone:
+	Would love to hear more! Must go now, thanks all
