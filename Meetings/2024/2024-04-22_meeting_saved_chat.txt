@@ -1,0 +1,22 @@
+12:01:00 From Paige Morfitt to Everyone:
+	The moon?
+12:01:37 From Rosie Le Faive (they/she) to Everyone:
+	https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2024/2024-04-22.md
+12:02:18 From Terry Kapral, Tyrica Jy'nae to Everyone:
+	Ok great, forgot to get water.
+12:02:56 From Paige Morfitt to Everyone:
+	Nice and sunny  here! Though windy (which is why my camera is off)
+12:04:22 From Terry Kapral, Tyrica Jy'nae to Everyone:
+	Back
+12:05:16 From Rosie Le Faive (they/she) to Everyone:
+	https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2024/2024-04-22.md
+12:10:22 From Paige Morfitt to Everyone:
+	I was just going to ask if you could do that! We're interested to see if we should start going
+12:22:21 From Paige Morfitt to Everyone:
+	https://mjordan.github.io/islandora_workbench_docs/
+12:29:25 From Terry Kapral, Tyrica Jy'nae to Everyone:
+	Thanks, Chris!
+12:34:42 From Nicole Scalessa to Everyone:
+	The OAI-PMH issues with using paragraphs is really interesting. We are looking into using OAI-PMH to harvest some collections into our PrimoVE.
+12:51:59 From Paige Morfitt to Everyone:
+	Thank you!!
