@@ -1,0 +1,34 @@
+10:01:08 From Paige Morfitt (Whitman College, she/her) to Everyone:
+	Agenda: https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2024/2024-07-15.md
+10:03:30 From Rosie Le Faive (they/she) to Everyone:
+	https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2024/2024-07-15.md
+10:05:28 From Rosie Le Faive (they/she) to Everyone:
+	https://docs.google.com/presentation/d/1yZ5sYBjFyyFN1Iafu5NCFYS1OUd1olu7m5D-ua9bN6c/edit#slide=id.g239b2ded049_0_138
+10:09:03 From Paige Morfitt (Whitman College, she/her) to Everyone:
+	SuDoc is government classification. Swank is a publication (Swank videos)
+10:09:07 From Paige Morfitt (Whitman College, she/her) to Everyone:
+	I think
+10:19:23 From Terry Kapral, Tyrica Jy'nae to Everyone:
+	Drawing blaaanks...
+10:21:41 From Bolam, Michael R to Everyone:
+	Awkward silence worked on me! :)
+10:21:48 From Terry Kapral, Tyrica Jy'nae to Everyone:
+	Reacted to "Awkward silence work..." with 😆
+10:22:10 From Rosie Le Faive (they/she) to Everyone:
+	https://docs.google.com/document/d/1cfPYFVV9qvvz2VjBRdYUN0CB7AyVDuG-GYavQ27DuBk/edit#heading=h.9fr9xw70meix
+10:30:01 From Paige Morfitt (Whitman College, she/her) to Everyone:
+	This is what the internet gave me "a variable that belongs to a specific instance of a class"
+10:30:39 From Paige Morfitt (Whitman College, she/her) to Everyone:
+	Instance fields are used to store data that is unique to each object and define the attributes or state for that instance.
+10:31:08 From Dani Kroon to Everyone:
+	I like that!
+10:32:10 From Paige Morfitt (Whitman College, she/her) to Everyone:
+	"a field configured to show up on a bundle"
+10:49:20 From Bolam, Michael R to Everyone:
+	https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2024/2024-07-15.md
+10:56:05 From Jenny Bradshaw (she/her) to Everyone:
+	+1 Michael
+10:56:57 From Paige Morfitt (Whitman College, she/her) to Everyone:
+	https://islandora.github.io/documentation/user-documentation/glossary/#weight
+10:57:48 From Jenny Bradshaw (she/her) to Everyone:
+	Thanks!
