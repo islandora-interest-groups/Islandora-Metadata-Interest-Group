@@ -1,0 +1,58 @@
+10:00:45 From Rosie Le Faive (they/she) to Everyone:
+	https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2024/2024-08-12.md
+10:01:22 From Tyrica Terry Kapral to Everyone:
+	Great! Enjoying the wonderful weather here in Pittsburgh!
+10:01:46 From Tracy Tolf (they/them) to Everyone:
+	Yay! No on fire Canada!!
+10:02:03 From Tyrica Terry Kapral to Everyone:
+	Reacted to "Yay! No on fire Cana..." with ❤️
+10:02:35 From Rosie Le Faive (they/she) to Everyone:
+	https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2024/2024-08-12.md
+10:03:24 From Rosie Le Faive (they/she) to Everyone:
+	https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2024/2024-08-12.md
+10:03:53 From Tracy Tolf (they/them) to Everyone:
+	I wish
+10:03:53 From Paige Morfitt to Everyone:
+	I wish!
+10:03:58 From Tyrica Terry Kapral to Everyone:
+	Same!
+10:07:22 From Tracy Tolf (they/them) to Everyone:
+	Happens to the best of us, Rosie!
+10:10:06 From Tracy Tolf (they/them) to Everyone:
+	Yes!
+10:10:59 From Dani Kroon to Everyone:
+	It would be helpful to know and can't hurt.
+10:21:47 From Tracy Tolf (they/them) to Everyone:
+	I'd say make it optional for now, I know we'll need to make it work with Workbench and our instance
+10:23:40 From Tracy Tolf (they/them) to Everyone:
+	Nope, but very exciting! :)
+10:34:45 From Paige Morfitt to Everyone:
+	Fingers crossed for no emojis in titles~
+10:34:58 From Tyrica Terry Kapral to Everyone:
+	Reacted to "Fingers crossed for ..." with 😆
+10:36:35 From Tracy Tolf (they/them) to Everyone:
+	Replying to "Fingers crossed for ..."
+	
+	Rika would hate emojis in titles
+10:36:42 From Seth Shaw to Everyone:
+	https://www.drupal.org/project/html_title
+10:36:52 From Tracy Tolf (they/them) to Everyone:
+	Reacted to "Fingers crossed for ..." with 😆
+10:37:02 From Paige Morfitt to Everyone:
+	Replying to "Fingers crossed for ..."
+	
+	I know! I always fear to mention it!
+10:53:40 From Rosie Le Faive (they/she) to Everyone:
+	https://docs.google.com/document/d/1cfPYFVV9qvvz2VjBRdYUN0CB7AyVDuG-GYavQ27DuBk/edit#heading=h.9fr9xw70meix
+10:54:13 From Rosie Le Faive (they/she) to Everyone:
+	https://islandora.github.io/documentation/user-documentation/glossary/
+10:55:49 From Tracy Tolf (they/them) to Everyone:
+	I must run to do an install but keep up the good work folks! :)
+10:55:57 From Paige Morfitt to Everyone:
+	Reacted to "I must run to do an ..." with 👍🏽
+10:57:05 From Tyrica Terry Kapral to Everyone:
+	Reacted to "I must run to do an ..." with 👍🏽
+11:00:06 From Seth Shaw to Everyone:
+	https://github.com/Islandora/islandora/blob/2.x/src/IslandoraUtils.php#L649-L658
+11:01:15 From Tyrica Terry Kapral to Everyone:
+	Have a great one, all!
