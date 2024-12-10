@@ -1,0 +1,24 @@
+10:01:06 From Paige Morfitt to Everyone:
+	agenda; https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/blob/main/Meetings/2024/2024-10-07.md
+10:02:01 From Paige Morfitt to Everyone:
+	Oh.. the Monday before elections in the US..
+10:11:27 From Paige Morfitt to Everyone:
+	thank you!
+10:12:12 From Dani Kroon to Everyone:
+	Islandora Quick Lesson: Batch Editing (youtube.com)
+10:12:19 From Dani Kroon to Everyone:
+	https://www.youtube.com/watch?v=qzmOclWR85k
+10:13:57 From Paige Morfitt to Dani Kroon(direct message):
+	Was this the question asking what each person can/can't do in islandora? like, I can't do workbench?
+10:14:52 From Dani Kroon to Paige Morfitt(direct message):
+	Reacted to "Was this the questio..." with 👍
+10:23:28 From Bolam, Michael R to Everyone:
+	https://www.youtube.com/watch?v=ZMp0lPelOZw
+10:27:24 From Seth Shaw to Everyone:
+	This *might* be it: https://www.drupal.org/project/views_entity_form_field
+10:39:46 From Paige Morfitt to Everyone:
+	That's true.. we migrated in 2020...seems like last year...
+10:45:38 From Paige Morfitt to Everyone:
+	We had to re-run ours cuz we didn't extract it
+10:47:57 From Paige Morfitt to Everyone:
+	Nov 3rd
