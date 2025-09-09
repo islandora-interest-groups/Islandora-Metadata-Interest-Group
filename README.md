@@ -1,23 +1,42 @@
-# Islandora-Metadata-Interest-Group
+# Islandora Metadata Committee
 
-## Conveners
+Formerly known as the Metadata Interest Group. 
+
+Meetings are open to all and are regularly held on the first Monday of the month, from 1-2 PM Eastern Time (North America). Meeting agendas can be found in the Meetings subdirectory of this repository. Updates (including changes to meeting times) can be found in Islandora's #metadata Slack channel or on the Islandora mailing list.
+
+## Membership
+
+Anyone in the Islandora Community is welcome to become a member of the Committee. Per the [under revision] Terms of Reference, membership will entail some responsibilities such as assisting with deliverables and attending meetings.
+
+### Chair / Representative to LG
+* Rosie Le Faive (University of Prince Edward Island)
+
+### Conveners
+
+* Dani Kroon (PALS)
+* Rosie Le Faive (University of Prince Edward Island)
+
+### Members
+
+* Tyrica Terry Kapral (University of Pittsburgh)
+
+### Conveners Emeriti (MIG)
 
 * Chris Day (discoverygarden)
 * Paige Morfitt (Whitman College)
-* Rosemary Le Faive (University of Prince Edward Island)
-
-### Emeritus conveners
 * Charlie Tillay (Tulane University)
 * Kristina Spurgin (LYRASIS)
 * Mike Bolam (University of Pittsburgh)
 
+
+## Key Documents
 ### MIG MODS to RDF  
 * [Working Documents](https://github.com/islandora-interest-groups/Islandora-Metadata-Interest-Group/wiki/MIG-MODS-to-RDF-Working-Documents)  
 * While the MIG is working on MODS to RDF, meetings occur every other week on Monday from 1 to 2pm EST.
 
 ### [Shared Documents (Google Drive)](https://drive.google.com/drive/u/0/folders/1kTAHFcjNnipXHYQSkwgoQsgBPLYBm_1y)
 
-## Terms of reference
+## Terms of reference [under revision]
 
 * The name of the interest group is the Islandora Metadata Interest Group (IMIG)
 
@@ -47,7 +66,4 @@
  
  * The convener(s) will report to the Islandora Roadmap Committee following the IMIG's meeting.
 
-## Become a Participant
-
-The group is open to anyone interested in participating. Meetings are currently held every other Monday, 1-2 PM Eastern Time (North America). Link to dates, agenda items, and call information will be in the Meetings subdirectory of this repository, for the appropriate meeting document.
 
