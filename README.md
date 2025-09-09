@@ -1,8 +1,8 @@
 # Islandora Metadata Committee
 
-Formerly known as the Metadata Interest Group. 
+_Formerly known as the Metadata Interest Group._
 
-Meetings are open to all and are regularly held on the first Monday of the month, from 1-2 PM Eastern Time (North America). Meeting agendas can be found in the Meetings subdirectory of this repository. Updates (including changes to meeting times) can be found in Islandora's #metadata Slack channel or on the Islandora mailing list.
+Meetings are open to all and are regularly held on the __first Monday of the month, from 1-2 PM Eastern Time__ (North America). Meeting agendas can be found in the [Meetings](https://github.com/islandora-interest-groups/Islandora-Metadata-Committee/tree/main/Meetings) subdirectory of this repository. Updates (including changes to meeting times) can be found in Islandora's `#metadata` Slack channel or on the [Islandora mailing list](https://groups.google.com/g/islandora).
 
 ## Membership
 
